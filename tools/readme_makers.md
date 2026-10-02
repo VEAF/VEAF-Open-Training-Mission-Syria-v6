@@ -54,3 +54,7 @@ poetry -C ..\VEAF-Mission-Creation-Tools run python "$PWD\tools\verify.py"      
 - Les portées utilisées pour le contrôle des défenses sont le `ThreatRange` de DCS (dump de la base d'unités du 16/11/2025).
 - Les missions scénarisées n'ont pas de condition de réussite ou d'échec (le YAML ne sait pas en porter).
 - Le menu F10 *Assets* montre aux deux camps les actifs des deux camps.
+- Codes laser des drones : CTLD ne retire pas de sa plage un code imposé et annonce une fréquence calculée depuis le code,
+  pas celle d'ASSETS (correction en cours dans VMCT). D'où `jtacLaserCodeMax: 1686` dans `ctld-config.yaml` (le modèle
+  `veafSpawn-MQ9 - AFAC - JTAC - DRONE` prend 1686) et des Reaper en bas de plage, 1511 et 1512, sur la fréquence que
+  CTLD en déduit (35.55 et 35.6 FM).

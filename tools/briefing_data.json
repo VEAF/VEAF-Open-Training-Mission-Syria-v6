@@ -2129,8 +2129,8 @@
    "name": "Reaper 1",
    "type": "MQ-9 Reaper",
    "where": "Ceyhan",
-   "jtac": 1688,
-   "freq": "36.0",
+   "jtac": 1511,
+   "freq": "35.55",
    "mod": "FM",
    "be": "346°/141 nm",
    "ddm": "N36°59.801' E035°56.746'"
@@ -2139,8 +2139,8 @@
    "name": "Reaper 2",
    "type": "MQ-9 Reaper",
    "where": "Akamas",
-   "jtac": 1687,
-   "freq": "37.0",
+   "jtac": 1512,
+   "freq": "35.6",
    "mod": "FM",
    "be": "277°/218 nm",
    "ddm": "N35°00.082' E032°19.364'"

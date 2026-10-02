@@ -79,8 +79,8 @@ En Méditerranée orientale, au large du Liban. Slots à froid sur le pont. Le m
 
 | Drone | Appareil | Au-dessus de | Code laser | Radio | Hauteur | Bullseye |
 |---|---|---|---|---|---|---|
-| **Reaper 1** | MQ-9 Reaper | Ceyhan | `1688` | `36.0 FM` | `3 000 m sol` | `346°/141 nm` |
-| **Reaper 2** | MQ-9 Reaper | Akamas | `1687` | `37.0 FM` | `3 000 m sol` | `277°/218 nm` |
+| **Reaper 1** | MQ-9 Reaper | Ceyhan | `1511` | `35.55 FM` | `3 000 m sol` | `346°/141 nm` |
+| **Reaper 2** | MQ-9 Reaper | Akamas | `1512` | `35.6 FM` | `3 000 m sol` | `277°/218 nm` |
 
 Un drone tourne au-dessus des zones d'entraînement hélicoptères (Ceyhan) et attaque (Akamas), et désigne au laser ce qu'il voit. CTLD le maintient à 3 000 m sol : au niveau difficile, l'artillerie antiaérienne lourde de la zone peut l'abattre, et le menu F10 *Assets* le remet en vol. Il ne désigne que des véhicules — ce que sont aussi les cibles des niveaux faciles — et ne marque qu'à 10 km. Pas de drone sur la zone SEAD de Karpas : ses SAM portent plus loin que le laser.
 
@@ -494,4 +494,8 @@ poetry -C ..\VEAF-Mission-Creation-Tools run python "$PWD\tools\verify.py"      
 - Les portées utilisées pour le contrôle des défenses sont le `ThreatRange` de DCS (dump de la base d'unités du 16/11/2025).
 - Les missions scénarisées n'ont pas de condition de réussite ou d'échec (le YAML ne sait pas en porter).
 - Le menu F10 *Assets* montre aux deux camps les actifs des deux camps.
+- Codes laser des drones : CTLD ne retire pas de sa plage un code imposé et annonce une fréquence calculée depuis le code,
+  pas celle d'ASSETS (correction en cours dans VMCT). D'où `jtacLaserCodeMax: 1686` dans `ctld-config.yaml` (le modèle
+  `veafSpawn-MQ9 - AFAC - JTAC - DRONE` prend 1686) et des Reaper en bas de plage, 1511 et 1512, sur la fréquence que
+  CTLD en déduit (35.55 et 35.6 FM).
 

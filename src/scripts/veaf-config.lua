@@ -8,12 +8,15 @@
 veaf.config.MISSION_NAME = "VEAF_OpenTraining_Syria_ICAO_LTAG"
 veaf.config.era = veaf.ERA.MODERN
 veaf.silenceAtcOnAllAirbases()
-veaf.HideNamesFromSpawnedGroups = true
+veaf.HideNamesFromSpawnedGroups = false
 
 veaf.config.language = "fr"
 
+-- ── Security ─────────────────────────────────────────────────────────────────
+veaf.SecurityDisabled = true
+
 -- ── Global log level ─────────────────────────────────────────────────────────
-veaf.ForcedLogLevel = "info"
+veaf.ForcedLogLevel = "debug"
 
 -- ── CTLD 2 ───────────────────────────────────────────────────────────────────
 -- Configuration lives in ctld-config.yaml (edit it with ctld-tools); this only starts it.
@@ -487,8 +490,8 @@ if veafAssets then
         {sort = 13, name = "Wizard 1", description = "Wizard 1 (A-50) — AWACS rouge", information = "U282.0 — FL300 — orbite entre Hama et Tabqa", linked = "Wizard 1 - Escort"},
         {sort = 14, name = "Shell 1", description = "Shell 1 (IL-78M) — ravitailleur rouge", information = "U294.0 — FL200 — orbite entre T4 et Palmyre", linked = "Shell 1 - Escort"},
         {sort = 15, name = "Focus 1", description = "Focus 1 (A-50) — AWACS rouge de l'arène", information = "U284.0 — FL300"},
-        {sort = 16, name = "Reaper 1", description = "Reaper 1 (drone laser) — Ceyhan", information = "Laser 1688 — FM 36.0. 3 000 m sol au-dessus de la zone H ; l'AAA du niveau difficile peut l'abattre : le relancer ici.", jtac = 1688, freq = "36.0", mod = "FM"},
-        {sort = 17, name = "Reaper 2", description = "Reaper 2 (drone laser) — Akamas", information = "Laser 1687 — FM 37.0. 3 000 m sol au-dessus de la zone A ; au niveau difficile, le SA-8 porte un peu au-delà des 10 km de marquage.", jtac = 1687, freq = "37.0", mod = "FM"},
+        {sort = 16, name = "Reaper 1", description = "Reaper 1 (drone laser) — Ceyhan", information = "Laser 1511 — FM 35.55. 3 000 m sol au-dessus de la zone H ; l'AAA du niveau difficile peut l'abattre : le relancer ici.", jtac = 1511, freq = "35.55", mod = "FM"},
+        {sort = 17, name = "Reaper 2", description = "Reaper 2 (drone laser) — Akamas", information = "Laser 1512 — FM 35.6. 3 000 m sol au-dessus de la zone A ; au niveau difficile, le SA-8 porte un peu au-delà des 10 km de marquage.", jtac = 1512, freq = "35.6", mod = "FM"},
     }
     veafAssets.initialize()
 end

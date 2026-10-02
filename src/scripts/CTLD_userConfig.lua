@@ -940,7 +940,7 @@ advanced:
   CIV_WEIGHT: 2
   JTAC_WEIGHT: 15
   JTAC_droneAltitude: 3000
-  jtacLaserCodeMax: 1688
+  jtacLaserCodeMax: 1686
   jtacLaserCodeMin: 1111
   JTAC_droneRadiusNoLase: 2000
   JTAC_droneRadiusOnLase: 1000
