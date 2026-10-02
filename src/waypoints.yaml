@@ -1,0 +1,123 @@
+# Plans de vol injectés dans les groupes d'aéronefs joueurs (Open Training Syrie).
+# BULLSEYE = Homs, le même pour les deux camps (le build le recale sur le bullseye de la mission).
+# TX1/AR1/TX2/AR2 = début de piste des ravitailleurs bleus ; SH1 = ravitailleur rouge ; FARP_* = FARP bleus.
+waypoints:
+  BULLSEYE:
+    type: Turning Point
+    action: Turning Point
+    alt: 6096
+    alt_type: BARO
+    speed: 180.1
+    speed_type: TAS
+    x: -34286
+    y: 73078
+    name: BULLSEYE
+  TX1:
+    type: Turning Point
+    action: Turning Point
+    alt: 6706
+    alt_type: BARO
+    speed: 154.3
+    speed_type: TAS
+    x: 245000
+    y: 40000
+    name: TX1
+  AR1:
+    type: Turning Point
+    action: Turning Point
+    alt: 5486
+    alt_type: BARO
+    speed: 144.0
+    speed_type: TAS
+    x: 205000
+    y: -95000
+    name: AR1
+  TX2:
+    type: Turning Point
+    action: Turning Point
+    alt: 7315
+    alt_type: BARO
+    speed: 154.3
+    speed_type: TAS
+    x: -360000
+    y: 60000
+    name: TX2
+  AR2:
+    type: Turning Point
+    action: Turning Point
+    alt: 6096
+    alt_type: BARO
+    speed: 144.0
+    speed_type: TAS
+    x: -280000
+    y: -110000
+    name: AR2
+  SH1:
+    type: Turning Point
+    action: Turning Point
+    alt: 6096
+    alt_type: BARO
+    speed: 154.3
+    speed_type: TAS
+    x: -40000
+    y: 170000
+    name: SH1
+  FARP_REY:
+    type: Turning Point
+    action: Turning Point
+    alt: 152
+    alt_type: BARO
+    speed: 46.3
+    speed_type: TAS
+    x: 136000
+    y: 61500
+    name: FARP_REY
+  FARP_GOL:
+    type: Turning Point
+    action: Turning Point
+    alt: 152
+    alt_type: BARO
+    speed: 46.3
+    speed_type: TAS
+    x: -225500
+    y: -28500
+    name: FARP_GOL
+  FARP_CEY:
+    type: Turning Point
+    action: Turning Point
+    alt: 152
+    alt_type: BARO
+    speed: 46.3
+    speed_type: TAS
+    x: 221000
+    y: 2500
+    name: FARP_CEY
+settings:
+  avions_bleus:
+    category: plane
+    coalition: blue
+    waypoints:
+      BULLSEYE: BULLSEYE
+      TX1: TX1
+      AR1: AR1
+      TX2: TX2
+      AR2: AR2
+  helicos_bleus:
+    category: helicopter
+    coalition: blue
+    waypoints:
+      BULLSEYE: BULLSEYE
+      FARP_REY: FARP_REY
+      FARP_GOL: FARP_GOL
+      FARP_CEY: FARP_CEY
+  avions_rouges:
+    category: plane
+    coalition: red
+    waypoints:
+      BULLSEYE: BULLSEYE
+      SH1: SH1
+  helicos_rouges:
+    category: helicopter
+    coalition: red
+    waypoints:
+      BULLSEYE: BULLSEYE

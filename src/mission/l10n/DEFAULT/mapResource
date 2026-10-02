@@ -1,0 +1,13 @@
+mapResource = 
+{
+  ResKey_ImageBriefing_carte = "carte.jpg",
+  ResKey_ImageBriefing_carte_01_cilicie = "carte_01_cilicie.jpg",
+  ResKey_ImageBriefing_carte_02_front_nord = "carte_02_front_nord.jpg",
+  ResKey_ImageBriefing_carte_03_cote = "carte_03_cote.jpg",
+  ResKey_ImageBriefing_carte_04_centre = "carte_04_centre.jpg",
+  ResKey_ImageBriefing_carte_05_euphrate = "carte_05_euphrate.jpg",
+  ResKey_ImageBriefing_carte_06_front_sud = "carte_06_front_sud.jpg",
+  ResKey_ImageBriefing_carte_07_jordanie = "carte_07_jordanie.jpg",
+  ResKey_ImageBriefing_carte_08_chypre = "carte_08_chypre.jpg",
+  ResKey_ImageBriefing_carte_09_arene = "carte_09_arene.jpg",
+}

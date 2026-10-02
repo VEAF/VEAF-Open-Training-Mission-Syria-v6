@@ -1,0 +1,59 @@
+# Variantes météo et horaires de l'Open Training Syrie (une .miz par entrée).
+# Réel = METAR d'Incirlik (LTAG) récupéré au build ; dégagé = même météo plafonnée VFR (clearsky) ;
+# épars / pluie = météo manuelle. Le profil LOCAL_TEST de mission.yaml coupe ce pipeline.
+# Épars / pluie : METAR synthétique (cohérent avec la météo voulue) pour que ${METAR} du briefing ait une valeur.
+position:
+  latitude: 36.994254
+  longitude: 35.412713
+  timezone: Europe/Istanbul
+base_date: '2017-06-15'
+versions:
+- name: night-real
+  time: 02:00
+  airport_icao: LTAG
+- name: dawn-real
+  time: sunrise-15*60
+  airport_icao: LTAG
+- name: dawn-real-clear
+  time: sunrise-15*60
+  airport_icao: LTAG
+  clearsky: true
+- name: dawn-scattered
+  time: sunrise-15*60
+  metar: METAR LTAG 150900Z 25010KT 9999 SCT080 26/12 Q1013
+- name: dawn-rain
+  time: sunrise-15*60
+  metar: METAR LTAG 150900Z 23016KT 8000 RA OVC040 19/15 Q1008
+- name: morning-real
+  time: sunrise+60*60
+  airport_icao: LTAG
+- name: morning-real-clear
+  time: sunrise+60*60
+  airport_icao: LTAG
+  clearsky: true
+- name: morning-scattered
+  time: sunrise+60*60
+  metar: METAR LTAG 150900Z 25010KT 9999 SCT080 26/12 Q1013
+- name: morning-rain
+  time: sunrise+60*60
+  metar: METAR LTAG 150900Z 23016KT 8000 RA OVC040 19/15 Q1008
+- name: day-real
+  time: '13:00'
+  airport_icao: LTAG
+- name: day-real-clear
+  time: '13:00'
+  airport_icao: LTAG
+  clearsky: true
+- name: day-scattered
+  time: '13:00'
+  metar: METAR LTAG 150900Z 25010KT 9999 SCT080 26/12 Q1013
+- name: day-rain
+  time: '13:00'
+  metar: METAR LTAG 150900Z 23016KT 8000 RA OVC040 19/15 Q1008
+- name: evening-real
+  time: sunset-45*60
+  airport_icao: LTAG
+- name: evening-real-clear
+  time: sunset-45*60
+  airport_icao: LTAG
+  clearsky: true
