@@ -2549,13 +2549,13 @@
    "name": "dawn-scattered",
    "time": "sunrise-15*60",
    "kind": "manuelle",
-   "metar": "METAR LTAG 150900Z 25010KT 9999 SCT080 26/12 Q1013"
+   "metar": null
   },
   {
    "name": "dawn-rain",
    "time": "sunrise-15*60",
    "kind": "manuelle",
-   "metar": "METAR LTAG 150900Z 23016KT 8000 RA OVC040 19/15 Q1008"
+   "metar": null
   },
   {
    "name": "morning-real",
@@ -2573,13 +2573,13 @@
    "name": "morning-scattered",
    "time": "sunrise+60*60",
    "kind": "manuelle",
-   "metar": "METAR LTAG 150900Z 25010KT 9999 SCT080 26/12 Q1013"
+   "metar": null
   },
   {
    "name": "morning-rain",
    "time": "sunrise+60*60",
    "kind": "manuelle",
-   "metar": "METAR LTAG 150900Z 23016KT 8000 RA OVC040 19/15 Q1008"
+   "metar": null
   },
   {
    "name": "day-real",
@@ -2597,13 +2597,13 @@
    "name": "day-scattered",
    "time": "13:00",
    "kind": "manuelle",
-   "metar": "METAR LTAG 150900Z 25010KT 9999 SCT080 26/12 Q1013"
+   "metar": null
   },
   {
    "name": "day-rain",
    "time": "13:00",
    "kind": "manuelle",
-   "metar": "METAR LTAG 150900Z 23016KT 8000 RA OVC040 19/15 Q1008"
+   "metar": null
   },
   {
    "name": "evening-real",

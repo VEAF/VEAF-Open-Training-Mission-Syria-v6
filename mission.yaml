@@ -126,74 +126,90 @@ modules:
     - sort: 1
       name: Overlord 1
       description: Overlord 1 (E-3A) — AWACS nord
+      coalition: BLUE
       information: U280.0 — FL300 — orbite au nord-est de Gaziantep
       linked: Overlord 1 - Escort
     - sort: 2
       name: Magic 1
       description: Magic 1 (E-3A) — AWACS sud
+      coalition: BLUE
       information: U281.0 — FL310 — orbite au sud de la Jordanie
       linked: Magic 1 - Escort
     - sort: 3
       name: Texaco 1
       description: Texaco 1 (KC-135, perche) — nord
+      coalition: BLUE
       information: TACAN 50Y TX1 — U290.0 — FL220 — piste Osmaniye-Gaziantep
       linked: Texaco 1 - Escort
     - sort: 4
       name: Arco 1
       description: Arco 1 (KC-135 MPRS, panier) — nord
+      coalition: BLUE
       information: TACAN 51Y AR1 — U291.0 — FL180 — piste baie d'Adana
       linked: Arco 1 - Escort
     - sort: 5
       name: Texaco 2
       description: Texaco 2 (KC-135, perche) — sud
+      coalition: BLUE
       information: TACAN 52Y TX2 — U292.0 — FL240 — piste désert jordanien
       linked: Texaco 2 - Escort
     - sort: 6
       name: Arco 2
       description: Arco 2 (KC-135 MPRS, panier) — sud
+      coalition: BLUE
       information: TACAN 53Y AR2 — U293.0 — FL200 — piste côte israélienne
       linked: Arco 2 - Escort
     - sort: 7
       name: CSG-74 Stennis
       description: CVN-74 Stennis
+      coalition: BLUE
       information: TACAN 74X STN — ICLS 11 — Link 4 336.0 — ACLS — U305.0
     - sort: 8
       name: CSG-71 Roosevelt
       description: CVN-71 Roosevelt
+      coalition: BLUE
       information: TACAN 71X RSV — ICLS 12 — Link 4 337.0 — ACLS — U306.0
     - sort: 9
       name: ARG-1 Tarawa
       description: LHA-1 Tarawa
+      coalition: BLUE
       information: TACAN 73X TRW — ICLS 13 — U307.0
     - sort: 10
       name: CVN-74 Stennis S3B-Tanker
       description: S-3B Stennis (ravitailleur embarqué)
+      coalition: BLUE
       information: TACAN 55Y S74 — U295.0
     - sort: 11
       name: CVN-71 Roosevelt S3B-Tanker
       description: S-3B Roosevelt (ravitailleur embarqué)
+      coalition: BLUE
       information: TACAN 56Y S71 — U296.0
     - sort: 12
       name: Darkstar 1
       description: Darkstar 1 (E-3A) — AWACS de l'arène
+      coalition: BLUE
       information: U283.0 — FL300
     - sort: 13
       name: Wizard 1
       description: Wizard 1 (A-50) — AWACS rouge
+      coalition: RED
       information: U282.0 — FL300 — orbite entre Hama et Tabqa
       linked: Wizard 1 - Escort
     - sort: 14
       name: Shell 1
       description: Shell 1 (IL-78M) — ravitailleur rouge
+      coalition: RED
       information: U294.0 — FL200 — orbite entre T4 et Palmyre
       linked: Shell 1 - Escort
     - sort: 15
       name: Focus 1
       description: Focus 1 (A-50) — AWACS rouge de l'arène
+      coalition: RED
       information: U284.0 — FL300
     - sort: 16
       name: Reaper 1
       description: Reaper 1 (drone laser) — Ceyhan
+      coalition: BLUE
       information: "Laser 1511 — FM 35.55. 3 000 m sol au-dessus de la zone H ; l'AAA du niveau difficile peut l'abattre : le relancer ici."
       jtac: 1511
       freq: "35.55"
@@ -201,6 +217,7 @@ modules:
     - sort: 17
       name: Reaper 2
       description: Reaper 2 (drone laser) — Akamas
+      coalition: BLUE
       information: "Laser 1512 — FM 35.6. 3 000 m sol au-dessus de la zone A ; au niveau difficile, le SA-8 porte un peu au-delà des 10 km de marquage."
       jtac: 1512
       freq: "35.6"

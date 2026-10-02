@@ -1,7 +1,7 @@
 # Variantes météo et horaires de l'Open Training Syrie (une .miz par entrée).
 # Réel = METAR d'Incirlik (LTAG) récupéré au build ; dégagé = même météo plafonnée VFR (clearsky) ;
 # épars / pluie = météo manuelle. Le profil LOCAL_TEST de mission.yaml coupe ce pipeline.
-# Épars / pluie : METAR synthétique (cohérent avec la météo voulue) pour que ${METAR} du briefing ait une valeur.
+# Épars / pluie : météo manuelle ; le build en compose le ${METAR} du briefing, daté de l'heure de la variante.
 position:
   latitude: 36.994254
   longitude: 35.412713
@@ -20,10 +20,10 @@ versions:
   clearsky: true
 - name: dawn-scattered
   time: sunrise-15*60
-  metar: METAR LTAG 150900Z 25010KT 9999 SCT080 26/12 Q1013
+  weather: {temperature: 26, wind_speed: 5.1, wind_direction: 250, visibility: 9999, cloud_type: scattered, cloud_height: 2440, fog_enabled: false}
 - name: dawn-rain
   time: sunrise-15*60
-  metar: METAR LTAG 150900Z 23016KT 8000 RA OVC040 19/15 Q1008
+  weather: {temperature: 19, wind_speed: 8.2, wind_direction: 230, visibility: 8000, cloud_type: overcast, cloud_height: 1220, fog_enabled: false, precipitation: true}
 - name: morning-real
   time: sunrise+60*60
   airport_icao: LTAG
@@ -33,10 +33,10 @@ versions:
   clearsky: true
 - name: morning-scattered
   time: sunrise+60*60
-  metar: METAR LTAG 150900Z 25010KT 9999 SCT080 26/12 Q1013
+  weather: {temperature: 26, wind_speed: 5.1, wind_direction: 250, visibility: 9999, cloud_type: scattered, cloud_height: 2440, fog_enabled: false}
 - name: morning-rain
   time: sunrise+60*60
-  metar: METAR LTAG 150900Z 23016KT 8000 RA OVC040 19/15 Q1008
+  weather: {temperature: 19, wind_speed: 8.2, wind_direction: 230, visibility: 8000, cloud_type: overcast, cloud_height: 1220, fog_enabled: false, precipitation: true}
 - name: day-real
   time: '13:00'
   airport_icao: LTAG
@@ -46,10 +46,10 @@ versions:
   clearsky: true
 - name: day-scattered
   time: '13:00'
-  metar: METAR LTAG 150900Z 25010KT 9999 SCT080 26/12 Q1013
+  weather: {temperature: 26, wind_speed: 5.1, wind_direction: 250, visibility: 9999, cloud_type: scattered, cloud_height: 2440, fog_enabled: false}
 - name: day-rain
   time: '13:00'
-  metar: METAR LTAG 150900Z 23016KT 8000 RA OVC040 19/15 Q1008
+  weather: {temperature: 19, wind_speed: 8.2, wind_direction: 230, visibility: 8000, cloud_type: overcast, cloud_height: 1220, fog_enabled: false, precipitation: true}
 - name: evening-real
   time: sunset-45*60
   airport_icao: LTAG

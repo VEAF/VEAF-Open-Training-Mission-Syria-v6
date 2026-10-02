@@ -415,16 +415,16 @@ Préréglages injectés dans les appareils à radio programmable. FM : canaux 1 
 | `night-real` | `02:00` | réelle (LTAG) | — |
 | `dawn-real` | `sunrise-15*60` | réelle (LTAG) | — |
 | `dawn-real-clear` | `sunrise-15*60` | réelle (LTAG), plafonnée VFR | — |
-| `dawn-scattered` | `sunrise-15*60` | manuelle | `METAR LTAG 150900Z 25010KT 9999 SCT080 26/12 Q1013` |
-| `dawn-rain` | `sunrise-15*60` | manuelle | `METAR LTAG 150900Z 23016KT 8000 RA OVC040 19/15 Q1008` |
+| `dawn-scattered` | `sunrise-15*60` | manuelle | — |
+| `dawn-rain` | `sunrise-15*60` | manuelle | — |
 | `morning-real` | `sunrise+60*60` | réelle (LTAG) | — |
 | `morning-real-clear` | `sunrise+60*60` | réelle (LTAG), plafonnée VFR | — |
-| `morning-scattered` | `sunrise+60*60` | manuelle | `METAR LTAG 150900Z 25010KT 9999 SCT080 26/12 Q1013` |
-| `morning-rain` | `sunrise+60*60` | manuelle | `METAR LTAG 150900Z 23016KT 8000 RA OVC040 19/15 Q1008` |
+| `morning-scattered` | `sunrise+60*60` | manuelle | — |
+| `morning-rain` | `sunrise+60*60` | manuelle | — |
 | `day-real` | `13:00` | réelle (LTAG) | — |
 | `day-real-clear` | `13:00` | réelle (LTAG), plafonnée VFR | — |
-| `day-scattered` | `13:00` | manuelle | `METAR LTAG 150900Z 25010KT 9999 SCT080 26/12 Q1013` |
-| `day-rain` | `13:00` | manuelle | `METAR LTAG 150900Z 23016KT 8000 RA OVC040 19/15 Q1008` |
+| `day-scattered` | `13:00` | manuelle | — |
+| `day-rain` | `13:00` | manuelle | — |
 | `evening-real` | `sunset-45*60` | réelle (LTAG) | — |
 | `evening-real-clear` | `sunset-45*60` | réelle (LTAG), plafonnée VFR | — |
 
@@ -493,7 +493,6 @@ poetry -C ..\VEAF-Mission-Creation-Tools run python "$PWD\tools\verify.py"      
   de terrain dégagé n'existe pour la Syrie. À vérifier en jeu, comme les dessins F10 et l'aspect du ciel.
 - Les portées utilisées pour le contrôle des défenses sont le `ThreatRange` de DCS (dump de la base d'unités du 16/11/2025).
 - Les missions scénarisées n'ont pas de condition de réussite ou d'échec (le YAML ne sait pas en porter).
-- Le menu F10 *Assets* montre aux deux camps les actifs des deux camps.
 - Codes laser des drones : CTLD ne retire pas de sa plage un code imposé et annonce une fréquence calculée depuis le code,
   pas celle d'ASSETS (correction en cours dans VMCT). D'où `jtacLaserCodeMax: 1686` dans `ctld-config.yaml` (le modèle
   `veafSpawn-MQ9 - AFAC - JTAC - DRONE` prend 1686) et des Reaper en bas de plage, 1511 et 1512, sur la fréquence que
