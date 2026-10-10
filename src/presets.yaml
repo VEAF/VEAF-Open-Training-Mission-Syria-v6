@@ -25,9 +25,9 @@ channel_lists:
       15: Base-Ramat David
       16: Base-Tel Nof
       17: Base-Muwaffaq Salti
-      18: Base-King Hussein Air College
-      19: Base-Akrotiri
-      20: Base-At Tanf
+      18: S3B-Stennis
+      19: S3B-Roosevelt
+      20: Darkstar-1
     primary_2:
       1:
         title: Guard/VHF
@@ -42,9 +42,9 @@ channel_lists:
       9: Bengal
       10: Blade
       11: Gordon
-      12: S3B-Stennis
-      13: S3B-Roosevelt
-      14: Darkstar-1
+      12: Base-King Hussein Air College
+      13: Base-Akrotiri
+      14: Base-At Tanf
       15: FARP-Reyhanli
       16: FARP-Golan
       17: FARP-Ceyhan
