@@ -251,9 +251,13 @@ w("")
 for sd in ("blue", "red"):
     rows = []
     for role, title in (("primary_1", "Radio 1 (UHF)"), ("primary_2", "Radio 2 (V/UHF)")):
-        for k, v in sorted(D["radio"][sd][role].items()):
-            f = D["channels"].get(v, {})
-            mhz = f.get("uhf") if role == "primary_1" else f.get("vhf", f.get("uhf"))
+        for k, v in sorted(D["radio"][sd][role].items(), key=lambda kv: int(kv[0])):
+            # VMCT ne pose sur une liste que la fréquence de sa bande (primary_1 UHF, primary_2 VHF) et écarte
+            # sans le dire un canal qui n'en a pas : ne pas l'annoncer aux pilotes
+            mhz = D["channels"].get(v, {}).get("uhf" if role == "primary_1" else "vhf")
+            if mhz is None:
+                print(f"[gen_readme] {sd} {role} canal {k} ({v}) : pas de fréquence dans la bande, non injecté")
+                continue
             rows.append([title, c(k), D["titles"].get(v, v).replace("Base-", ""), c(mhz)])
     w(f"### {side[sd]}")
     w("")
@@ -276,6 +280,10 @@ w("- `-cas` : fait apparaître une cible CAS aléatoire au marqueur.")
 w("- `-point <nom>` : nomme un point de la carte.")
 w("- `-smoke`, `-light`, `-signal` : fumigène, éclairage, fusée.")
 w("- `-jtac`, `-afac` : JTAC au sol, drone AFAC.")
+w("")
+w("Rôles sans avion : 5 slots par camp pour chaque rôle (Game Master, commandant tactique, JTAC, observateur), et un "
+  "pilote peut prendre la main sur les véhicules au sol. Le menu F10 VEAF reste vide pour un Game Master : il n'a pas de "
+  "groupe, et les commandes sécurisées ne sont posées que groupe par groupe (VMCT #128, limite de DCS).")
 w("")
 w(open(TOOLS / "readme_makers.md", encoding="utf-8").read())
 open(ROOT / "README.md", "w", encoding="utf-8").write("\n".join(md) + "\n")

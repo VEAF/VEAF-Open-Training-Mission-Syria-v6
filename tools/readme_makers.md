@@ -3,18 +3,19 @@
 Construite de zéro le 02/10/2026 avec VEAF Mission Creation Tools (`veaf-tools`) et le serveur MCP `veaf-mission-mcp`,
 d'après le prompt Open Training de VMCT, en s'inspirant de l'Open Training Syrie v5 (`VEAF-Open-Training-Mission-Syria`)
 sans la recopier : bases, QRA, CAP et esprit repris ; Damas et le Liban, bleus en v5, rendus au régime et à la neutralité.
+Recompilée le 10/10/2026 avec `veaf-tools` 6.29.0.
 
 ### Construire
 
 ```powershell
 # outils et scripts VEAF installés par l'updater (veaf-tools.exe + published/, hors dépôt)
-.\veaf-tools.exe validate
+.\veaf-tools.exe mission validate
 
 # configuration serveur : sécurité active, logs info, 15 variantes météo dans missions/
-.\veaf-tools.exe build
+.\veaf-tools.exe mission build
 
 # essais sur un poste : sécurité coupée, logs debug, noms de groupes lisibles, pas de variantes
-.\veaf-tools.exe build --profile LOCAL_TEST
+.\veaf-tools.exe mission build --profile LOCAL_TEST
 ```
 
 Mission de test locale (game master, A-10C II en slot classique au sol moteur chaud à Incirlik, pont dcs-bridge) :
@@ -57,3 +58,4 @@ poetry -C ..\VEAF-Mission-Creation-Tools run python "$PWD\tools\verify.py"      
   pas celle d'ASSETS (correction en cours dans VMCT). D'où `jtacLaserCodeMax: 1686` dans `ctld-config.yaml` (le modèle
   `veafSpawn-MQ9 - AFAC - JTAC - DRONE` prend 1686) et des Reaper en bas de plage, 1511 et 1512, sur la fréquence que
   CTLD en déduit (35.55 et 35.6 FM).
+- CTLD 2.2.0 : `ctld-config.yaml` a les réglages de premier niveau du catalogue 2.2.0, pas ses nouveautés par appareil (rangée de caisses derrière l'appareil, véhicules en Mi-8, taille des modèles de caisses). CTLD garde pour elles le comportement 2.0 sans rien signaler ; les ajouter changerait le jeu (lot VMCT `FIX-OPEN-TRAINING-CAUCASUS-FINDINGS`, ticket 02).

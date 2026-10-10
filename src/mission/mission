@@ -26869,28 +26869,28 @@ Commandes VEAF utiles (marqueur F10) : « -tanker Texaco 1 » amène ce ravitail
   forcedOptions = {},
   goals = {},
   groundControl = {
-    isPilotControlVehicles = false,
+    isPilotControlVehicles = true,
     passwords = {},
     roles = {
       artillery_commander = {
-        blue = 0,
+        blue = 5,
         neutrals = 0,
-        red = 0,
+        red = 5,
       },
       forward_observer = {
-        blue = 0,
+        blue = 5,
         neutrals = 0,
-        red = 0,
+        red = 5,
       },
       instructor = {
-        blue = 0,
+        blue = 5,
         neutrals = 0,
-        red = 0,
+        red = 5,
       },
       observer = {
-        blue = 0,
+        blue = 5,
         neutrals = 0,
-        red = 0,
+        red = 5,
       },
     },
   },

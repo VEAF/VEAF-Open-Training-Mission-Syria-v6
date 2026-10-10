@@ -26,20 +26,20 @@ Carrés : bases avec slots (bleu / rouge). Triangles : FARP. Traits pleins : hip
 
 | Base | Camp | Position | Bullseye | UHF | VHF | FM | Défense |
 |---|---|---|---|---|---|---|---|
-| **Adana Sakirpasa** | Bleu | `N36°59.303' E035°17.493'` | `335°/152 nm` | `251.25` | `121.1` | `39.7` | Hawk + Avenger |
-| **Akrotiri** | Bleu | `N34°35.644' E032°58.489'` | `270°/185 nm` | `252.0` | `128.0` | `40.45` | NASAMS + Avenger |
+| **Adana Sakirpasa** | Bleu | `N36°58.916' E035°16.806'` | `334°/152 nm` | `251.25` | `121.1` | `39.7` | Hawk + Avenger |
+| **Akrotiri** | Bleu | `N34°35.422' E032°59.267'` | `270°/185 nm` | `252.0` | `128.0` | `40.45` | NASAMS + Avenger |
 | **At Tanf** | Bleu | `N33°30.387' E038°36.893'` | `128°/120 nm` | `252.9` | `121.1` | `41.35` | NASAMS + Avenger |
-| **Gaziantep** | Bleu | `N36°57.107' E037°27.765'` | `017°/138 nm` | `250.1` | `120.1` | `38.5` | Hawk + Avenger |
-| **Hatay** | Bleu | `N36°22.276' E036°17.885'` | `350°/100 nm` | `250.3` | `128.5` | `38.7` | Hawk + Avenger |
-| **Incirlik** (base mère) | Bleu | `N36°59.655' E035°24.763'` | `337°/150 nm` | `360.1` | `122.1` | `38.75` | Patriot + Hawk + Avenger |
-| **King Hussein Air College** | Bleu | `N32°20.928' E036°16.213'` | `190°/144 nm` | `250.45` | `118.3` | `38.9` | Hawk + Avenger |
-| **Muwaffaq Salti** | Bleu | `N31°49.150' E036°47.447'` | `180°/174 nm` | `253.15` | `120.5` | `41.6` | Patriot + Hawk + Avenger + Radar d'alerte 1L13 |
-| **Paphos** | Bleu | `N34°43.344' E032°28.308'` | `272°/210 nm` | `252.1` | `119.9` | `40.55` | NASAMS + Avenger |
-| **Ramat David** | Bleu | `N32°39.465' E035°11.464'` | `213°/146 nm` | `251.3` | `118.6` | `39.75` | Hawk + Avenger + Patriot |
-| **Tel Nof** | Bleu | `N31°49.783' E034°50.277'` | `210°/198 nm` | `250.65` | `128.1` | `39.1` | Hawk + Avenger |
-| **Al-Dumayr** | Rouge | `N33°36.908' E036°45.804'` | `179°/67 nm` | `253.35` | `120.3` | `41.8` | SA-11 + SA-15 |
-| **Bassel Al-Assad** | Rouge | `N35°24.772' E035°56.997'` | `319°/55 nm` | `250.6` | `118.1` | `39.05` | SA-11 + Pantsir (SA-22) |
-| **Shayrat** | Rouge | `N34°29.678' E036°53.668'` | `148°/17 nm` | `251.6` | `120.2` | `40.05` | SA-11 + SA-15 |
+| **Gaziantep** | Bleu | `N36°56.888' E037°28.701'` | `017°/138 nm` | `250.1` | `120.1` | `38.5` | Hawk + Avenger |
+| **Hatay** | Bleu | `N36°21.739' E036°17.245'` | `350°/100 nm` | `250.3` | `128.5` | `38.7` | Hawk + Avenger |
+| **Incirlik** (base mère) | Bleu | `N37°00.123' E035°25.566'` | `337°/150 nm` | `360.1` | `122.1` | `38.75` | Patriot + Hawk + Avenger |
+| **King Hussein Air College** | Bleu | `N32°21.401' E036°15.591'` | `190°/144 nm` | `250.45` | `118.3` | `38.9` | Hawk + Avenger |
+| **Muwaffaq Salti** | Bleu | `N31°49.057' E036°46.721'` | `180°/175 nm` | `253.15` | `120.5` | `41.6` | Patriot + Hawk + Avenger + Radar d'alerte 1L13 |
+| **Paphos** | Bleu | `N34°43.089' E032°29.088'` | `272°/209 nm` | `252.1` | `119.9` | `40.55` | NASAMS + Avenger |
+| **Ramat David** | Bleu | `N32°39.985' E035°11.050'` | `213°/145 nm` | `251.3` | `118.6` | `39.75` | Hawk + Avenger + Patriot |
+| **Tel Nof** | Bleu | `N31°50.301' E034°49.958'` | `210°/197 nm` | `250.65` | `128.1` | `39.1` | Hawk + Avenger |
+| **Al-Dumayr** | Rouge | `N33°36.582' E036°44.948'` | `180°/67 nm` | `253.35` | `120.3` | `41.8` | SA-11 + SA-15 |
+| **Bassel Al-Assad** | Rouge | `N35°24.231' E035°57.014'` | `319°/55 nm` | `250.6` | `118.1` | `39.05` | SA-11 + Pantsir (SA-22) |
+| **Shayrat** | Rouge | `N34°29.412' E036°54.457'` | `147°/17 nm` | `251.6` | `120.2` | `40.05` | SA-11 + SA-15 |
 | **FARP Reyhanli** | Bleu | `N36°15.743' E036°32.198'` | `356°/92 nm` | — | `129.5 AM` | — | dépôt de munitions (CTLD) |
 | **FARP Ceyhan** | Bleu | `N37°00.731' E035°50.978'` | `345°/143 nm` | — | `130.5 AM` | — | dépôt de munitions (CTLD) |
 | **FARP Golan** | Bleu | `N32°58.998' E035°40.139'` | `208°/117 nm` | — | `130.0 AM` | — | dépôt de munitions (CTLD) |
@@ -246,22 +246,22 @@ Des joueurs volent des deux côtés. Le combat entre joueurs est **permis sur le
 | Sanctuaire | Protège | Centre (bullseye) |
 |---|---|---|
 | Incirlik | Bleu | `337°/150 nm` |
-| Adana Sakirpasa | Bleu | `335°/152 nm` |
+| Adana Sakirpasa | Bleu | `334°/152 nm` |
 | Hatay | Bleu | `350°/100 nm` |
 | Gaziantep | Bleu | `017°/138 nm` |
-| Ramat David | Bleu | `213°/146 nm` |
-| Tel Nof | Bleu | `210°/198 nm` |
-| Muwaffaq Salti | Bleu | `180°/174 nm` |
+| Ramat David | Bleu | `213°/145 nm` |
+| Tel Nof | Bleu | `210°/197 nm` |
+| Muwaffaq Salti | Bleu | `180°/175 nm` |
 | King Hussein Air College | Bleu | `190°/144 nm` |
 | Akrotiri | Bleu | `270°/185 nm` |
-| Paphos | Bleu | `272°/210 nm` |
+| Paphos | Bleu | `272°/209 nm` |
 | At Tanf | Bleu | `128°/120 nm` |
 | FARP Reyhanli | Bleu | `356°/92 nm` |
 | FARP Golan | Bleu | `208°/117 nm` |
 | FARP Ceyhan | Bleu | `345°/143 nm` |
 | Bassel Al-Assad | Rouge | `319°/55 nm` |
-| Shayrat | Rouge | `148°/17 nm` |
-| Al-Dumayr | Rouge | `179°/67 nm` |
+| Shayrat | Rouge | `147°/17 nm` |
+| Al-Dumayr | Rouge | `180°/67 nm` |
 
 ### Arène
 
@@ -346,6 +346,14 @@ Défense permanente des deux camps : courte et moyenne portée sur chaque base a
 | Radio | Canal | Nom | MHz |
 |---|---|---|---|
 | Radio 1 (UHF) | `1` | Guard | `243` |
+| Radio 1 (UHF) | `2` | Overlord 1 AWACS N | `280.0` |
+| Radio 1 (UHF) | `3` | Magic 1 AWACS S | `281.0` |
+| Radio 1 (UHF) | `4` | Texaco 1/BS/50Y | `290.0` |
+| Radio 1 (UHF) | `5` | Arco 1/BM/51Y | `291.0` |
+| Radio 1 (UHF) | `6` | Texaco 2/BS/52Y | `292.0` |
+| Radio 1 (UHF) | `7` | Arco 2/BM/53Y | `293.0` |
+| Radio 1 (UHF) | `8` | Stennis/74X/ICLS11 | `305.0` |
+| Radio 1 (UHF) | `9` | Roosevelt/71X/ICLS12 | `306.0` |
 | Radio 1 (UHF) | `10` | Tarawa/73X/ICLS13 | `307.0` |
 | Radio 1 (UHF) | `11` | Incirlik / 21X | `360.1` |
 | Radio 1 (UHF) | `12` | Adana Sakirpasa | `251.25` |
@@ -354,27 +362,10 @@ Défense permanente des deux camps : courte et moyenne portée sur chaque base a
 | Radio 1 (UHF) | `15` | Ramat David / 84X | `251.3` |
 | Radio 1 (UHF) | `16` | Tel Nof / 87X | `250.65` |
 | Radio 1 (UHF) | `17` | Muwaffaq Salti | `253.15` |
-| Radio 1 (UHF) | `18` | King Hussein Air College | `250.45` |
-| Radio 1 (UHF) | `19` | Akrotiri / 107X | `252.0` |
-| Radio 1 (UHF) | `2` | Overlord 1 AWACS N | `280.0` |
-| Radio 1 (UHF) | `20` | At Tanf | `252.9` |
-| Radio 1 (UHF) | `3` | Magic 1 AWACS S | `281.0` |
-| Radio 1 (UHF) | `4` | Texaco 1/BS/50Y | `290.0` |
-| Radio 1 (UHF) | `5` | Arco 1/BM/51Y | `291.0` |
-| Radio 1 (UHF) | `6` | Texaco 2/BS/52Y | `292.0` |
-| Radio 1 (UHF) | `7` | Arco 2/BM/53Y | `293.0` |
-| Radio 1 (UHF) | `8` | Stennis/74X/ICLS11 | `305.0` |
-| Radio 1 (UHF) | `9` | Roosevelt/71X/ICLS12 | `306.0` |
+| Radio 1 (UHF) | `18` | S-3B Stennis/55Y | `295.0` |
+| Radio 1 (UHF) | `19` | S-3B Roosevelt/56Y | `296.0` |
+| Radio 1 (UHF) | `20` | Darkstar 1 Arène | `283.0` |
 | Radio 2 (V/UHF) | `1` | Guard | `121.5` |
-| Radio 2 (V/UHF) | `10` | Blade | `135.8` |
-| Radio 2 (V/UHF) | `11` | Gordon | `135.9` |
-| Radio 2 (V/UHF) | `12` | S-3B Stennis/55Y | `295.0` |
-| Radio 2 (V/UHF) | `13` | S-3B Roosevelt/56Y | `296.0` |
-| Radio 2 (V/UHF) | `14` | Darkstar 1 Arène | `283.0` |
-| Radio 2 (V/UHF) | `15` | FARP Reyhanli | `129.5` |
-| Radio 2 (V/UHF) | `16` | FARP Golan | `130.0` |
-| Radio 2 (V/UHF) | `17` | FARP Ceyhan | `130.5` |
-| Radio 2 (V/UHF) | `18` | Paphos / 79X | `119.9` |
 | Radio 2 (V/UHF) | `2` | Archer | `135.0` |
 | Radio 2 (V/UHF) | `3` | Arctic | `135.1` |
 | Radio 2 (V/UHF) | `4` | Astro | `135.2` |
@@ -383,6 +374,15 @@ Défense permanente des deux camps : courte et moyenne portée sur chaque base a
 | Radio 2 (V/UHF) | `7` | Ninja | `135.5` |
 | Radio 2 (V/UHF) | `8` | Pinder | `135.6` |
 | Radio 2 (V/UHF) | `9` | Bengal | `135.7` |
+| Radio 2 (V/UHF) | `10` | Blade | `135.8` |
+| Radio 2 (V/UHF) | `11` | Gordon | `135.9` |
+| Radio 2 (V/UHF) | `12` | King Hussein Air College | `118.3` |
+| Radio 2 (V/UHF) | `13` | Akrotiri / 107X | `128.0` |
+| Radio 2 (V/UHF) | `14` | At Tanf | `121.1` |
+| Radio 2 (V/UHF) | `15` | FARP Reyhanli | `129.5` |
+| Radio 2 (V/UHF) | `16` | FARP Golan | `130.0` |
+| Radio 2 (V/UHF) | `17` | FARP Ceyhan | `130.5` |
+| Radio 2 (V/UHF) | `18` | Paphos / 79X | `119.9` |
 
 ### Rouge
 
@@ -396,7 +396,6 @@ Défense permanente des deux camps : courte et moyenne portée sur chaque base a
 | Radio 1 (UHF) | `6` | Shayrat | `251.6` |
 | Radio 1 (UHF) | `7` | Al-Dumayr | `253.35` |
 | Radio 2 (V/UHF) | `1` | Guard | `121.5` |
-| Radio 2 (V/UHF) | `10` | Al-Dumayr | `120.3` |
 | Radio 2 (V/UHF) | `2` | Berkut | `136.0` |
 | Radio 2 (V/UHF) | `3` | Sokol | `136.1` |
 | Radio 2 (V/UHF) | `4` | Strizh | `136.2` |
@@ -405,6 +404,7 @@ Défense permanente des deux camps : courte et moyenne portée sur chaque base a
 | Radio 2 (V/UHF) | `7` | Grach | `136.5` |
 | Radio 2 (V/UHF) | `8` | Bassel Al-Assad | `118.1` |
 | Radio 2 (V/UHF) | `9` | Shayrat | `120.2` |
+| Radio 2 (V/UHF) | `10` | Al-Dumayr | `120.3` |
 
 Préréglages injectés dans les appareils à radio programmable. FM : canaux 1 à 30 = 30 à 59 MHz. Les canaux VEAF sont hors de la bande des tours de Syrie (UHF 243-260, VHF 118-134.6).
 
@@ -438,23 +438,26 @@ Sur le serveur VEAF, la météo réelle d'Incirlik est appliquée au lancement (
 - `-smoke`, `-light`, `-signal` : fumigène, éclairage, fusée.
 - `-jtac`, `-afac` : JTAC au sol, drone AFAC.
 
+Rôles sans avion : 5 slots par camp pour chaque rôle (Game Master, commandant tactique, JTAC, observateur), et un pilote peut prendre la main sur les véhicules au sol. Le menu F10 VEAF reste vide pour un Game Master : il n'a pas de groupe, et les commandes sécurisées ne sont posées que groupe par groupe (VMCT #128, limite de DCS).
+
 ## Pour les créateurs de mission
 
 Construite de zéro le 02/10/2026 avec VEAF Mission Creation Tools (`veaf-tools`) et le serveur MCP `veaf-mission-mcp`,
 d'après le prompt Open Training de VMCT, en s'inspirant de l'Open Training Syrie v5 (`VEAF-Open-Training-Mission-Syria`)
 sans la recopier : bases, QRA, CAP et esprit repris ; Damas et le Liban, bleus en v5, rendus au régime et à la neutralité.
+Recompilée le 10/10/2026 avec `veaf-tools` 6.29.0.
 
 ### Construire
 
 ```powershell
 # outils et scripts VEAF installés par l'updater (veaf-tools.exe + published/, hors dépôt)
-.\veaf-tools.exe validate
+.\veaf-tools.exe mission validate
 
 # configuration serveur : sécurité active, logs info, 15 variantes météo dans missions/
-.\veaf-tools.exe build
+.\veaf-tools.exe mission build
 
 # essais sur un poste : sécurité coupée, logs debug, noms de groupes lisibles, pas de variantes
-.\veaf-tools.exe build --profile LOCAL_TEST
+.\veaf-tools.exe mission build --profile LOCAL_TEST
 ```
 
 Mission de test locale (game master, A-10C II en slot classique au sol moteur chaud à Incirlik, pont dcs-bridge) :
@@ -497,4 +500,5 @@ poetry -C ..\VEAF-Mission-Creation-Tools run python "$PWD\tools\verify.py"      
   pas celle d'ASSETS (correction en cours dans VMCT). D'où `jtacLaserCodeMax: 1686` dans `ctld-config.yaml` (le modèle
   `veafSpawn-MQ9 - AFAC - JTAC - DRONE` prend 1686) et des Reaper en bas de plage, 1511 et 1512, sur la fréquence que
   CTLD en déduit (35.55 et 35.6 FM).
+- CTLD 2.2.0 : `ctld-config.yaml` a les réglages de premier niveau du catalogue 2.2.0, pas ses nouveautés par appareil (rangée de caisses derrière l'appareil, véhicules en Mi-8, taille des modèles de caisses). CTLD garde pour elles le comportement 2.0 sans rien signaler ; les ajouter changerait le jeu (lot VMCT `FIX-OPEN-TRAINING-CAUCASUS-FINDINGS`, ticket 02).
 
