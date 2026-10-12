@@ -697,7 +697,7 @@ modules:
         react_on_helicopters: false
         airport_link: Ramat David
 pipeline:
-  weather: true                 # toutes les variantes de src/versions.yaml (serveur)
+  weather: false                # pas de variantes météo : le serveur VEAF fixe météo et heure (David, 12/10/2026)
 # pipeline:
 #   presets: true                 # src/presets.yaml
 #   waypoints: true               # src/waypoints.yaml
