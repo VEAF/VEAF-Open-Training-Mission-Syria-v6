@@ -70,7 +70,6 @@ if veafSecurity then
 end
 end)
 
-veaf.setConfig("RADIO", "menu_stats", true)
 veafGuardedInit("RADIO", function()
 if veafRadio then
     veafRadio.initialize(true)
