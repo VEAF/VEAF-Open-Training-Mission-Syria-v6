@@ -1,0 +1,188 @@
+{
+  "title": "VEAF Open Training — Syrie (moderne, 2017)",
+  "kneeboard_only": true,
+  "sheets": [
+    {
+      "title": "Mission",
+      "paragraphs": [
+        "Open Training : mission d'entraînement ouverte des serveurs VEAF, scénario moderne (2017). Tout se pilote par le menu F10 › VEAF ; le README est le briefing complet.",
+        "Base mère : Incirlik. Autres bases bleues : Adana Sakirpasa, Akrotiri, At Tanf, Gaziantep, Hatay, King Hussein Air College, Muwaffaq Salti, Paphos, Ramat David, Tel Nof, FARP Reyhanli, Ceyhan et Golan. Bases rouges : Al-Dumayr, Bassel Al-Assad, Shayrat.",
+        "Ravitailleurs nord : Texaco 1 (KC-135, perche) TACAN 50Y, 290.0, FL220 · Arco 1 (KC135MPRS, panier) TACAN 51Y, 291.0, FL180.",
+        "Ravitailleurs sud : Texaco 2 (perche) TACAN 52Y, 292.0, FL240 · Arco 2 (panier) TACAN 53Y, 293.0, FL200.",
+        "AWACS : Overlord 1 (nord) 280.0, FL300 · Magic 1 (sud) 281.0, FL310.",
+        "Porte-avions au large du Liban : CVN-74 Stennis TACAN 74X, ICLS 11, tour 305.0 · CVN-71 Roosevelt TACAN 71X, ICLS 12, tour 306.0 · LHA-1 Tarawa TACAN 73X, ICLS 13, tour 307.0. S-3B : Stennis 55Y U295.0, Roosevelt 56Y U296.0.",
+        "Drones laser : Reaper 1 au-dessus de Ceyhan (1511, 35.55 FM) · Reaper 2 au-dessus d'Akamas (1512, 35.6 FM).",
+        "Arène à l'ouest de Chypre : slots en vol, bleus au sud, rouges au nord ; AWACS Darkstar 1 (283.0) et Focus 1 (284.0).",
+        "Sanctuaires : un hexagone autour de chaque base et FARP avec slots.",
+        "Bullseye (bleu et rouge) : Homs, N34°43.848' E036°42.564'. ATC coupé sur tous les aérodromes."
+      ]
+    },
+    {
+      "title": "Conduite",
+      "paragraphs": [
+        "Décollez de la piste, jamais d'un taxiway.",
+        "L'ATC de DCS est coupé : annoncez-vous sur la VHF de l'aérodrome au roulage, au décollage et en tour de piste (fréquences dans le README et le plan radio).",
+        "Ne vous alignez pas derrière un avion qui décolle ; dégagez la piste dès l'atterrissage.",
+        "Une zone de combat activée par un autre pilote est la sienne : demandez avant de la désactiver ou de la nettoyer.",
+        "Nettoyez VOS zones de combat en les désactivant avant de partir."
+      ]
+    },
+    {
+      "title": "Commandes",
+      "paragraphs": [
+        "Marqueur : carte F10, clic droit, « Ajouter un marqueur », tapez la commande, validez.",
+        "Paliers : [ouvert] tout le monde · [pilote VEAF] pilote que le serveur connaît · [confiance] membre de confiance. Un pilote que le serveur ne connaît pas ajoute « , password <mot de passe du palier> » à son marqueur.",
+        "-cas : une zone d'appui aérien rapproché, des groupes dispersés autour du marqueur, terminée par le menu F10 [pilote VEAF]",
+        "-shilka, -manpads, -sa6, -sa11, -sa15, -samSR, -samLR : une défense aérienne à neutraliser ou à éviter [pilote VEAF]",
+        "-armor, -infantry : une cible au sol [pilote VEAF]",
+        "-convoy, dest <point> : une cible mobile [pilote VEAF]",
+        "-cap <type> (ex. -cap Su-27) : une cible aérienne [pilote VEAF]",
+        "-tankerlow, -tankerhigh : le ravitailleur le plus proche au FL120 / FL220 [pilote VEAF]",
+        "-farp <nom>, -fob : une base avancée [pilote VEAF]",
+        "-jtac (laser 1688), -smoke (option color), -tacan : désignation, marque visuelle, balise [ouvert]",
+        "-point <nom> : nommer un point (la destination d'un convoi) [ouvert]",
+        "-destroy : retire ce qui est à moins de 100 m du marqueur [confiance]",
+        "_spawn unit, name <type DCS>, multiplier 4 : un type précis, là où -armor tire au hasard [pilote VEAF]",
+        "Options : side red/blue, defense 0-5, armor 0-5, size.",
+        "Le reste passe par le menu F10 › VEAF : ZONES DE COMBAT, MOYENS, OPS PORTE-AVIONS."
+      ]
+    }
+  ],
+  "objectives": [
+    {
+      "zone": "combatZone_Ceyhan_Easy",
+      "title": "H1 Hélico Ceyhan — facile",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Entraînement hélicoptères › H1 Hélico Ceyhan — facile › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Ceyhan_Medium",
+      "title": "H2 Hélico Ceyhan — moyen",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Entraînement hélicoptères › H2 Hélico Ceyhan — moyen › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Ceyhan_Hard",
+      "title": "H3 Hélico Ceyhan — difficile",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Entraînement hélicoptères › H3 Hélico Ceyhan — difficile › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Akamas_Easy",
+      "title": "A1 Attaque Akamas — facile",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Entraînement attaque › A1 Attaque Akamas — facile › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Akamas_Medium",
+      "title": "A2 Attaque Akamas — moyen",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Entraînement attaque › A2 Attaque Akamas — moyen › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Akamas_Hard",
+      "title": "A3 Attaque Akamas — difficile",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Entraînement attaque › A3 Attaque Akamas — difficile › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Karpas_Easy",
+      "title": "S1 SEAD Karpas — facile",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Entraînement SEAD › S1 SEAD Karpas — facile › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Karpas_Medium",
+      "title": "S2 SEAD Karpas — moyen",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Entraînement SEAD › S2 SEAD Karpas — moyen › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Karpas_Hard",
+      "title": "S3 SEAD Karpas — difficile",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Entraînement SEAD › S3 SEAD Karpas — difficile › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Saraqib",
+      "title": "Z01 Front — Saraqib",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Front › Z01 Front — Saraqib › Activer la zone"
+    },
+    {
+      "zone": "combatZone_AlBab",
+      "title": "Z02 Front — Al-Bab",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Front › Z02 Front — Al-Bab › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Morek",
+      "title": "Z03 Front — Morek",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Front › Z03 Front — Morek › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Quneitra",
+      "title": "Z04 Front — Quneitra",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Front › Z04 Front — Quneitra › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Daraa",
+      "title": "Z05 Front — Daraa",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Front › Z05 Front — Daraa › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Mhardeh",
+      "title": "Z06 SEAD — Mhardeh",
+      "task": "F10 › VEAF › ZONES DE COMBAT › SEAD › Z06 SEAD — Mhardeh › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Kiswah",
+      "title": "Z07 SEAD — Al-Kiswah",
+      "task": "F10 › VEAF › ZONES DE COMBAT › SEAD › Z07 SEAD — Al-Kiswah › Activer la zone"
+    },
+    {
+      "zone": "combatZone_ConvoyM5",
+      "title": "Z08 Convoi — M5",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Convois › Z08 Convoi — M5 › Activer la zone"
+    },
+    {
+      "zone": "combatZone_ConvoyPalmyra",
+      "title": "Z09 Convoi — Homs-Palmyre",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Convois › Z09 Convoi — Homs-Palmyre › Activer la zone"
+    },
+    {
+      "zone": "combatZone_ConvoyEuphrates",
+      "title": "Z10 Convoi — Euphrate",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Convois › Z10 Convoi — Euphrate › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Masyaf",
+      "title": "Z11 Frappe — Masyaf",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Frappes en profondeur › Z11 Frappe — Masyaf › Activer la zone"
+    },
+    {
+      "zone": "combatZone_AlSafira",
+      "title": "Z12 Frappe — Al-Safira",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Frappes en profondeur › Z12 Frappe — Al-Safira › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Jamraya",
+      "title": "Z13 Frappe — Jamraya",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Frappes en profondeur › Z13 Frappe — Jamraya › Activer la zone"
+    },
+    {
+      "zone": "combatZone_DeirEzZor",
+      "title": "Z14 Frappe — Deir ez-Zor",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Frappes en profondeur › Z14 Frappe — Deir ez-Zor › Activer la zone"
+    },
+    {
+      "zone": "combatZone_AbuAlDuhur",
+      "title": "Z15 OCA — Abu al-Duhur",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Bases aériennes › Z15 OCA — Abu al-Duhur › Activer la zone"
+    },
+    {
+      "zone": "combatZone_T4",
+      "title": "Z16 OCA — T4 (Tiyas)",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Bases aériennes › Z16 OCA — T4 (Tiyas) › Activer la zone"
+    },
+    {
+      "zone": "combatZone_TartusPort",
+      "title": "Z17 Antinavire — port de Tartous",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Antinavire › Z17 Antinavire — port de Tartous › Activer la zone"
+    },
+    {
+      "zone": "combatZone_RussianFleet",
+      "title": "Z18 Antinavire — flotte russe",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Antinavire › Z18 Antinavire — flotte russe › Activer la zone"
+    }
+  ]
+}
