@@ -406,7 +406,7 @@ Défense permanente des deux camps : courte et moyenne portée sur chaque base a
 | Radio 2 (V/UHF) | `9` | Shayrat | `120.2` |
 | Radio 2 (V/UHF) | `10` | Al-Dumayr | `120.3` |
 
-Préréglages injectés dans les appareils à radio programmable. FM : canaux 1 à 30 = 30 à 59 MHz. Les canaux VEAF sont hors de la bande des tours de Syrie (UHF 243-260, VHF 118-134.6).
+Préréglages injectés dans les appareils à radio programmable. FM : canaux 1 à 20 = 30 à 49 MHz (1 à 30 = 30 à 59 MHz sur le CH-47). Les canaux VEAF sont hors de la bande des tours de Syrie (UHF 243-260, VHF 118-134.6).
 
 ## Météo et heures
 
