@@ -345,66 +345,56 @@ Défense permanente des deux camps : courte et moyenne portée sur chaque base a
 
 | Radio | Canal | Nom | MHz |
 |---|---|---|---|
-| Radio 1 (UHF) | `1` | Guard | `243` |
-| Radio 1 (UHF) | `2` | Overlord 1 AWACS N | `280.0` |
-| Radio 1 (UHF) | `3` | Magic 1 AWACS S | `281.0` |
-| Radio 1 (UHF) | `4` | Texaco 1/BS/50Y | `290.0` |
-| Radio 1 (UHF) | `5` | Arco 1/BM/51Y | `291.0` |
-| Radio 1 (UHF) | `6` | Texaco 2/BS/52Y | `292.0` |
-| Radio 1 (UHF) | `7` | Arco 2/BM/53Y | `293.0` |
-| Radio 1 (UHF) | `8` | Stennis/74X/ICLS11 | `305.0` |
-| Radio 1 (UHF) | `9` | Roosevelt/71X/ICLS12 | `306.0` |
-| Radio 1 (UHF) | `10` | Tarawa/73X/ICLS13 | `307.0` |
-| Radio 1 (UHF) | `11` | Incirlik / 21X | `360.1` |
-| Radio 1 (UHF) | `12` | Adana Sakirpasa | `251.25` |
-| Radio 1 (UHF) | `13` | Hatay | `250.3` |
-| Radio 1 (UHF) | `14` | Gaziantep | `250.1` |
-| Radio 1 (UHF) | `15` | Ramat David / 84X | `251.3` |
-| Radio 1 (UHF) | `16` | Tel Nof / 87X | `250.65` |
-| Radio 1 (UHF) | `17` | Muwaffaq Salti | `253.15` |
-| Radio 1 (UHF) | `18` | S-3B Stennis/55Y | `295.0` |
-| Radio 1 (UHF) | `19` | S-3B Roosevelt/56Y | `296.0` |
-| Radio 1 (UHF) | `20` | Darkstar 1 Arène | `283.0` |
-| Radio 2 (V/UHF) | `1` | Guard | `121.5` |
-| Radio 2 (V/UHF) | `2` | Archer | `135.0` |
-| Radio 2 (V/UHF) | `3` | Arctic | `135.1` |
-| Radio 2 (V/UHF) | `4` | Astro | `135.2` |
-| Radio 2 (V/UHF) | `5` | Nickel | `135.3` |
-| Radio 2 (V/UHF) | `6` | Nitro | `135.4` |
-| Radio 2 (V/UHF) | `7` | Ninja | `135.5` |
-| Radio 2 (V/UHF) | `8` | Pinder | `135.6` |
-| Radio 2 (V/UHF) | `9` | Bengal | `135.7` |
-| Radio 2 (V/UHF) | `10` | Blade | `135.8` |
-| Radio 2 (V/UHF) | `11` | Gordon | `135.9` |
-| Radio 2 (V/UHF) | `12` | King Hussein Air College | `118.3` |
-| Radio 2 (V/UHF) | `13` | Akrotiri / 107X | `128.0` |
-| Radio 2 (V/UHF) | `14` | At Tanf | `121.1` |
-| Radio 2 (V/UHF) | `15` | FARP Reyhanli | `129.5` |
-| Radio 2 (V/UHF) | `16` | FARP Golan | `130.0` |
-| Radio 2 (V/UHF) | `17` | FARP Ceyhan | `130.5` |
-| Radio 2 (V/UHF) | `18` | Paphos / 79X | `119.9` |
+| Radio 1 (UHF) | `1` | Overlord 1 AWACS N | `280.0` |
+| Radio 1 (UHF) | `2` | Magic 1 AWACS S | `281.0` |
+| Radio 1 (UHF) | `3` | Texaco 1/BS/50Y | `290.0` |
+| Radio 1 (UHF) | `4` | Arco 1/BM/51Y | `291.0` |
+| Radio 1 (UHF) | `5` | Texaco 2/BS/52Y | `292.0` |
+| Radio 1 (UHF) | `6` | Arco 2/BM/53Y | `293.0` |
+| Radio 1 (UHF) | `7` | S-3B Stennis/55Y | `295.0` |
+| Radio 1 (UHF) | `8` | S-3B Roosevelt/56Y | `296.0` |
+| Radio 1 (UHF) | `9` | Stennis/74X/ICLS11 | `305.0` |
+| Radio 1 (UHF) | `10` | Roosevelt/71X/ICLS12 | `306.0` |
+| Radio 1 (UHF) | `11` | Tarawa/73X/ICLS13 | `307.0` |
+| Radio 1 (UHF) | `12` | Archer | `390.0` |
+| Radio 1 (UHF) | `13` | Arctic | `390.1` |
+| Radio 1 (UHF) | `14` | Astro | `390.2` |
+| Radio 1 (UHF) | `15` | Nickel | `390.3` |
+| Radio 1 (UHF) | `16` | Nitro | `390.4` |
+| Radio 1 (UHF) | `17` | Ninja | `390.5` |
+| Radio 1 (UHF) | `18` | Pinder | `390.6` |
+| Radio 1 (UHF) | `19` | Bengal | `390.7` |
+| Radio 1 (UHF) | `20` | Blade | `390.8` |
+| Radio 2 (V/UHF) | `1` | Incirlik / 21X | `122.1` |
+| Radio 2 (V/UHF) | `2` | Adana Sakirpasa | `121.1` |
+| Radio 2 (V/UHF) | `3` | Hatay | `128.5` |
+| Radio 2 (V/UHF) | `4` | Gaziantep | `120.1` |
+| Radio 2 (V/UHF) | `5` | Ramat David / 84X | `118.6` |
+| Radio 2 (V/UHF) | `6` | Tel Nof / 87X | `128.1` |
+| Radio 2 (V/UHF) | `7` | Muwaffaq Salti | `120.5` |
+| Radio 2 (V/UHF) | `8` | King Hussein Air College | `118.3` |
+| Radio 2 (V/UHF) | `9` | Akrotiri / 107X | `128.0` |
+| Radio 2 (V/UHF) | `10` | At Tanf | `121.1` |
+| Radio 2 (V/UHF) | `11` | Paphos / 79X | `119.9` |
+| Radio 2 (V/UHF) | `12` | FARP Reyhanli | `129.5` |
+| Radio 2 (V/UHF) | `13` | FARP Golan | `130.0` |
+| Radio 2 (V/UHF) | `14` | FARP Ceyhan | `130.5` |
 
 ### Rouge
 
 | Radio | Canal | Nom | MHz |
 |---|---|---|---|
-| Radio 1 (UHF) | `1` | Guard | `243` |
-| Radio 1 (UHF) | `2` | Wizard 1 AWACS | `282.0` |
-| Radio 1 (UHF) | `3` | Shell 1 IL-78 | `294.0` |
-| Radio 1 (UHF) | `4` | Focus 1 Arène | `284.0` |
-| Radio 1 (UHF) | `5` | Bassel Al-Assad | `250.6` |
-| Radio 1 (UHF) | `6` | Shayrat | `251.6` |
-| Radio 1 (UHF) | `7` | Al-Dumayr | `253.35` |
-| Radio 2 (V/UHF) | `1` | Guard | `121.5` |
-| Radio 2 (V/UHF) | `2` | Berkut | `136.0` |
-| Radio 2 (V/UHF) | `3` | Sokol | `136.1` |
-| Radio 2 (V/UHF) | `4` | Strizh | `136.2` |
-| Radio 2 (V/UHF) | `5` | Orel | `136.3` |
-| Radio 2 (V/UHF) | `6` | Yastreb | `136.4` |
-| Radio 2 (V/UHF) | `7` | Grach | `136.5` |
-| Radio 2 (V/UHF) | `8` | Bassel Al-Assad | `118.1` |
-| Radio 2 (V/UHF) | `9` | Shayrat | `120.2` |
-| Radio 2 (V/UHF) | `10` | Al-Dumayr | `120.3` |
+| Radio 1 (UHF) | `1` | Wizard 1 AWACS | `282.0` |
+| Radio 1 (UHF) | `2` | Shell 1 IL-78 | `294.0` |
+| Radio 1 (UHF) | `3` | Berkut | `395.0` |
+| Radio 1 (UHF) | `4` | Sokol | `395.1` |
+| Radio 1 (UHF) | `5` | Strizh | `395.2` |
+| Radio 1 (UHF) | `6` | Orel | `395.3` |
+| Radio 1 (UHF) | `7` | Yastreb | `395.4` |
+| Radio 1 (UHF) | `8` | Grach | `395.5` |
+| Radio 2 (V/UHF) | `1` | Bassel Al-Assad | `118.1` |
+| Radio 2 (V/UHF) | `2` | Shayrat | `120.2` |
+| Radio 2 (V/UHF) | `3` | Al-Dumayr | `120.3` |
 
 Préréglages injectés dans les appareils à radio programmable. FM : canaux 1 à 20 = 30 à 49 MHz (1 à 30 = 30 à 59 MHz sur le CH-47). Les canaux VEAF sont hors de la bande des tours de Syrie (UHF 243-260, VHF 118-134.6).
 
