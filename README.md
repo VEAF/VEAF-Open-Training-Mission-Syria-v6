@@ -80,7 +80,7 @@ En Méditerranée orientale, au large du Liban. Slots à froid sur le pont. Le m
 | Drone | Appareil | Au-dessus de | Code laser | Radio | Hauteur | Bullseye |
 |---|---|---|---|---|---|---|
 | **Reaper 1** | MQ-9 Reaper | Ceyhan | `1511` | `35.55 FM` | `3 000 m sol` | `346°/141 nm` |
-| **Reaper 2** | MQ-9 Reaper | Akamas | `1512` | `35.6 FM` | `3 000 m sol` | `277°/218 nm` |
+| **Reaper 2** | MQ-9 Reaper | Akamas | `1512` | `35.6 FM` | `3 000 m sol` | `277°/211 nm` |
 
 Un drone tourne au-dessus des zones d'entraînement hélicoptères (Ceyhan) et attaque (Akamas), et désigne au laser ce qu'il voit. CTLD le maintient à 3 000 m sol : au niveau difficile, l'artillerie antiaérienne lourde de la zone peut l'abattre, et le menu F10 *Assets* le remet en vol. Il ne désigne que des véhicules — ce que sont aussi les cibles des niveaux faciles — et ne marque qu'à 10 km. Pas de drone sur la zone SEAD de Karpas : ses SAM portent plus loin que le laser.
 
@@ -100,9 +100,9 @@ Loin du front, à quelques minutes d'une base. Trois niveaux par famille, chacun
 
 ### Attaque — Akamas (Chypre)
 
-`N35°00.082' E032°19.364'` · bullseye `277°/218 nm` · rayon 1.6 nm · menu F10 « Entraînement attaque » · Arco 1 (panier, TACAN 51Y, 291.0) à 162 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 234 nm
+`N35°01.000' E032°27.500'` · bullseye `277°/211 nm` · rayon 1.6 nm · menu F10 « Entraînement attaque » · Arco 1 (panier, TACAN 51Y, 291.0) à 157 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 228 nm
 
-- **A1 Attaque Akamas — facile** — Champ de tir air-sol sur la péninsule d'Akamas (ouest de Chypre) : blindés et camions immobiles en tir interdit, dépôt et réservoir.
+- **A1 Attaque Akamas — facile** — Champ de tir air-sol dans la plaine de Polis, au pied de la péninsule d'Akamas (ouest de Chypre) : blindés et camions immobiles en tir interdit, dépôt et réservoir.
 - **A2 Attaque Akamas — moyen** — Champ de tir d'Akamas : une compagnie blindée et de l'artillerie antiaérienne en plus des cibles du niveau facile.
 - **A3 Attaque Akamas — difficile** — Champ de tir d'Akamas : un second groupe blindé et une défense sol-air courte portée à guidage radar.
 

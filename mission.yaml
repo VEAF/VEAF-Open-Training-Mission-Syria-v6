@@ -484,7 +484,7 @@ modules:
         friendly_name: A1 Attaque Akamas — facile
         radio_group_name: Entraînement attaque
         training: true
-        briefing: "Champ de tir air-sol sur la péninsule d'Akamas (ouest de Chypre) : blindés et camions immobiles en tir interdit, dépôt et réservoir.\nPosition : bullseye 277°/218 nm (N35°00.082' E032°19.364'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 162 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 234 nm."
+        briefing: "Champ de tir air-sol dans la plaine de Polis, au pied de la péninsule d'Akamas (ouest de Chypre) : blindés et camions immobiles en tir interdit, dépôt et réservoir.\nPosition : bullseye 277°/211 nm (N35°01.000' E032°27.500'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 157 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 228 nm."
       - type: zone
         zone_name: combatZone_Akamas_Medium
         friendly_name: A2 Attaque Akamas — moyen
@@ -492,7 +492,7 @@ modules:
         training: true
         includes:
           - combatZone_Akamas_Easy
-        briefing: "Champ de tir d'Akamas : une compagnie blindée et de l'artillerie antiaérienne en plus des cibles du niveau facile.\nPosition : bullseye 277°/218 nm (N35°00.082' E032°19.364'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 162 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 234 nm."
+        briefing: "Champ de tir d'Akamas : une compagnie blindée et de l'artillerie antiaérienne en plus des cibles du niveau facile.\nPosition : bullseye 277°/211 nm (N35°01.000' E032°27.500'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 157 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 228 nm."
       - type: zone
         zone_name: combatZone_Akamas_Hard
         friendly_name: A3 Attaque Akamas — difficile
@@ -500,7 +500,7 @@ modules:
         training: true
         includes:
           - combatZone_Akamas_Medium
-        briefing: "Champ de tir d'Akamas : un second groupe blindé et une défense sol-air courte portée à guidage radar.\nPosition : bullseye 277°/218 nm (N35°00.082' E032°19.364'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 162 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 234 nm."
+        briefing: "Champ de tir d'Akamas : un second groupe blindé et une défense sol-air courte portée à guidage radar.\nPosition : bullseye 277°/211 nm (N35°01.000' E032°27.500'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 157 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 228 nm."
       - type: zone
         zone_name: combatZone_Karpas_Easy
         friendly_name: S1 SEAD Karpas — facile
