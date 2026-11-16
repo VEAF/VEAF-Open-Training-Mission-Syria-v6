@@ -7,8 +7,8 @@
  },
  "start": 28800,
  "bullseye": {
-  "x": -34286.0,
-  "y": 73078.0,
+  "x": -34286,
+  "y": 73078,
   "ddm": "N34°43.848' E036°42.564'"
  },
  "bases": [
@@ -170,24 +170,24 @@
  "farps": [
   {
    "name": "Reyhanli",
-   "x": 136000.0,
-   "y": 61500.0,
+   "x": 136000,
+   "y": 61500,
    "freq": "129.5",
    "be": "356°/92 nm",
    "ddm": "N36°15.743' E036°32.198'"
   },
   {
    "name": "Ceyhan",
-   "x": 221000.0,
-   "y": 2500.0,
+   "x": 221000,
+   "y": 2500,
    "freq": "130.5",
    "be": "345°/143 nm",
    "ddm": "N37°00.731' E035°50.978'"
   },
   {
    "name": "Golan",
-   "x": -225500.0,
-   "y": -28500.0,
+   "x": -225500,
+   "y": -28500,
    "freq": "130",
    "be": "208°/117 nm",
    "ddm": "N32°58.998' E035°40.139'"
@@ -200,7 +200,7 @@
    "type": "KC-135",
    "kind": "tanker",
    "tacan": "50Y",
-   "freq": 290.0,
+   "freq": 290,
    "alt_ft": 22000.0,
    "a": {
     "x": 245000,
@@ -208,8 +208,8 @@
     "ddm": "N37°14.323' E036°15.772'"
    },
    "b": {
-    "x": 245000.0,
-    "y": 110000.0,
+    "x": 245000,
+    "y": 110000,
     "ddm": "N37°15.260' E037°03.089'"
    },
    "mid_be": "000°/151 nm",
@@ -221,7 +221,7 @@
    "type": "KC135MPRS",
    "kind": "tanker",
    "tacan": "51Y",
-   "freq": 291.0,
+   "freq": 291,
    "alt_ft": 18000.0,
    "a": {
     "x": 205000,
@@ -229,8 +229,8 @@
     "ddm": "N36°50.055' E034°45.851'"
    },
    "b": {
-    "x": 250000.0,
-    "y": -65000.0,
+    "x": 250000,
+    "y": -65000,
     "ddm": "N37°15.027' E035°04.740'"
    },
    "mid_be": "330°/164 nm",
@@ -242,7 +242,7 @@
    "type": "KC-135",
    "kind": "tanker",
    "tacan": "52Y",
-   "freq": 292.0,
+   "freq": 292,
    "alt_ft": 24000.0,
    "a": {
     "x": -360000,
@@ -250,8 +250,8 @@
     "ddm": "N31°47.560' E036°38.807'"
    },
    "b": {
-    "x": -360000.0,
-    "y": 140000.0,
+    "x": -360000,
+    "y": 140000,
     "ddm": "N31°48.329' E037°29.485'"
    },
    "mid_be": "175°/176 nm",
@@ -263,7 +263,7 @@
    "type": "KC135MPRS",
    "kind": "tanker",
    "tacan": "53Y",
-   "freq": 293.0,
+   "freq": 293,
    "alt_ft": 20000.0,
    "a": {
     "x": -280000,
@@ -271,8 +271,8 @@
     "ddm": "N32°28.003' E034°49.301'"
    },
    "b": {
-    "x": -330000.0,
-    "y": -95000.0,
+    "x": -330000,
+    "y": -95000,
     "ddm": "N32°01.316' E035°00.042'"
    },
    "mid_be": "213°/174 nm",
@@ -284,7 +284,7 @@
    "type": "E-3A",
    "kind": "awacs",
    "tacan": null,
-   "freq": 280.0,
+   "freq": 280,
    "alt_ft": 30000.0,
    "a": {
     "x": 260000,
@@ -292,8 +292,8 @@
     "ddm": "N37°23.846' E037°36.757'"
    },
    "b": {
-    "x": 280000.0,
-    "y": 220000.0,
+    "x": 280000,
+    "y": 220000,
     "ddm": "N37°35.023' E038°17.323'"
    },
    "mid_be": "021°/176 nm",
@@ -305,7 +305,7 @@
    "type": "E-3A",
    "kind": "awacs",
    "tacan": null,
-   "freq": 281.0,
+   "freq": 281,
    "alt_ft": 31000.0,
    "a": {
     "x": -370000,
@@ -313,8 +313,8 @@
     "ddm": "N31°41.357' E036°00.997'"
    },
    "b": {
-    "x": -390000.0,
-    "y": 60000.0,
+    "x": -390000,
+    "y": 60000,
     "ddm": "N31°31.334' E036°39.215'"
    },
    "mid_be": "187°/188 nm",
@@ -326,7 +326,7 @@
    "type": "E-3A",
    "kind": "awacs",
    "tacan": null,
-   "freq": 283.0,
+   "freq": 283,
    "alt_ft": 30000.0,
    "a": {
     "x": 30000,
@@ -334,8 +334,8 @@
     "ddm": "N35°08.143' E032°06.860'"
    },
    "b": {
-    "x": 30000.0,
-    "y": -390000.0,
+    "x": 30000,
+    "y": -390000,
     "ddm": "N35°06.404' E031°37.458'"
    },
    "mid_be": "278°/240 nm",
@@ -347,7 +347,7 @@
    "type": "IL-78M",
    "kind": "tanker",
    "tacan": null,
-   "freq": 294.0,
+   "freq": 294,
    "alt_ft": 20000.0,
    "a": {
     "x": -40000,
@@ -355,8 +355,8 @@
     "ddm": "N34°41.676' E037°46.106'"
    },
    "b": {
-    "x": -10000.0,
-    "y": 230000.0,
+    "x": -10000,
+    "y": 230000,
     "ddm": "N34°58.198' E038°25.295'"
    },
    "mid_be": "086°/69 nm",
@@ -368,7 +368,7 @@
    "type": "A-50",
    "kind": "awacs",
    "tacan": null,
-   "freq": 282.0,
+   "freq": 282,
    "alt_ft": 30000.0,
    "a": {
     "x": 0,
@@ -376,8 +376,8 @@
     "ddm": "N35°03.167' E037°32.627'"
    },
    "b": {
-    "x": 40000.0,
-    "y": 190000.0,
+    "x": 40000,
+    "y": 190000,
     "ddm": "N35°25.073' E037°58.669'"
    },
    "mid_be": "061°/60 nm",
@@ -389,7 +389,7 @@
    "type": "A-50",
    "kind": "awacs",
    "tacan": null,
-   "freq": 284.0,
+   "freq": 284,
    "alt_ft": 30000.0,
    "a": {
     "x": 140000,
@@ -397,8 +397,8 @@
     "ddm": "N36°07.216' E032°01.738'"
    },
    "b": {
-    "x": 140000.0,
-    "y": -390000.0,
+    "x": 140000,
+    "y": -390000,
     "ddm": "N36°05.413' E031°31.980'"
    },
    "mid_be": "292°/256 nm",
@@ -416,8 +416,8 @@
     "ddm": "N36°39.207' E036°17.024'"
    },
    "b": {
-    "x": 190000.0,
-    "y": 100000.0,
+    "x": 190000,
+    "y": 100000,
     "ddm": "N36°45.417' E036°57.128'"
    },
    "mid_be": "359°/118 nm",
@@ -436,8 +436,8 @@
     "ddm": "N32°50.964' E035°33.071'"
    },
    "b": {
-    "x": -270000.0,
-    "y": -30000.0,
+    "x": -270000,
+    "y": -30000,
     "ddm": "N32°34.928' E035°40.076'"
    },
    "mid_be": "206°/133 nm",
@@ -456,8 +456,8 @@
     "ddm": "N34°40.593' E036°34.091'"
    },
    "b": {
-    "x": -20000.0,
-    "y": 100000.0,
+    "x": -20000,
+    "y": 100000,
     "ddm": "N34°51.884' E037°00.010'"
    },
    "mid_be": "058°/4 nm",
@@ -476,8 +476,8 @@
     "ddm": "N34°36.438' E038°05.815'"
    },
    "b": {
-    "x": -30000.0,
-    "y": 250000.0,
+    "x": -30000,
+    "y": 250000,
     "ddm": "N34°47.428' E038°38.487'"
    },
    "mid_be": "092°/82 nm",
@@ -496,8 +496,8 @@
     "ddm": "N35°42.887' E036°38.853'"
    },
    "b": {
-    "x": 95000.0,
-    "y": 100000.0,
+    "x": 95000,
+    "y": 100000,
     "ddm": "N35°54.061' E036°58.465'"
    },
    "mid_be": "006°/65 nm",
@@ -516,8 +516,8 @@
     "ddm": "N33°05.851' E036°30.329'"
    },
    "b": {
-    "x": -245000.0,
-    "y": 20000.0,
+    "x": -245000,
+    "y": 20000,
     "ddm": "N32°49.223' E036°11.574'"
    },
    "mid_be": "191°/108 nm",
@@ -530,8 +530,8 @@
  "carriers": [
   {
    "name": "CVN-74 Stennis",
-   "x": -136000.0,
-   "y": -160000.0,
+   "x": -136000,
+   "y": -160000,
    "tacan": "74X STN",
    "icls": 11,
    "link4": 336.0,
@@ -560,8 +560,8 @@
   },
   {
    "name": "CVN-71 Roosevelt",
-   "x": -193000.0,
-   "y": -166000.0,
+   "x": -193000,
+   "y": -166000,
    "tacan": "71X RSV",
    "icls": 12,
    "link4": 337.0,
@@ -590,8 +590,8 @@
   },
   {
    "name": "LHA-1 Tarawa",
-   "x": -102000.0,
-   "y": -113000.0,
+   "x": -102000,
+   "y": -113000,
    "tacan": "73X TRW",
    "icls": 13,
    "tower": 307.0,
@@ -619,39 +619,39 @@
    "name": "H1 Hélico Ceyhan — facile",
    "training": true,
    "menu": "Entraînement hélicoptères",
-   "x": 219000,
-   "y": 11000,
+   "x": 212316,
+   "y": 2506,
    "radius_nm": 1.079913606911447,
-   "be": "346°/141 nm",
-   "ddm": "N36°59.801' E035°56.746'",
-   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 44 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 21 nm",
-   "briefing": "Champ de tir hélicoptères à 8 km à l'est du FARP Ceyhan : cibles inertes (blindés et camions immobiles, tir interdit)."
+   "be": "344°/138 nm",
+   "ddm": "N36°56.042' E035°51.176'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 42 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 27 nm",
+   "briefing": "Champ de tir hélicoptères dans la plaine, à 9 km au sud du FARP Ceyhan : cibles inertes (blindés et camions immobiles, tir interdit)."
   },
   {
    "key": "combatZone_Ceyhan_Medium",
    "name": "H2 Hélico Ceyhan — moyen",
    "training": true,
    "menu": "Entraînement hélicoptères",
-   "x": 219000,
-   "y": 11000,
+   "x": 212316,
+   "y": 2506,
    "radius_nm": 1.079913606911447,
-   "be": "346°/141 nm",
-   "ddm": "N36°59.801' E035°56.746'",
-   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 44 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 21 nm",
-   "briefing": "Champ de tir hélicoptères de Ceyhan, avec de l'artillerie antiaérienne légère en plus des cibles du niveau facile."
+   "be": "344°/138 nm",
+   "ddm": "N36°56.042' E035°51.176'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 42 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 27 nm",
+   "briefing": "Champ de tir hélicoptères de Ceyhan : de l'artillerie antiaérienne légère et une défense courte portée à guidage infrarouge (un SA-13 et des lance-missiles portatifs SA-18) en plus des cibles du niveau facile."
   },
   {
    "key": "combatZone_Ceyhan_Hard",
    "name": "H3 Hélico Ceyhan — difficile",
    "training": true,
    "menu": "Entraînement hélicoptères",
-   "x": 219000,
-   "y": 11000,
+   "x": 212316,
+   "y": 2506,
    "radius_nm": 1.079913606911447,
-   "be": "346°/141 nm",
-   "ddm": "N36°59.801' E035°56.746'",
-   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 44 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 21 nm",
-   "briefing": "Champ de tir hélicoptères de Ceyhan, avec une défense courte portée réaliste : missiles sol-air à guidage infrarouge et lance-missiles portatifs."
+   "be": "344°/138 nm",
+   "ddm": "N36°56.042' E035°51.176'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 42 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 27 nm",
+   "briefing": "Champ de tir hélicoptères de Ceyhan, avec une défense courte portée à guidage radar en plus du niveau moyen : un SA-19 Tunguska et un SA-8 Osa, au sud des cibles. Approchez au ras du relief."
   },
   {
    "key": "combatZone_Akamas_Easy",
@@ -1637,64 +1637,64 @@
  "front": [
   [
    {
-    "x": 99566.0,
-    "y": 5788.0
+    "x": 99566,
+    "y": 5788
    },
    {
-    "x": 132111.0,
-    "y": 73398.0
+    "x": 132111,
+    "y": 73398
    },
    {
-    "x": 177898.0,
-    "y": 111178.0
+    "x": 177898,
+    "y": 111178
    },
    {
-    "x": 195496.0,
-    "y": 194506.0
+    "x": 195496,
+    "y": 194506
    },
    {
-    "x": 181728.0,
-    "y": 278335.0
+    "x": 181728,
+    "y": 278335
    },
    {
-    "x": 198901.0,
-    "y": 378194.0
+    "x": 198901,
+    "y": 378194
    }
   ],
   [
    {
-    "x": -190749.0,
-    "y": -15176.0
+    "x": -190749,
+    "y": -15176
    },
    {
-    "x": -255089.0,
-    "y": -17136.0
+    "x": -255089,
+    "y": -17136
    },
    {
-    "x": -259941.0,
-    "y": -3198.0
+    "x": -259941,
+    "y": -3198
    },
    {
-    "x": -266990.0,
-    "y": 10691.0
+    "x": -266990,
+    "y": 10691
    },
    {
-    "x": -301891.0,
-    "y": 78527.0
+    "x": -301891,
+    "y": 78527
    },
    {
-    "x": -304080.0,
-    "y": 141590.0
+    "x": -304080,
+    "y": 141590
    },
    {
-    "x": -187540.0,
-    "y": 263266.0
+    "x": -187540,
+    "y": 263266
    }
   ]
  ],
  "arena_zone": {
-  "x": 85000.0,
-  "y": -365000.0,
+  "x": 85000,
+  "y": -365000,
   "radius_nm": 25,
   "be": "285°/245 nm",
   "ddm": "N35°36.910' E031°51.179'"
@@ -1848,8 +1848,8 @@
    "name": "Paphos-SR",
    "side": "blue",
    "alias": "-avenger_squad",
-   "x": -16000.0,
-   "y": -315000.0,
+   "x": -16000,
+   "y": -315000,
    "ddm": "N34°44.511' E032°28.458'",
    "be": "273°/210 nm"
   },
@@ -1911,8 +1911,8 @@
    "name": "EWR Carmel",
    "side": "blue",
    "alias": "EWR 1L13",
-   "x": -250000.0,
-   "y": -78000.0,
+   "x": -250000,
+   "y": -78000,
    "ddm": "N32°44.854' E035°08.990'",
    "be": "215°/142 nm"
   },
@@ -2132,8 +2132,8 @@
    "jtac": 1511,
    "freq": "35.55",
    "mod": "FM",
-   "be": "346°/141 nm",
-   "ddm": "N36°59.801' E035°56.746'"
+   "be": "344°/138 nm",
+   "ddm": "N36°56.042' E035°51.176'"
   },
   {
    "name": "Reaper 2",

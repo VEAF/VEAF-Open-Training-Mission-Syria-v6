@@ -79,7 +79,7 @@ En Méditerranée orientale, au large du Liban. Slots à froid sur le pont. Le m
 
 | Drone | Appareil | Au-dessus de | Code laser | Radio | Hauteur | Bullseye |
 |---|---|---|---|---|---|---|
-| **Reaper 1** | MQ-9 Reaper | Ceyhan | `1511` | `35.55 FM` | `3 000 m sol` | `346°/141 nm` |
+| **Reaper 1** | MQ-9 Reaper | Ceyhan | `1511` | `35.55 FM` | `3 000 m sol` | `344°/138 nm` |
 | **Reaper 2** | MQ-9 Reaper | Akamas | `1512` | `35.6 FM` | `3 000 m sol` | `277°/211 nm` |
 
 Un drone tourne au-dessus des zones d'entraînement hélicoptères (Ceyhan) et attaque (Akamas), et désigne au laser ce qu'il voit. CTLD le maintient à 3 000 m sol : au niveau difficile, l'artillerie antiaérienne lourde de la zone peut l'abattre, et le menu F10 *Assets* le remet en vol. Il ne désigne que des véhicules — ce que sont aussi les cibles des niveaux faciles — et ne marque qu'à 10 km. Pas de drone sur la zone SEAD de Karpas : ses SAM portent plus loin que le laser.
@@ -92,11 +92,11 @@ Loin du front, à quelques minutes d'une base. Trois niveaux par famille, chacun
 
 ### Hélicoptères — Ceyhan
 
-`N36°59.801' E035°56.746'` · bullseye `346°/141 nm` · rayon 1.1 nm · menu F10 « Entraînement hélicoptères » · Arco 1 (panier, TACAN 51Y, 291.0) à 44 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 21 nm
+`N36°56.042' E035°51.176'` · bullseye `344°/138 nm` · rayon 1.1 nm · menu F10 « Entraînement hélicoptères » · Arco 1 (panier, TACAN 51Y, 291.0) à 42 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 27 nm
 
-- **H1 Hélico Ceyhan — facile** — Champ de tir hélicoptères à 8 km à l'est du FARP Ceyhan : cibles inertes (blindés et camions immobiles, tir interdit).
-- **H2 Hélico Ceyhan — moyen** — Champ de tir hélicoptères de Ceyhan, avec de l'artillerie antiaérienne légère en plus des cibles du niveau facile.
-- **H3 Hélico Ceyhan — difficile** — Champ de tir hélicoptères de Ceyhan, avec une défense courte portée réaliste : missiles sol-air à guidage infrarouge et lance-missiles portatifs.
+- **H1 Hélico Ceyhan — facile** — Champ de tir hélicoptères dans la plaine, à 9 km au sud du FARP Ceyhan : cibles inertes (blindés et camions immobiles, tir interdit).
+- **H2 Hélico Ceyhan — moyen** — Champ de tir hélicoptères de Ceyhan : de l'artillerie antiaérienne légère et une défense courte portée à guidage infrarouge (un SA-13 et des lance-missiles portatifs SA-18) en plus des cibles du niveau facile.
+- **H3 Hélico Ceyhan — difficile** — Champ de tir hélicoptères de Ceyhan, avec une défense courte portée à guidage radar en plus du niveau moyen : un SA-19 Tunguska et un SA-8 Osa, au sud des cibles. Approchez au ras du relief.
 
 ### Attaque — Akamas (Chypre)
 
