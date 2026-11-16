@@ -337,7 +337,7 @@ Défense permanente des deux camps : courte et moyenne portée sur chaque base a
 | Palmyra-EWR | Radar d'alerte 55G6 | `N34°33.787' E038°13.692'` | `098°/76 nm` |
 | Qasioun-EWR | Radar d'alerte 55G6 | `N33°33.650' E036°14.673'` | `200°/74 nm` |
 | Aleppo-EWR | Radar d'alerte 55G6 | `N36°03.654' E037°24.865'` | `025°/87 nm` |
-| combatZone_Karpas_Hard-Hard-EWR | Radar d'alerte 55G6 | `N35°34.478' E034°21.928'` | `296°/126 nm` |
+| combatZone_Karpas_Hard-Hard-EWR | Radar d'alerte 55G6 | `N35°34.576' E034°22.042'` | `296°/126 nm` |
 
 ## Plan radio
 
