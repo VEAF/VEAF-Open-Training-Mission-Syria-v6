@@ -619,25 +619,25 @@
    "name": "H1 Hélico Ceyhan — facile",
    "training": true,
    "menu": "Entraînement hélicoptères",
-   "x": 212316,
-   "y": 2506,
+   "x": 212916,
+   "y": 9506,
    "radius_nm": 1.079913606911447,
-   "be": "344°/138 nm",
-   "ddm": "N36°56.042' E035°51.176'",
-   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 42 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 27 nm",
-   "briefing": "Champ de tir hélicoptères dans la plaine, à 9 km au sud du FARP Ceyhan : cibles inertes (blindés et camions immobiles, tir interdit)."
+   "be": "346°/138 nm",
+   "ddm": "N36°56.489' E035°55.872'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 45 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 24 nm",
+   "briefing": "Champ de tir hélicoptères sur les collines nues, à 11 km au sud-est du FARP Ceyhan : cibles inertes (blindés et camions immobiles, tir interdit)."
   },
   {
    "key": "combatZone_Ceyhan_Medium",
    "name": "H2 Hélico Ceyhan — moyen",
    "training": true,
    "menu": "Entraînement hélicoptères",
-   "x": 212316,
-   "y": 2506,
+   "x": 212916,
+   "y": 9506,
    "radius_nm": 1.079913606911447,
-   "be": "344°/138 nm",
-   "ddm": "N36°56.042' E035°51.176'",
-   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 42 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 27 nm",
+   "be": "346°/138 nm",
+   "ddm": "N36°56.489' E035°55.872'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 45 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 24 nm",
    "briefing": "Champ de tir hélicoptères de Ceyhan : de l'artillerie antiaérienne légère et une défense courte portée à guidage infrarouge (un SA-13 et des lance-missiles portatifs SA-18) en plus des cibles du niveau facile."
   },
   {
@@ -645,13 +645,13 @@
    "name": "H3 Hélico Ceyhan — difficile",
    "training": true,
    "menu": "Entraînement hélicoptères",
-   "x": 212316,
-   "y": 2506,
+   "x": 212916,
+   "y": 9506,
    "radius_nm": 1.079913606911447,
-   "be": "344°/138 nm",
-   "ddm": "N36°56.042' E035°51.176'",
-   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 42 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 27 nm",
-   "briefing": "Champ de tir hélicoptères de Ceyhan, avec une défense courte portée à guidage radar en plus du niveau moyen : un SA-19 Tunguska et un SA-8 Osa, au sud des cibles. Approchez au ras du relief."
+   "be": "346°/138 nm",
+   "ddm": "N36°56.489' E035°55.872'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 45 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 24 nm",
+   "briefing": "Champ de tir hélicoptères de Ceyhan, avec une défense courte portée à guidage radar en plus du niveau moyen : un SA-19 Tunguska au nord-est des cibles et un SA-8 Osa à l'est. Approchez au ras du relief."
   },
   {
    "key": "combatZone_Akamas_Easy",
@@ -2132,8 +2132,8 @@
    "jtac": 1511,
    "freq": "35.55",
    "mod": "FM",
-   "be": "344°/138 nm",
-   "ddm": "N36°56.042' E035°51.176'"
+   "be": "346°/138 nm",
+   "ddm": "N36°56.489' E035°55.872'"
   },
   {
    "name": "Reaper 2",

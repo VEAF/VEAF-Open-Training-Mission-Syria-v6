@@ -462,7 +462,7 @@ modules:
         friendly_name: H1 Hélico Ceyhan — facile
         radio_group_name: Entraînement hélicoptères
         training: true
-        briefing: "Champ de tir hélicoptères dans la plaine, à 9 km au sud du FARP Ceyhan : cibles inertes (blindés et camions immobiles, tir interdit).\nPosition : bullseye 344°/138 nm (N36°56.042' E035°51.176'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 42 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 27 nm."
+        briefing: "Champ de tir hélicoptères sur les collines nues, à 11 km au sud-est du FARP Ceyhan : cibles inertes (blindés et camions immobiles, tir interdit).\nPosition : bullseye 346°/138 nm (N36°56.489' E035°55.872'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 45 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 24 nm."
       - type: zone
         zone_name: combatZone_Ceyhan_Medium
         friendly_name: H2 Hélico Ceyhan — moyen
@@ -470,7 +470,7 @@ modules:
         training: true
         includes:
           - combatZone_Ceyhan_Easy
-        briefing: "Champ de tir hélicoptères de Ceyhan : de l'artillerie antiaérienne légère et une défense courte portée à guidage infrarouge (un SA-13 et des lance-missiles portatifs SA-18) en plus des cibles du niveau facile.\nPosition : bullseye 344°/138 nm (N36°56.042' E035°51.176'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 42 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 27 nm."
+        briefing: "Champ de tir hélicoptères de Ceyhan : de l'artillerie antiaérienne légère et une défense courte portée à guidage infrarouge (un SA-13 et des lance-missiles portatifs SA-18) en plus des cibles du niveau facile.\nPosition : bullseye 346°/138 nm (N36°56.489' E035°55.872'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 45 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 24 nm."
       - type: zone
         zone_name: combatZone_Ceyhan_Hard
         friendly_name: H3 Hélico Ceyhan — difficile
@@ -478,7 +478,7 @@ modules:
         training: true
         includes:
           - combatZone_Ceyhan_Medium
-        briefing: "Champ de tir hélicoptères de Ceyhan, avec une défense courte portée à guidage radar en plus du niveau moyen : un SA-19 Tunguska et un SA-8 Osa, au sud des cibles. Approchez au ras du relief.\nPosition : bullseye 344°/138 nm (N36°56.042' E035°51.176'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 42 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 27 nm."
+        briefing: "Champ de tir hélicoptères de Ceyhan, avec une défense courte portée à guidage radar en plus du niveau moyen : un SA-19 Tunguska au nord-est des cibles et un SA-8 Osa à l'est. Approchez au ras du relief.\nPosition : bullseye 346°/138 nm (N36°56.489' E035°55.872'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 45 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 24 nm."
       - type: zone
         zone_name: combatZone_Akamas_Easy
         friendly_name: A1 Attaque Akamas — facile
