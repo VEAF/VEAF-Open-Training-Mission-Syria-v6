@@ -12,6 +12,7 @@ déployé par `veaf-build publish-local`), le reste par le catalogue veaf-missio
 import os
 import shutil
 import subprocess
+import time
 
 from paths import ROOT
 from mission_tools.miz_tools import read_miz, write_miz
@@ -27,13 +28,19 @@ EXE = str(ROOT / "veaf-tools.exe")
 # sources et on la remet, pour qu'un commit après un test n'embarque jamais la configuration de test
 CONFIG = ROOT / "src" / "scripts" / "veaf-config.lua"
 config_before = CONFIG.read_bytes() if CONFIG.exists() else None
+started = time.time()
 try:
     subprocess.run([EXE, "build", "--profile", "LOCAL_TEST", BUILT.name], cwd=ROOT, check=True, stdout=subprocess.DEVNULL)
 finally:
     if config_before is not None:
         CONFIG.write_bytes(config_before)
+# le .miz que CE build a écrit : veaf-tools ajoute le suffixe du profil au nom donné (…_LOCAL_TEST_LOCAL_TEST.miz),
+# et copier BUILT tel quel a fait tester un fichier d'octobre, l'ancien Ceyhan compris (16/11/2026)
+fresh = [p for p in ROOT.glob("*LOCAL_TEST*.miz") if p.stat().st_mtime >= started]
+if len(fresh) != 1:
+    raise SystemExit(f"build LOCAL_TEST : {len(fresh)} .miz écrit(s) par ce build, attendu 1 : {fresh}")
 OUT.parent.mkdir(exist_ok=True)
-shutil.copy(BUILT, OUT)
+shutil.copy(fresh[0], OUT)
 
 # un game master par camp
 miz = read_miz(OUT)
