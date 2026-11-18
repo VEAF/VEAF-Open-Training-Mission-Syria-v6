@@ -1,0 +1,362 @@
+{
+  "name": "akamas-hard",
+  "title": "A3 Attaque Akamas — difficile",
+  "heading_deg": 233.0,
+  "pitch_deg": 30.0,
+  "slant_m": 6000.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Akamas_Hard",
+  "camera": {
+    "position": [
+      17717.38311688855,
+      3110.465789473684,
+      -310406.69973855553
+    ],
+    "forward": [
+      -0.521187098428794,
+      -0.49999999999999994,
+      -0.691638640065298
+    ],
+    "up": [
+      -0.3009075115760241,
+      0.8660254037844387,
+      -0.39931775502364636
+    ],
+    "right": [
+      0.7986355100472928,
+      0.0,
+      -0.6018150231520483
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 14590.26052631579,
+    "z": -314556.5315789473,
+    "alt_m": 110.46578947368421,
+    "lat": 35.01616157090863,
+    "lon": 32.457330620577316,
+    "dms": "N35°00'58.18\" E032°27'26.39\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:34",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] combatZone_Akamas_Easy-Easy-BMP-2#10465",
+      "type": "BMP-2",
+      "x": 14994.9,
+      "z": -314015.2,
+      "alt": 110.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Armored Platoon#10464",
+      "type": "BMP-2",
+      "x": 16424.3,
+      "z": -313622.2,
+      "alt": 131.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Armored Platoon#10464",
+      "type": "VAB_Mephisto",
+      "x": 16211.3,
+      "z": -313636.2,
+      "alt": 141.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Armored Platoon#10464",
+      "type": "BMP-2",
+      "x": 16431.3,
+      "z": -313579.2,
+      "alt": 133.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Armored Platoon#10464",
+      "type": "T-55",
+      "x": 16326.3,
+      "z": -313521.2,
+      "alt": 141.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Armored Platoon#10464",
+      "type": "BMP-2",
+      "x": 16283.3,
+      "z": -313579.2,
+      "alt": 139.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] combatZone_Akamas_Easy-Easy-T72-3#10463",
+      "type": "T-72B",
+      "x": 14377.6,
+      "z": -314264.5,
+      "alt": 102.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] combatZone_Akamas_Easy-Easy-T72-4#10462",
+      "type": "T-72B",
+      "x": 14439.3,
+      "z": -314253.7,
+      "alt": 104.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] combatZone_Akamas_Easy-Easy-BMP-3#10461",
+      "type": "BMP-2",
+      "x": 15045.5,
+      "z": -313998.8,
+      "alt": 111.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] combatZone_Akamas_Easy-Easy-T72-1#10460",
+      "type": "T-72B",
+      "x": 14260.3,
+      "z": -314262.9,
+      "alt": 103.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] combatZone_Akamas_Easy-Easy-Convoy#10459",
+      "type": "Ural-375",
+      "x": 15161.0,
+      "z": -314756.6,
+      "alt": 100.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] combatZone_Akamas_Easy-Easy-Convoy#10459",
+      "type": "KAMAZ Truck",
+      "x": 15181.0,
+      "z": -314756.6,
+      "alt": 101.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] combatZone_Akamas_Easy-Easy-Convoy#10459",
+      "type": "Ural-4320T",
+      "x": 15201.0,
+      "z": -314756.6,
+      "alt": 102.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Air Defense Battery#10458",
+      "type": "Ural-4320-31",
+      "x": 13423.1,
+      "z": -313583.2,
+      "alt": 160.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Air Defense Battery#10458",
+      "type": "Dog Ear radar",
+      "x": 13352.1,
+      "z": -313561.2,
+      "alt": 164.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Air Defense Battery#10458",
+      "type": "Strela-1 9P31",
+      "x": 13546.1,
+      "z": -313521.2,
+      "alt": 160.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Air Defense Battery#10458",
+      "type": "ZSU-23-4 Shilka",
+      "x": 13508.1,
+      "z": -313496.2,
+      "alt": 165.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Air Defense Battery#10458",
+      "type": "Ural-4320-31",
+      "x": 13456.1,
+      "z": -313449.2,
+      "alt": 176.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] combatZone_Akamas_Easy-Easy-T72-2#10456",
+      "type": "T-72B",
+      "x": 14298.6,
+      "z": -314256.5,
+      "alt": 103.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Air Defense Battery#10455",
+      "type": "ZSU-23-4 Shilka",
+      "x": 16262.5,
+      "z": -315664.5,
+      "alt": 59.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Air Defense Battery#10455",
+      "type": "Strela-10M3",
+      "x": 16386.5,
+      "z": -315786.5,
+      "alt": 52.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Air Defense Battery#10455",
+      "type": "Dog Ear radar",
+      "x": 16306.5,
+      "z": -315744.5,
+      "alt": 56.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Air Defense Battery#10455",
+      "type": "Ural-4320-31",
+      "x": 16241.5,
+      "z": -315905.5,
+      "alt": 46.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Air Defense Battery#10455",
+      "type": "Strela-10M3",
+      "x": 16409.5,
+      "z": -315842.5,
+      "alt": 48.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Air Defense Battery#10455",
+      "type": "Strela-1 9P31",
+      "x": 16349.5,
+      "z": -315686.5,
+      "alt": 55.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] combatZone_Akamas_Easy-Easy-BMP-1#10454",
+      "type": "BMP-2",
+      "x": 14989.7,
+      "z": -313987.8,
+      "alt": 114.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Armored Platoon#10453",
+      "type": "BMP-3",
+      "x": 13140.8,
+      "z": -314895.8,
+      "alt": 113.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Armored Platoon#10453",
+      "type": "BMP-3",
+      "x": 13165.8,
+      "z": -315028.8,
+      "alt": 115.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Armored Platoon#10453",
+      "type": "BMP-3",
+      "x": 13028.8,
+      "z": -314795.8,
+      "alt": 109.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Armored Platoon#10453",
+      "type": "ZSU-23-4 Shilka",
+      "x": 13057.8,
+      "z": -314890.8,
+      "alt": 111.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Armored Platoon#10453",
+      "type": "BMP-3",
+      "x": 13351.8,
+      "z": -314852.8,
+      "alt": 123.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Armored Platoon#10453",
+      "type": "Chieftain_mk3",
+      "x": 13193.8,
+      "z": -315102.8,
+      "alt": 108.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Armored Platoon#10453",
+      "type": "ZSU_57_2",
+      "x": 13249.8,
+      "z": -314975.8,
+      "alt": 120.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Armored Platoon#10453",
+      "type": "Chieftain_mk3",
+      "x": 13279.8,
+      "z": -315135.8,
+      "alt": 108.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Armored Platoon#10453",
+      "type": "BMP-3",
+      "x": 13231.8,
+      "z": -314850.8,
+      "alt": 121.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Hard [r] Armored Platoon#10453",
+      "type": "BTR-82A",
+      "x": 13432.8,
+      "z": -314928.8,
+      "alt": 110.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Akamas_Hard [r] combatZone_Akamas_Easy-Easy-Depot#10452 #129",
+      "type": "Warehouse",
+      "x": 13740.0,
+      "z": -315061.0,
+      "alt": 84.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Akamas_Hard [r] combatZone_Akamas_Easy-Easy-Fuel#10457 #130",
+      "type": "Fuel tank",
+      "x": 13690.0,
+      "z": -315141.0,
+      "alt": 86.4
+    }
+  ],
+  "image": "akamas-hard.jpg",
+  "heading": 233,
+  "pitch": -30.0,
+  "x": 17717.38311688855,
+  "y": -310406.69973855553,
+  "altitude_m": 3110,
+  "order": 6
+}

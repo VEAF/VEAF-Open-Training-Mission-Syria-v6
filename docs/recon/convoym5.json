@@ -1,0 +1,114 @@
+{
+  "name": "convoym5",
+  "title": "Z08 Convoi — M5",
+  "heading_deg": 149.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_ConvoyM5",
+  "camera": {
+    "position": [
+      45445.49719462082,
+      675.0428571428571,
+      68922.92122306985
+    ],
+    "forward": [
+      -0.7423286577013641,
+      -0.49999999999999994,
+      0.44603605678833985
+    ],
+    "up": [
+      -0.42858365035105606,
+      0.8660254037844387,
+      0.25751903745502713
+    ],
+    "right": [
+      -0.5150380749100544,
+      0.0,
+      -0.8571673007021122
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 45000.1,
+    "z": 69190.54285714285,
+    "alt_m": 375.04285714285714,
+    "lat": 35.444345685267926,
+    "lon": 36.646529931399435,
+    "dms": "N35°26'39.64\" E036°38'47.51\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:41",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoyM5 [r] combatZone_ConvoyM5-Convoy#10500",
+      "type": "BTR-80",
+      "x": 44986.4,
+      "z": 69196.7,
+      "alt": 375.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoyM5 [r] combatZone_ConvoyM5-Convoy#10500",
+      "type": "Ural-375",
+      "x": 44952.4,
+      "z": 69189.5,
+      "alt": 375.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoyM5 [r] combatZone_ConvoyM5-Convoy#10500",
+      "type": "Ural-375",
+      "x": 44972.4,
+      "z": 69189.5,
+      "alt": 375.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoyM5 [r] combatZone_ConvoyM5-Convoy#10500",
+      "type": "KAMAZ Truck",
+      "x": 44992.4,
+      "z": 69189.5,
+      "alt": 375.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoyM5 [r] combatZone_ConvoyM5-Convoy#10500",
+      "type": "ATZ-10",
+      "x": 45012.4,
+      "z": 69189.5,
+      "alt": 374.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoyM5 [r] combatZone_ConvoyM5-Convoy#10500",
+      "type": "Ural-375 ZU-23",
+      "x": 45032.3,
+      "z": 69189.6,
+      "alt": 374.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoyM5 [r] combatZone_ConvoyM5-Convoy#10500",
+      "type": "ZSU-23-4 Shilka",
+      "x": 45052.4,
+      "z": 69189.5,
+      "alt": 375.0
+    }
+  ],
+  "image": "convoym5.jpg",
+  "heading": 149,
+  "pitch": -30.0,
+  "x": 45445.49719462082,
+  "y": 68922.92122306985,
+  "altitude_m": 675,
+  "order": 17
+}

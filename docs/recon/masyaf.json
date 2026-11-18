@@ -1,0 +1,170 @@
+{
+  "name": "masyaf",
+  "title": "Z11 Frappe — Masyaf",
+  "heading_deg": 161.0,
+  "pitch_deg": 30.0,
+  "slant_m": 2800.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Masyaf",
+  "camera": {
+    "position": [
+      5832.232125984869,
+      1897.9714285714283,
+      39692.739181215285
+    ],
+    "forward": [
+      -0.8188431062190857,
+      -0.49999999999999994,
+      0.28195029242311354
+    ],
+    "up": [
+      -0.47275928779965837,
+      0.8660254037844387,
+      0.16278407722857827
+    ],
+    "right": [
+      -0.3255681544571566,
+      0.0,
+      -0.9455185755993168
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 3539.4714285714285,
+    "z": 40482.200000000004,
+    "alt_m": 497.97142857142853,
+    "lat": 35.06432002599696,
+    "lon": 36.34274488953464,
+    "dms": "N35°03'51.55\" E036°20'33.88\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:43",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Masyaf [r] Air Defense Battery#10509",
+      "type": "Ural-4320-31",
+      "x": 3101.6,
+      "z": 40805.8,
+      "alt": 477.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Masyaf [r] Air Defense Battery#10509",
+      "type": "Dog Ear radar",
+      "x": 3024.6,
+      "z": 40893.8,
+      "alt": 475.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Masyaf [r] Air Defense Battery#10509",
+      "type": "ZSU_57_2",
+      "x": 3289.6,
+      "z": 40886.8,
+      "alt": 465.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Masyaf [r] Air Defense Battery#10509",
+      "type": "Strela-1 9P31",
+      "x": 3223.6,
+      "z": 40921.8,
+      "alt": 470.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Masyaf [r] Air Defense Battery#10509",
+      "type": "S-60_Type59_Artillery",
+      "x": 3167.6,
+      "z": 40976.8,
+      "alt": 472.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Masyaf [r] Air Defense Battery#10509",
+      "type": "ZSU-23-4 Shilka",
+      "x": 3288.6,
+      "z": 40977.8,
+      "alt": 465.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Masyaf [r] SA15#10507",
+      "type": "Tor 9A331",
+      "x": 4170.0,
+      "z": 39791.0,
+      "alt": 552.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Masyaf [r] SA15#10507",
+      "type": "GAZ-66",
+      "x": 4187.0,
+      "z": 39811.0,
+      "alt": 549.9
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Masyaf [r] combatZone_Masyaf-HQ#10503 #194",
+      "type": "Military staff",
+      "x": 3580.0,
+      "z": 40306.0,
+      "alt": 504.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Masyaf [r] combatZone_Masyaf-Hangar#10506 #196",
+      "type": "Warehouse",
+      "x": 3430.0,
+      "z": 40426.0,
+      "alt": 485.6
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Masyaf [r] combatZone_Masyaf-CC#10510 #195",
+      "type": ".Command Center",
+      "x": 3660.0,
+      "z": 40366.0,
+      "alt": 504.5
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Masyaf [r] combatZone_Masyaf-Scud-3#10504 #199",
+      "type": "Scud_B",
+      "x": 3840.0,
+      "z": 40236.0,
+      "alt": 513.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Masyaf [r] combatZone_Masyaf-Scud-2#10505 #198",
+      "type": "Scud_B",
+      "x": 3810.0,
+      "z": 40196.0,
+      "alt": 515.8
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Masyaf [r] combatZone_Masyaf-Scud-1#10508 #197",
+      "type": "Scud_B",
+      "x": 3780.0,
+      "z": 40156.0,
+      "alt": 519.5
+    }
+  ],
+  "image": "masyaf.jpg",
+  "heading": 161,
+  "pitch": -30.0,
+  "x": 5832.232125984869,
+  "y": 39692.739181215285,
+  "altitude_m": 1898,
+  "order": 20
+}

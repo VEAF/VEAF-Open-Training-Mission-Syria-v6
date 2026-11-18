@@ -1,0 +1,154 @@
+{
+  "name": "akamas-easy",
+  "title": "A1 Attaque Akamas — facile",
+  "heading_deg": 233.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3500.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Akamas_Easy",
+  "camera": {
+    "position": [
+      16452.496511167446,
+      1852.333333333333,
+      -312034.7980931048
+    ],
+    "forward": [
+      -0.521187098428794,
+      -0.49999999999999994,
+      -0.691638640065298
+    ],
+    "up": [
+      -0.3009075115760241,
+      0.8660254037844387,
+      -0.39931775502364636
+    ],
+    "right": [
+      0.7986355100472928,
+      0.0,
+      -0.6018150231520483
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 14628.341666666667,
+    "z": -314455.5333333333,
+    "alt_m": 102.33333333333333,
+    "lat": 35.01656226391345,
+    "lon": 32.45840313157646,
+    "dms": "N35°00'59.62\" E032°27'30.25\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:32",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Easy [r] combatZone_Akamas_Easy-Easy-BMP-2#10438",
+      "type": "BMP-2",
+      "x": 14974.7,
+      "z": -313974.6,
+      "alt": 116.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Easy [r] combatZone_Akamas_Easy-Easy-T72-1#10437",
+      "type": "T-72B",
+      "x": 14298.6,
+      "z": -314260.6,
+      "alt": 102.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Easy [r] combatZone_Akamas_Easy-Easy-T72-3#10436",
+      "type": "T-72B",
+      "x": 14389.7,
+      "z": -314232.2,
+      "alt": 105.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Easy [r] combatZone_Akamas_Easy-Easy-T72-4#10435",
+      "type": "T-72B",
+      "x": 14418.2,
+      "z": -314265.6,
+      "alt": 102.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Easy [r] combatZone_Akamas_Easy-Easy-BMP-3#10434",
+      "type": "BMP-2",
+      "x": 15072.0,
+      "z": -313995.8,
+      "alt": 110.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Easy [r] combatZone_Akamas_Easy-Easy-Convoy#10433",
+      "type": "Ural-375",
+      "x": 15182.1,
+      "z": -314755.4,
+      "alt": 101.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Easy [r] combatZone_Akamas_Easy-Easy-Convoy#10433",
+      "type": "KAMAZ Truck",
+      "x": 15202.1,
+      "z": -314755.4,
+      "alt": 101.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Easy [r] combatZone_Akamas_Easy-Easy-Convoy#10433",
+      "type": "Ural-4320T",
+      "x": 15222.1,
+      "z": -314755.4,
+      "alt": 101.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Easy [r] combatZone_Akamas_Easy-Easy-T72-2#10430",
+      "type": "T-72B",
+      "x": 14360.3,
+      "z": -314267.2,
+      "alt": 101.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Easy [r] combatZone_Akamas_Easy-Easy-BMP-1#10429",
+      "type": "BMP-2",
+      "x": 14990.3,
+      "z": -314002.2,
+      "alt": 112.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Akamas_Easy [r] combatZone_Akamas_Easy-Easy-Fuel#10431 #130",
+      "type": "Fuel tank",
+      "x": 13690.0,
+      "z": -315141.0,
+      "alt": 86.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Akamas_Easy [r] combatZone_Akamas_Easy-Easy-Depot#10432 #129",
+      "type": "Warehouse",
+      "x": 13740.0,
+      "z": -315061.0,
+      "alt": 84.3
+    }
+  ],
+  "image": "akamas-easy.jpg",
+  "heading": 233,
+  "pitch": -30.0,
+  "x": 16452.496511167446,
+  "y": -312034.7980931048,
+  "altitude_m": 1852,
+  "order": 4
+}

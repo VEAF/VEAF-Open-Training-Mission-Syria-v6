@@ -1,0 +1,106 @@
+{
+  "name": "convoyeuphrates",
+  "title": "Z10 Convoi — Euphrate",
+  "heading_deg": 128.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_ConvoyEuphrates",
+  "camera": {
+    "position": [
+      -19215.509580008613,
+      772.4499999999999,
+      270996.23760135274
+    ],
+    "forward": [
+      -0.5331784777634264,
+      -0.49999999999999994,
+      0.6824373310787413
+    ],
+    "up": [
+      -0.3078307376628291,
+      0.8660254037844387,
+      0.39400537680336095
+    ],
+    "right": [
+      -0.788010753606722,
+      0.0,
+      -0.6156614753256583
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -19535.416666666668,
+    "z": 271405.7,
+    "alt_m": 472.45,
+    "lat": 34.88530090005472,
+    "lon": 38.87529606216215,
+    "dms": "N34°53'07.08\" E038°52'31.07\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:42",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoyEuphrates [r] combatZone_ConvoyEuphrates-Convoy#10502",
+      "type": "BTR-80",
+      "x": -19539.8,
+      "z": 271417.1,
+      "alt": 472.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoyEuphrates [r] combatZone_ConvoyEuphrates-Convoy#10502",
+      "type": "KAMAZ Truck",
+      "x": -19574.5,
+      "z": 271403.4,
+      "alt": 470.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoyEuphrates [r] combatZone_ConvoyEuphrates-Convoy#10502",
+      "type": "KAMAZ Truck",
+      "x": -19554.5,
+      "z": 271403.4,
+      "alt": 471.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoyEuphrates [r] combatZone_ConvoyEuphrates-Convoy#10502",
+      "type": "Ural-375",
+      "x": -19534.5,
+      "z": 271403.4,
+      "alt": 472.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoyEuphrates [r] combatZone_ConvoyEuphrates-Convoy#10502",
+      "type": "Ural-4320T",
+      "x": -19514.5,
+      "z": 271403.4,
+      "alt": 473.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoyEuphrates [r] combatZone_ConvoyEuphrates-Convoy#10502",
+      "type": "2S6 Tunguska",
+      "x": -19494.7,
+      "z": 271403.5,
+      "alt": 474.2
+    }
+  ],
+  "image": "convoyeuphrates.jpg",
+  "heading": 128,
+  "pitch": -30.0,
+  "x": -19215.509580008613,
+  "y": 270996.23760135274,
+  "altitude_m": 772,
+  "order": 19
+}

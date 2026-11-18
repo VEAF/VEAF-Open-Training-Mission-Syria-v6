@@ -1,0 +1,162 @@
+{
+  "name": "karpas-medium",
+  "title": "S2 SEAD Karpas — moyen",
+  "heading_deg": 213.0,
+  "pitch_deg": 30.0,
+  "slant_m": 5250.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Karpas_Medium",
+  "camera": {
+    "position": [
+      73099.97374439322,
+      2752.3769230769226,
+      -132902.26445040628
+    ],
+    "forward": [
+      -0.7263100172470603,
+      -0.49999999999999994,
+      -0.4716712402156559
+    ],
+    "up": [
+      -0.41933528397271197,
+      0.8660254037844387,
+      -0.2723195175075135
+    ],
+    "right": [
+      0.5446390350150271,
+      0.0,
+      -0.838670567945424
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 69286.84615384616,
+    "z": -135378.53846153847,
+    "alt_m": 127.37692307692308,
+    "lat": 35.597774687029414,
+    "lon": 34.38508913031964,
+    "dms": "N35°35'51.99\" E034°23'06.32\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:35",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Medium [r] SA8#10469",
+      "type": "Osa 9A33 ln",
+      "x": 67792.0,
+      "z": -134482.0,
+      "alt": 100.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Medium [r] SA8#10469",
+      "type": "GAZ-66",
+      "x": 67810.0,
+      "z": -134486.0,
+      "alt": 102.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Medium [r] SA6#10468",
+      "type": "Kub 1S91 str",
+      "x": 69302.0,
+      "z": -135785.0,
+      "alt": 129.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Medium [r] SA6#10468",
+      "type": "Kub 2P25 ln",
+      "x": 69344.0,
+      "z": -135783.0,
+      "alt": 134.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Medium [r] SA6#10468",
+      "type": "Kub 2P25 ln",
+      "x": 69309.0,
+      "z": -135825.0,
+      "alt": 132.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Medium [r] SA6#10468",
+      "type": "Kub 2P25 ln",
+      "x": 69297.0,
+      "z": -135732.0,
+      "alt": 126.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Medium [r] SA6#10468",
+      "type": "Kub 2P25 ln",
+      "x": 69256.0,
+      "z": -135792.0,
+      "alt": 124.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Medium [r] SA6#10468",
+      "type": "ZSU-23-4 Shilka",
+      "x": 69277.0,
+      "z": -135835.0,
+      "alt": 129.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Medium [r] SA6#10468",
+      "type": "ATZ-5",
+      "x": 69289.0,
+      "z": -135767.0,
+      "alt": 127.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Medium [r] SA6#10468",
+      "type": "ZIL-135",
+      "x": 69325.0,
+      "z": -135746.0,
+      "alt": 131.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Medium [r] SA6#10468",
+      "type": "Ural-375 PBU",
+      "x": 69275.0,
+      "z": -135803.0,
+      "alt": 133.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Medium [r] SA15#10467",
+      "type": "Tor 9A331",
+      "x": 70725.0,
+      "z": -134452.0,
+      "alt": 140.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Medium [r] SA15#10467",
+      "type": "GAZ-66",
+      "x": 70728.0,
+      "z": -134433.0,
+      "alt": 141.9
+    }
+  ],
+  "image": "karpas-medium.jpg",
+  "heading": 213,
+  "pitch": -30.0,
+  "x": 73099.97374439322,
+  "y": -132902.26445040628,
+  "altitude_m": 2752,
+  "order": 8
+}

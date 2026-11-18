@@ -1,0 +1,234 @@
+{
+  "name": "karpas-hard",
+  "title": "S3 SEAD Karpas — difficile",
+  "heading_deg": 213.0,
+  "pitch_deg": 30.0,
+  "slant_m": 6000.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Karpas_Hard",
+  "camera": {
+    "position": [
+      73894.54192166419,
+      3114.7681818181813,
+      -133601.2452859788
+    ],
+    "forward": [
+      -0.7263100172470603,
+      -0.49999999999999994,
+      -0.4716712402156559
+    ],
+    "up": [
+      -0.41933528397271197,
+      0.8660254037844387,
+      -0.2723195175075135
+    ],
+    "right": [
+      0.5446390350150271,
+      0.0,
+      -0.838670567945424
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 69536.68181818182,
+    "z": -136431.27272727274,
+    "alt_m": 114.76818181818182,
+    "lat": 35.599574871248755,
+    "lon": 34.373375788274146,
+    "dms": "N35°35'58.47\" E034°22'24.15\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:35",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] SA15#10474",
+      "type": "Tor 9A331",
+      "x": 70731.0,
+      "z": -134446.0,
+      "alt": 140.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] SA15#10474",
+      "type": "GAZ-66",
+      "x": 70717.0,
+      "z": -134454.0,
+      "alt": 141.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] SA22#10473",
+      "type": "CHAP_PantsirS1",
+      "x": 71495.0,
+      "z": -137794.0,
+      "alt": 23.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] SA22#10473",
+      "type": "GAZ-66",
+      "x": 71520.0,
+      "z": -137761.0,
+      "alt": 27.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] Red EWR#10472",
+      "type": "55G6 EWR",
+      "x": 66979.0,
+      "z": -137090.0,
+      "alt": 145.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] Red EWR#10472",
+      "type": "SA-18 Igla manpad",
+      "x": 66994.0,
+      "z": -137122.0,
+      "alt": 143.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] Red EWR#10472",
+      "type": "Ural-375 PBU",
+      "x": 66948.0,
+      "z": -137080.0,
+      "alt": 148.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] SA8#10471",
+      "type": "Osa 9A33 ln",
+      "x": 67797.0,
+      "z": -134472.0,
+      "alt": 100.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] SA8#10471",
+      "type": "GAZ-66",
+      "x": 67809.0,
+      "z": -134482.0,
+      "alt": 102.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] SA11#10470",
+      "type": "SA-11 Buk SR 9S18M1",
+      "x": 69911.0,
+      "z": -136652.0,
+      "alt": 120.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] SA11#10470",
+      "type": "SA-11 Buk CC 9S470M1",
+      "x": 69918.0,
+      "z": -136710.0,
+      "alt": 117.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] SA11#10470",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": 69965.0,
+      "z": -136729.0,
+      "alt": 115.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] SA11#10470",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": 69980.0,
+      "z": -136676.0,
+      "alt": 117.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] SA11#10470",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": 69971.0,
+      "z": -136634.0,
+      "alt": 118.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] SA11#10470",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": 69847.0,
+      "z": -136636.0,
+      "alt": 122.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] SA11#10470",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": 69836.0,
+      "z": -136682.0,
+      "alt": 121.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] SA11#10470",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": 69838.0,
+      "z": -136624.0,
+      "alt": 123.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] SA11#10470",
+      "type": "ZSU-23-4 Shilka",
+      "x": 69952.0,
+      "z": -136702.0,
+      "alt": 117.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] SA11#10470",
+      "type": "ZSU-23-4 Shilka",
+      "x": 69866.0,
+      "z": -136736.0,
+      "alt": 119.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] SA11#10470",
+      "type": "ATZ-5",
+      "x": 69926.0,
+      "z": -136706.0,
+      "alt": 117.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] SA11#10470",
+      "type": "Ural-375",
+      "x": 69894.0,
+      "z": -136666.0,
+      "alt": 120.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Hard [r] SA11#10470",
+      "type": "Ural-375",
+      "x": 69913.0,
+      "z": -136634.0,
+      "alt": 120.7
+    }
+  ],
+  "image": "karpas-hard.jpg",
+  "heading": 213,
+  "pitch": -30.0,
+  "x": 73894.54192166419,
+  "y": -133601.2452859788,
+  "altitude_m": 3115,
+  "order": 9
+}

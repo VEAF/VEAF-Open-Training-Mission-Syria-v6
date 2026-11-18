@@ -1,0 +1,138 @@
+{
+  "name": "karpas-easy",
+  "title": "S1 SEAD Karpas — facile",
+  "heading_deg": 213.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Karpas_Easy",
+  "camera": {
+    "position": [
+      69737.68601034823,
+      431.27,
+      -135504.19725587062
+    ],
+    "forward": [
+      -0.7263100172470603,
+      -0.49999999999999994,
+      -0.4716712402156559
+    ],
+    "up": [
+      -0.41933528397271197,
+      0.8660254037844387,
+      -0.2723195175075135
+    ],
+    "right": [
+      0.5446390350150271,
+      0.0,
+      -0.838670567945424
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 69301.9,
+    "z": -135787.2,
+    "alt_m": 131.27,
+    "lat": 35.59773732297757,
+    "lon": 34.38058457160262,
+    "dms": "N35°35'51.85\" E034°22'50.10\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:34",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Easy [r] SA6#10466",
+      "type": "Kub 1S91 str",
+      "x": 69305.0,
+      "z": -135791.0,
+      "alt": 130.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Easy [r] SA6#10466",
+      "type": "Kub 2P25 ln",
+      "x": 69345.0,
+      "z": -135794.0,
+      "alt": 149.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Easy [r] SA6#10466",
+      "type": "Kub 2P25 ln",
+      "x": 69314.0,
+      "z": -135826.0,
+      "alt": 133.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Easy [r] SA6#10466",
+      "type": "Kub 2P25 ln",
+      "x": 69305.0,
+      "z": -135724.0,
+      "alt": 127.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Easy [r] SA6#10466",
+      "type": "Kub 2P25 ln",
+      "x": 69260.0,
+      "z": -135797.0,
+      "alt": 125.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Easy [r] SA6#10466",
+      "type": "ZSU-23-4 Shilka",
+      "x": 69274.0,
+      "z": -135771.0,
+      "alt": 125.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Easy [r] SA6#10466",
+      "type": "ATZ-5",
+      "x": 69259.0,
+      "z": -135807.0,
+      "alt": 126.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Easy [r] SA6#10466",
+      "type": "ZIL-135",
+      "x": 69291.0,
+      "z": -135746.0,
+      "alt": 126.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Easy [r] SA6#10466",
+      "type": "ZIL-135",
+      "x": 69337.0,
+      "z": -135825.0,
+      "alt": 135.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Karpas_Easy [r] SA6#10466",
+      "type": "Ural-375 PBU",
+      "x": 69329.0,
+      "z": -135791.0,
+      "alt": 133.0
+    }
+  ],
+  "image": "karpas-easy.jpg",
+  "heading": 213,
+  "pitch": -30.0,
+  "x": 69737.68601034823,
+  "y": -135504.19725587062,
+  "altitude_m": 431,
+  "order": 7
+}

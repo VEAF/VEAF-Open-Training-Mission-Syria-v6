@@ -1,0 +1,386 @@
+{
+  "name": "daraa",
+  "title": "Z05 Front — Daraa",
+  "heading_deg": 174.0,
+  "pitch_deg": 30.0,
+  "slant_m": 5050.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Daraa",
+  "camera": {
+    "position": [
+      -261539.9029793874,
+      3036.114634146341,
+      11020.14738367912
+    ],
+    "forward": [
+      -0.8612812260087742,
+      -0.49999999999999994,
+      0.0905243046083367
+    ],
+    "up": [
+      -0.4972609476841366,
+      0.8660254037844387,
+      0.05226423163382686
+    ],
+    "right": [
+      -0.10452846326765373,
+      0.0,
+      -0.9945218953682733
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -265889.3731707317,
+    "z": 11477.29512195122,
+    "alt_m": 511.1146341463415,
+    "lat": 32.63011349134637,
+    "lon": 36.10805426470982,
+    "dms": "N32°37'48.41\" E036°06'29.00\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:39",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Transport Company#10495",
+      "type": "Ural-4320 APA-5D",
+      "x": -265235.0,
+      "z": 11995.1,
+      "alt": 517.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Transport Company#10495",
+      "type": "SKP-11",
+      "x": -265057.0,
+      "z": 12190.1,
+      "alt": 513.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Transport Company#10495",
+      "type": "Ural-375",
+      "x": -265257.0,
+      "z": 12308.1,
+      "alt": 514.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Transport Company#10495",
+      "type": "KrAZ6322",
+      "x": -264948.0,
+      "z": 12090.1,
+      "alt": 517.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Transport Company#10495",
+      "type": "KrAZ6322",
+      "x": -265195.0,
+      "z": 12023.1,
+      "alt": 517.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Transport Company#10495",
+      "type": "GAZ-66",
+      "x": -264947.0,
+      "z": 12188.1,
+      "alt": 517.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Transport Company#10495",
+      "type": "ZSU_57_2",
+      "x": -265254.0,
+      "z": 12146.1,
+      "alt": 514.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Transport Company#10495",
+      "type": "ATZ-5",
+      "x": -264984.0,
+      "z": 12158.1,
+      "alt": 516.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Transport Company#10495",
+      "type": "SKP-11",
+      "x": -265313.0,
+      "z": 12324.1,
+      "alt": 515.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Transport Company#10495",
+      "type": "ZSU_57_2",
+      "x": -264953.0,
+      "z": 12014.1,
+      "alt": 517.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Transport Company#10495",
+      "type": "SKP-11",
+      "x": -265120.0,
+      "z": 12289.1,
+      "alt": 513.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Transport Company#10495",
+      "type": "ZSU_57_2",
+      "x": -265182.0,
+      "z": 12149.1,
+      "alt": 514.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Transport Company#10495",
+      "type": "UAZ-469",
+      "x": -265132.0,
+      "z": 12344.1,
+      "alt": 513.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Transport Company#10495",
+      "type": "ZSU_57_2",
+      "x": -265222.0,
+      "z": 11963.1,
+      "alt": 517.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Air Defense Battery#10494",
+      "type": "Dog Ear radar",
+      "x": -266760.7,
+      "z": 11361.7,
+      "alt": 515.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Air Defense Battery#10494",
+      "type": "Ural-4320-31",
+      "x": -266485.7,
+      "z": 11393.7,
+      "alt": 517.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Air Defense Battery#10494",
+      "type": "S-60_Type59_Artillery",
+      "x": -266789.7,
+      "z": 11410.7,
+      "alt": 515.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Air Defense Battery#10494",
+      "type": "ZSU-23-4 Shilka",
+      "x": -266600.7,
+      "z": 11444.7,
+      "alt": 517.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Air Defense Battery#10494",
+      "type": "Ural-4320-31",
+      "x": -266739.7,
+      "z": 11493.7,
+      "alt": 517.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Air Defense Battery#10494",
+      "type": "Strela-1 9P31",
+      "x": -266699.7,
+      "z": 11347.7,
+      "alt": 517.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Air Defense Battery#10494",
+      "type": "Strela-1 9P31",
+      "x": -266466.7,
+      "z": 11520.7,
+      "alt": 515.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Air Defense Battery#10494",
+      "type": "ZSU_57_2",
+      "x": -266552.7,
+      "z": 11428.7,
+      "alt": 517.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Air Defense Battery#10494",
+      "type": "Ural-4320-31",
+      "x": -266644.7,
+      "z": 11292.7,
+      "alt": 517.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Armored Platoon#10493",
+      "type": "VAB_Mephisto",
+      "x": -266482.8,
+      "z": 10108.1,
+      "alt": 484.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Armored Platoon#10493",
+      "type": "BMP-1",
+      "x": -266596.8,
+      "z": 9949.1,
+      "alt": 515.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Armored Platoon#10493",
+      "type": "BMP-2",
+      "x": -266392.8,
+      "z": 9986.1,
+      "alt": 509.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Armored Platoon#10493",
+      "type": "ZSU-23-4 Shilka",
+      "x": -266220.8,
+      "z": 9939.1,
+      "alt": 496.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Armored Platoon#10493",
+      "type": "VAB_Mephisto",
+      "x": -266349.8,
+      "z": 9994.1,
+      "alt": 506.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Armored Platoon#10493",
+      "type": "Strela-1 9P31",
+      "x": -266478.8,
+      "z": 10217.1,
+      "alt": 470.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Armored Platoon#10493",
+      "type": "BMP-1",
+      "x": -266507.8,
+      "z": 9959.1,
+      "alt": 512.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Armored Platoon#10493",
+      "type": "BMP-1",
+      "x": -266321.8,
+      "z": 10151.1,
+      "alt": 467.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Armored Platoon#10493",
+      "type": "BMP-1",
+      "x": -266313.8,
+      "z": 10236.1,
+      "alt": 468.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Armored Platoon#10492",
+      "type": "ZSU_57_2",
+      "x": -265834.2,
+      "z": 11945.5,
+      "alt": 517.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Armored Platoon#10492",
+      "type": "VAB_Mephisto",
+      "x": -265702.2,
+      "z": 11911.5,
+      "alt": 517.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Armored Platoon#10492",
+      "type": "Strela-10M3",
+      "x": -265869.2,
+      "z": 11874.5,
+      "alt": 517.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Armored Platoon#10492",
+      "type": "VAB_Mephisto",
+      "x": -265693.2,
+      "z": 11954.5,
+      "alt": 516.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Armored Platoon#10492",
+      "type": "VAB_Mephisto",
+      "x": -265820.2,
+      "z": 11760.5,
+      "alt": 517.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Armored Platoon#10492",
+      "type": "BMP-2",
+      "x": -265915.2,
+      "z": 12061.5,
+      "alt": 517.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Armored Platoon#10492",
+      "type": "Chieftain_mk3",
+      "x": -265926.2,
+      "z": 11794.5,
+      "alt": 517.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Armored Platoon#10492",
+      "type": "VAB_Mephisto",
+      "x": -265748.2,
+      "z": 12035.5,
+      "alt": 517.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Daraa [r] Armored Platoon#10492",
+      "type": "T-55",
+      "x": -265751.2,
+      "z": 11814.5,
+      "alt": 517.5
+    }
+  ],
+  "image": "daraa.jpg",
+  "heading": 174,
+  "pitch": -30.0,
+  "x": -261539.9029793874,
+  "y": 11020.14738367912,
+  "altitude_m": 3036,
+  "order": 14
+}

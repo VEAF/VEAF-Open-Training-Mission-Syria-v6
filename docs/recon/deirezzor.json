@@ -1,0 +1,194 @@
+{
+  "name": "deirezzor",
+  "title": "Z14 Frappe — Deir ez-Zor",
+  "heading_deg": 114.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1850.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_DeirEzZor",
+  "camera": {
+    "position": [
+      31973.475420686013,
+      1132.1117647058823,
+      385922.18941782555
+    ],
+    "forward": [
+      -0.3522442655536471,
+      -0.49999999999999994,
+      0.7911535738303732
+    ],
+    "up": [
+      -0.2033683215379001,
+      0.8660254037844387,
+      0.4567727288213004
+    ],
+    "right": [
+      -0.9135454576426009,
+      0.0,
+      -0.40673664307580026
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 31321.823529411766,
+    "z": 387385.82352941175,
+    "alt_m": 207.11176470588236,
+    "lat": 35.33847988729136,
+    "lon": 40.15084773671257,
+    "dms": "N35°20'18.53\" E040°09'03.05\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:44",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_DeirEzZor [r] combatZone_DeirEzZor-Trucks#10529",
+      "type": "Ural-375",
+      "x": 30967.0,
+      "z": 387019.0,
+      "alt": 214.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DeirEzZor [r] combatZone_DeirEzZor-Trucks#10529",
+      "type": "Ural-375",
+      "x": 30987.0,
+      "z": 387019.0,
+      "alt": 212.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DeirEzZor [r] combatZone_DeirEzZor-Trucks#10529",
+      "type": "KAMAZ Truck",
+      "x": 31007.0,
+      "z": 387019.0,
+      "alt": 214.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DeirEzZor [r] combatZone_DeirEzZor-Trucks#10529",
+      "type": "ATZ-10",
+      "x": 31027.0,
+      "z": 387019.0,
+      "alt": 209.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DeirEzZor [r] Air Defense Battery#10525",
+      "type": "Strela-10M3",
+      "x": 31622.7,
+      "z": 387538.4,
+      "alt": 198.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DeirEzZor [r] Air Defense Battery#10525",
+      "type": "ZSU-23-4 Shilka",
+      "x": 31486.7,
+      "z": 387683.4,
+      "alt": 207.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DeirEzZor [r] Air Defense Battery#10525",
+      "type": "Ural-4320-31",
+      "x": 31472.7,
+      "z": 387587.4,
+      "alt": 204.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DeirEzZor [r] Air Defense Battery#10525",
+      "type": "ZSU_57_2",
+      "x": 31710.7,
+      "z": 387539.4,
+      "alt": 200.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DeirEzZor [r] Air Defense Battery#10525",
+      "type": "S-60_Type59_Artillery",
+      "x": 31496.7,
+      "z": 387391.4,
+      "alt": 202.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DeirEzZor [r] Air Defense Battery#10525",
+      "type": "Strela-10M3",
+      "x": 31429.7,
+      "z": 387471.4,
+      "alt": 204.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DeirEzZor [r] Air Defense Battery#10525",
+      "type": "Ural-4320-31",
+      "x": 31485.7,
+      "z": 387654.4,
+      "alt": 204.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DeirEzZor [r] Air Defense Battery#10525",
+      "type": "Strela-1 9P31",
+      "x": 31559.7,
+      "z": 387522.4,
+      "alt": 200.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DeirEzZor [r] Air Defense Battery#10525",
+      "type": "Dog Ear radar",
+      "x": 31677.7,
+      "z": 387564.4,
+      "alt": 200.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DeirEzZor [r] Air Defense Battery#10525",
+      "type": "Ural-4320-31",
+      "x": 31549.7,
+      "z": 387713.4,
+      "alt": 205.9
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_DeirEzZor [r] combatZone_DeirEzZor-Fuel#10526 #220",
+      "type": "Fuel tank",
+      "x": 30707.0,
+      "z": 387479.0,
+      "alt": 216.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_DeirEzZor [r] combatZone_DeirEzZor-Depot#10527 #219",
+      "type": ".Ammunition depot",
+      "x": 30767.0,
+      "z": 387419.0,
+      "alt": 215.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_DeirEzZor [r] combatZone_DeirEzZor-Bunker#10528 #221",
+      "type": "Bunker",
+      "x": 31517.0,
+      "z": 386919.0,
+      "alt": 210.0
+    }
+  ],
+  "image": "deirezzor.jpg",
+  "heading": 114,
+  "pitch": -30.0,
+  "x": 31973.475420686013,
+  "y": 385922.18941782555,
+  "altitude_m": 1132,
+  "order": 23
+}

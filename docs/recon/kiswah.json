@@ -1,0 +1,154 @@
+{
+  "name": "kiswah",
+  "title": "Z07 SEAD — Al-Kiswah",
+  "heading_deg": 171.0,
+  "pitch_deg": 30.0,
+  "slant_m": 2550.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Kiswah",
+  "camera": {
+    "position": [
+      -183368.4905220251,
+      1995.958333333333,
+      25809.868970415046
+    ],
+    "forward": [
+      -0.8553631939770863,
+      -0.49999999999999994,
+      0.1354762207522687
+    ],
+    "up": [
+      -0.4938441702975688,
+      0.8660254037844387,
+      0.07821723252011548
+    ],
+    "right": [
+      -0.15643446504023098,
+      0.0,
+      -0.9876883405951377
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -185549.66666666666,
+    "z": 26155.333333333332,
+    "alt_m": 720.9583333333334,
+    "lat": 33.35747818012248,
+    "lon": 36.24190003028542,
+    "dms": "N33°21'26.92\" E036°14'30.84\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:40",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Kiswah [r] SA6#10499",
+      "type": "Kub 1S91 str",
+      "x": -185417.0,
+      "z": 26063.0,
+      "alt": 722.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kiswah [r] SA6#10499",
+      "type": "Kub 2P25 ln",
+      "x": -185360.0,
+      "z": 26051.0,
+      "alt": 724.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kiswah [r] SA6#10499",
+      "type": "Kub 2P25 ln",
+      "x": -185418.0,
+      "z": 26019.0,
+      "alt": 726.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kiswah [r] SA6#10499",
+      "type": "Kub 2P25 ln",
+      "x": -185418.0,
+      "z": 26101.0,
+      "alt": 721.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kiswah [r] SA6#10499",
+      "type": "Kub 2P25 ln",
+      "x": -185486.0,
+      "z": 26060.0,
+      "alt": 721.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kiswah [r] SA6#10499",
+      "type": "ZSU-23-4 Shilka",
+      "x": -185379.0,
+      "z": 26043.0,
+      "alt": 723.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kiswah [r] SA6#10499",
+      "type": "ATZ-5",
+      "x": -185456.0,
+      "z": 26097.0,
+      "alt": 720.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kiswah [r] SA6#10499",
+      "type": "ZIL-135",
+      "x": -185355.0,
+      "z": 26044.0,
+      "alt": 724.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kiswah [r] SA6#10499",
+      "type": "ZIL-135",
+      "x": -185450.0,
+      "z": 26009.0,
+      "alt": 724.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kiswah [r] SA6#10499",
+      "type": "Ural-375 PBU",
+      "x": -185407.0,
+      "z": 26071.0,
+      "alt": 722.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kiswah [r] SA22#10498",
+      "type": "CHAP_PantsirS1",
+      "x": -186234.0,
+      "z": 26665.0,
+      "alt": 709.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kiswah [r] SA22#10498",
+      "type": "GAZ-66",
+      "x": -186216.0,
+      "z": 26641.0,
+      "alt": 709.3
+    }
+  ],
+  "image": "kiswah.jpg",
+  "heading": 171,
+  "pitch": -30.0,
+  "x": -183368.4905220251,
+  "y": 25809.868970415046,
+  "altitude_m": 1996,
+  "order": 16
+}

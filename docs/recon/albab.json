@@ -1,0 +1,354 @@
+{
+  "name": "albab",
+  "title": "Z02 Front — Al-Bab",
+  "heading_deg": 112.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3550.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_AlBab",
+  "camera": {
+    "position": [
+      147977.64629290727,
+      2230.5108108108107,
+      146470.3291133347
+    ],
+    "forward": [
+      -0.3244188263233283,
+      -0.49999999999999994,
+      0.8029647720336144
+    ],
+    "up": [
+      -0.187303296707956,
+      0.8660254037844387,
+      0.46359192728339366
+    ],
+    "right": [
+      -0.9271838545667874,
+      0.0,
+      -0.37460659341591207
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 146825.95945945947,
+    "z": 149320.85405405404,
+    "alt_m": 455.5108108108108,
+    "lat": 36.37609148806717,
+    "lon": 37.5119396494654,
+    "dms": "N36°22'33.93\" E037°30'42.98\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:37",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Infantry Section#10483",
+      "type": "Infantry AK ver3",
+      "x": 147469.7,
+      "z": 149056.0,
+      "alt": 446.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Infantry Section#10483",
+      "type": "Infantry AK ver2",
+      "x": 147579.7,
+      "z": 149059.0,
+      "alt": 446.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Infantry Section#10483",
+      "type": "Paratrooper RPG-16",
+      "x": 147462.7,
+      "z": 149141.0,
+      "alt": 447.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Infantry Section#10483",
+      "type": "Paratrooper RPG-16",
+      "x": 147660.7,
+      "z": 149270.0,
+      "alt": 449.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Infantry Section#10483",
+      "type": "ZSU-23-4 Shilka",
+      "x": 147522.7,
+      "z": 149038.0,
+      "alt": 445.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Infantry Section#10483",
+      "type": "BMP-1",
+      "x": 147559.7,
+      "z": 149252.0,
+      "alt": 452.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Infantry Section#10483",
+      "type": "ZSU_57_2",
+      "x": 147468.7,
+      "z": 149231.0,
+      "alt": 452.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Infantry Section#10483",
+      "type": "Infantry AK ver3",
+      "x": 147465.7,
+      "z": 149017.0,
+      "alt": 447.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Infantry Section#10483",
+      "type": "Infantry AK ver3",
+      "x": 147655.7,
+      "z": 149196.0,
+      "alt": 450.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Red Manpad Squad#10482",
+      "type": "SA-18 Igla manpad",
+      "x": 145864.5,
+      "z": 149946.5,
+      "alt": 453.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Red Manpad Squad#10482",
+      "type": "Infantry AK",
+      "x": 145986.5,
+      "z": 149813.5,
+      "alt": 457.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Red Manpad Squad#10482",
+      "type": "Infantry AK",
+      "x": 145970.5,
+      "z": 149959.5,
+      "alt": 452.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Red Manpad Squad#10482",
+      "type": "Infantry AK",
+      "x": 145909.5,
+      "z": 149892.5,
+      "alt": 454.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Red Manpad Squad#10482",
+      "type": "UAZ-469",
+      "x": 145857.5,
+      "z": 149847.5,
+      "alt": 452.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Air Defense Battery#10481",
+      "type": "Ural-4320-31",
+      "x": 146186.9,
+      "z": 149375.7,
+      "alt": 458.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Air Defense Battery#10481",
+      "type": "ZSU-23-4 Shilka",
+      "x": 146290.9,
+      "z": 149444.7,
+      "alt": 452.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Air Defense Battery#10481",
+      "type": "Dog Ear radar",
+      "x": 146221.9,
+      "z": 149302.7,
+      "alt": 464.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10480",
+      "type": "ZSU_57_2",
+      "x": 147009.5,
+      "z": 150007.9,
+      "alt": 449.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10480",
+      "type": "ZSU_57_2",
+      "x": 147147.5,
+      "z": 149967.9,
+      "alt": 445.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10480",
+      "type": "BMP-2",
+      "x": 147050.5,
+      "z": 150162.9,
+      "alt": 446.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10480",
+      "type": "BTR-82A",
+      "x": 146871.5,
+      "z": 150158.9,
+      "alt": 447.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10480",
+      "type": "BTR-82A",
+      "x": 146803.5,
+      "z": 150013.9,
+      "alt": 449.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10480",
+      "type": "T-55",
+      "x": 147112.5,
+      "z": 150083.9,
+      "alt": 448.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10480",
+      "type": "BTR-82A",
+      "x": 147114.5,
+      "z": 150252.9,
+      "alt": 444.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10480",
+      "type": "Chieftain_mk3",
+      "x": 146938.5,
+      "z": 150082.9,
+      "alt": 449.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10480",
+      "type": "BMP-2",
+      "x": 147180.5,
+      "z": 150163.9,
+      "alt": 447.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10480",
+      "type": "BTR-82A",
+      "x": 147177.5,
+      "z": 150294.9,
+      "alt": 444.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10479",
+      "type": "BMP-1",
+      "x": 146755.6,
+      "z": 148600.3,
+      "alt": 456.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10479",
+      "type": "ZSU-23-4 Shilka",
+      "x": 146474.6,
+      "z": 148396.3,
+      "alt": 473.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10479",
+      "type": "BMP-2",
+      "x": 146732.6,
+      "z": 148136.3,
+      "alt": 471.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10479",
+      "type": "BMP-1",
+      "x": 146746.6,
+      "z": 148301.3,
+      "alt": 466.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10479",
+      "type": "BMP-1",
+      "x": 146655.6,
+      "z": 148217.3,
+      "alt": 474.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10479",
+      "type": "BTR-82A",
+      "x": 146369.6,
+      "z": 148259.3,
+      "alt": 484.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10479",
+      "type": "BMP-2",
+      "x": 146731.6,
+      "z": 148407.3,
+      "alt": 462.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10479",
+      "type": "Strela-1 9P31",
+      "x": 146405.6,
+      "z": 148453.3,
+      "alt": 477.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10479",
+      "type": "BMP-2",
+      "x": 146547.6,
+      "z": 148560.3,
+      "alt": 464.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlBab [r] Armored Platoon#10479",
+      "type": "BTR-82A",
+      "x": 146601.6,
+      "z": 148507.3,
+      "alt": 464.0
+    }
+  ],
+  "image": "albab.jpg",
+  "heading": 112,
+  "pitch": -30.0,
+  "x": 147977.64629290727,
+  "y": 146470.3291133347,
+  "altitude_m": 2231,
+  "order": 11
+}

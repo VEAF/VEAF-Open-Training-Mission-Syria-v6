@@ -1,0 +1,194 @@
+{
+  "name": "alsafira",
+  "title": "Z12 Frappe — Al-Safira",
+  "heading_deg": 122.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3000.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_AlSafira",
+  "camera": {
+    "position": [
+      115238.77063434215,
+      1830.2882352941174,
+      133903.91229764547
+    ],
+    "forward": [
+      -0.45892354478071384,
+      -0.49999999999999994,
+      0.7344311949024934
+    ],
+    "up": [
+      -0.26495963211660234,
+      0.8660254037844387,
+      0.424024048078213
+    ],
+    "right": [
+      -0.8480480961564261,
+      0.0,
+      -0.5299192642332048
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 113862.0,
+    "z": 136107.20588235295,
+    "alt_m": 330.2882352941176,
+    "lat": 36.07709697173042,
+    "lon": 37.37085760274419,
+    "dms": "N36°04'37.55\" E037°22'15.09\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:43",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_AlSafira [r] SA8#10513",
+      "type": "Osa 9A33 ln",
+      "x": 114576.0,
+      "z": 136807.0,
+      "alt": 323.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlSafira [r] SA8#10513",
+      "type": "GAZ-66",
+      "x": 114603.0,
+      "z": 136773.0,
+      "alt": 322.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlSafira [r] Air Defense Battery#10511",
+      "type": "Dog Ear radar",
+      "x": 113613.0,
+      "z": 135712.5,
+      "alt": 332.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlSafira [r] Air Defense Battery#10511",
+      "type": "Ural-4320-31",
+      "x": 113562.0,
+      "z": 135812.5,
+      "alt": 330.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlSafira [r] Air Defense Battery#10511",
+      "type": "Strela-1 9P31",
+      "x": 113563.0,
+      "z": 135726.5,
+      "alt": 331.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlSafira [r] Air Defense Battery#10511",
+      "type": "ZSU-23-4 Shilka",
+      "x": 113449.0,
+      "z": 135873.5,
+      "alt": 331.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlSafira [r] Air Defense Battery#10511",
+      "type": "ZSU-23-4 Shilka",
+      "x": 113648.0,
+      "z": 135778.5,
+      "alt": 331.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlSafira [r] Air Defense Battery#10511",
+      "type": "Ural-4320-31",
+      "x": 113715.0,
+      "z": 135996.5,
+      "alt": 330.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlSafira [r] Air Defense Battery#10511",
+      "type": "Strela-1 9P31",
+      "x": 113401.0,
+      "z": 135973.5,
+      "alt": 331.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlSafira [r] Air Defense Battery#10511",
+      "type": "Strela-10M3",
+      "x": 113527.0,
+      "z": 135695.5,
+      "alt": 335.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlSafira [r] Air Defense Battery#10511",
+      "type": "S-60_Type59_Artillery",
+      "x": 113685.0,
+      "z": 135983.5,
+      "alt": 330.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_AlSafira [r] combatZone_AlSafira-Fuel-2#10512 #205",
+      "type": "Fuel tank",
+      "x": 113907.0,
+      "z": 136270.0,
+      "alt": 330.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_AlSafira [r] combatZone_AlSafira-Tanks#10514 #207",
+      "type": "Tank",
+      "x": 114027.0,
+      "z": 136430.0,
+      "alt": 331.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_AlSafira [r] combatZone_AlSafira-Warehouse#10515 #206",
+      "type": "Warehouse",
+      "x": 114147.0,
+      "z": 136140.0,
+      "alt": 331.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_AlSafira [r] combatZone_AlSafira-Depot-2#10516 #203",
+      "type": ".Ammunition depot",
+      "x": 114207.0,
+      "z": 136330.0,
+      "alt": 332.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_AlSafira [r] combatZone_AlSafira-Fuel-1#10517 #204",
+      "type": "Fuel tank",
+      "x": 113937.0,
+      "z": 136230.0,
+      "alt": 329.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_AlSafira [r] combatZone_AlSafira-Depot-1#10518 #202",
+      "type": ".Ammunition depot",
+      "x": 114087.0,
+      "z": 136290.0,
+      "alt": 330.1
+    }
+  ],
+  "image": "alsafira.jpg",
+  "heading": 122,
+  "pitch": -30.0,
+  "x": 115238.77063434215,
+  "y": 133903.91229764547,
+  "altitude_m": 1830,
+  "order": 21
+}

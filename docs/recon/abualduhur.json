@@ -1,0 +1,226 @@
+{
+  "name": "abualduhur",
+  "title": "Z15 OCA — Abu al-Duhur",
+  "heading_deg": 134.0,
+  "pitch_deg": 30.0,
+  "slant_m": 5100.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_AbuAlDuhur",
+  "camera": {
+    "position": [
+      79483.94672985045,
+      2797.0571428571425,
+      110108.21349780573
+    ],
+    "forward": [
+      -0.6015917957689934,
+      -0.49999999999999994,
+      0.6229665410464978
+    ],
+    "up": [
+      -0.3473291852294986,
+      0.8660254037844387,
+      0.3596699001693255
+    ],
+    "right": [
+      -0.7193398003386511,
+      0.0,
+      -0.6946583704589974
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 76415.82857142857,
+    "z": 113285.34285714287,
+    "alt_m": 247.05714285714285,
+    "lat": 35.73594862942202,
+    "lon": 37.125496237332214,
+    "dms": "N35°44'09.42\" E037°07'31.79\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:45",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_AbuAlDuhur [r] SA6#10539",
+      "type": "Kub 1S91 str",
+      "x": 77411.0,
+      "z": 114175.0,
+      "alt": 245.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AbuAlDuhur [r] SA6#10539",
+      "type": "Kub 2P25 ln",
+      "x": 77470.0,
+      "z": 114172.0,
+      "alt": 244.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AbuAlDuhur [r] SA6#10539",
+      "type": "Kub 2P25 ln",
+      "x": 77414.0,
+      "z": 114131.0,
+      "alt": 245.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AbuAlDuhur [r] SA6#10539",
+      "type": "Kub 2P25 ln",
+      "x": 77418.0,
+      "z": 114213.0,
+      "alt": 245.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AbuAlDuhur [r] SA6#10539",
+      "type": "Kub 2P25 ln",
+      "x": 77383.0,
+      "z": 114174.0,
+      "alt": 245.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AbuAlDuhur [r] SA6#10539",
+      "type": "ZSU-23-4 Shilka",
+      "x": 77385.0,
+      "z": 114150.0,
+      "alt": 245.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AbuAlDuhur [r] SA6#10539",
+      "type": "ATZ-5",
+      "x": 77447.0,
+      "z": 114194.0,
+      "alt": 244.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AbuAlDuhur [r] SA6#10539",
+      "type": "ZIL-135",
+      "x": 77416.0,
+      "z": 114142.0,
+      "alt": 245.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AbuAlDuhur [r] SA6#10539",
+      "type": "Ural-375 PBU",
+      "x": 77427.0,
+      "z": 114155.0,
+      "alt": 244.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AbuAlDuhur [r] Air Defense Battery#10535",
+      "type": "ZSU-23-4 Shilka",
+      "x": 75265.6,
+      "z": 112110.3,
+      "alt": 241.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AbuAlDuhur [r] Air Defense Battery#10535",
+      "type": "Dog Ear radar",
+      "x": 75148.6,
+      "z": 112174.3,
+      "alt": 242.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AbuAlDuhur [r] Air Defense Battery#10535",
+      "type": "Ural-4320-31",
+      "x": 75199.6,
+      "z": 112225.3,
+      "alt": 242.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AbuAlDuhur [r] Air Defense Battery#10535",
+      "type": "Ural-4320-31",
+      "x": 75257.6,
+      "z": 112036.3,
+      "alt": 241.5
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_AbuAlDuhur [r] combatZone_AbuAlDuhur-MiG23-3#10530 #226",
+      "type": "MiG-23MLD",
+      "x": 75865.0,
+      "z": 112970.0,
+      "alt": 252.2
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_AbuAlDuhur [r] combatZone_AbuAlDuhur-MiG23-4#10532 #227",
+      "type": "MiG-23MLD",
+      "x": 75910.0,
+      "z": 112970.0,
+      "alt": 252.2
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_AbuAlDuhur [r] combatZone_AbuAlDuhur-Su24-1#10533 #228",
+      "type": "Su-24M",
+      "x": 76180.0,
+      "z": 113020.0,
+      "alt": 252.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_AbuAlDuhur [r] combatZone_AbuAlDuhur-MiG23-2#10534 #225",
+      "type": "MiG-23MLD",
+      "x": 75820.0,
+      "z": 112970.0,
+      "alt": 252.2
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_AbuAlDuhur [r] combatZone_AbuAlDuhur-Su24-2#10536 #229",
+      "type": "Su-24M",
+      "x": 76230.0,
+      "z": 113050.0,
+      "alt": 252.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_AbuAlDuhur [r] combatZone_AbuAlDuhur-MiG23-1#10537 #224",
+      "type": "MiG-23MLD",
+      "x": 75775.0,
+      "z": 112970.0,
+      "alt": 252.2
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_AbuAlDuhur [r] combatZone_AbuAlDuhur-Mi8-1#10538 #230",
+      "type": "Mi-8MT",
+      "x": 75630.0,
+      "z": 112470.0,
+      "alt": 252.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_AbuAlDuhur [r] combatZone_AbuAlDuhur-Fuel#10531 #231",
+      "type": "ATZ-10",
+      "x": 75680.0,
+      "z": 112520.0,
+      "alt": 250.0
+    }
+  ],
+  "image": "abualduhur.jpg",
+  "heading": 134,
+  "pitch": -30.0,
+  "x": 79483.94672985045,
+  "y": 110108.21349780573,
+  "altitude_m": 2797,
+  "order": 24
+}

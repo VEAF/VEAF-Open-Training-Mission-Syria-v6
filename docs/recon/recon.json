@@ -1,0 +1,167 @@
+{
+  "operation": "Open Training Syrie",
+  "shots": [
+    {
+      "name": "ceyhan-easy",
+      "title": "H1 Hélico Ceyhan — facile",
+      "image": "ceyhan-easy.jpg",
+      "metadata": "ceyhan-easy.json"
+    },
+    {
+      "name": "ceyhan-medium",
+      "title": "H2 Hélico Ceyhan — moyen",
+      "image": "ceyhan-medium.jpg",
+      "metadata": "ceyhan-medium.json"
+    },
+    {
+      "name": "ceyhan-hard",
+      "title": "H3 Hélico Ceyhan — difficile",
+      "image": "ceyhan-hard.jpg",
+      "metadata": "ceyhan-hard.json"
+    },
+    {
+      "name": "akamas-easy",
+      "title": "A1 Attaque Akamas — facile",
+      "image": "akamas-easy.jpg",
+      "metadata": "akamas-easy.json"
+    },
+    {
+      "name": "akamas-medium",
+      "title": "A2 Attaque Akamas — moyen",
+      "image": "akamas-medium.jpg",
+      "metadata": "akamas-medium.json"
+    },
+    {
+      "name": "akamas-hard",
+      "title": "A3 Attaque Akamas — difficile",
+      "image": "akamas-hard.jpg",
+      "metadata": "akamas-hard.json"
+    },
+    {
+      "name": "karpas-easy",
+      "title": "S1 SEAD Karpas — facile",
+      "image": "karpas-easy.jpg",
+      "metadata": "karpas-easy.json"
+    },
+    {
+      "name": "karpas-medium",
+      "title": "S2 SEAD Karpas — moyen",
+      "image": "karpas-medium.jpg",
+      "metadata": "karpas-medium.json"
+    },
+    {
+      "name": "karpas-hard",
+      "title": "S3 SEAD Karpas — difficile",
+      "image": "karpas-hard.jpg",
+      "metadata": "karpas-hard.json"
+    },
+    {
+      "name": "saraqib",
+      "title": "Z01 Front — Saraqib",
+      "image": "saraqib.jpg",
+      "metadata": "saraqib.json"
+    },
+    {
+      "name": "albab",
+      "title": "Z02 Front — Al-Bab",
+      "image": "albab.jpg",
+      "metadata": "albab.json"
+    },
+    {
+      "name": "morek",
+      "title": "Z03 Front — Morek",
+      "image": "morek.jpg",
+      "metadata": "morek.json"
+    },
+    {
+      "name": "quneitra",
+      "title": "Z04 Front — Quneitra",
+      "image": "quneitra.jpg",
+      "metadata": "quneitra.json"
+    },
+    {
+      "name": "daraa",
+      "title": "Z05 Front — Daraa",
+      "image": "daraa.jpg",
+      "metadata": "daraa.json"
+    },
+    {
+      "name": "mhardeh",
+      "title": "Z06 SEAD — Mhardeh",
+      "image": "mhardeh.jpg",
+      "metadata": "mhardeh.json"
+    },
+    {
+      "name": "kiswah",
+      "title": "Z07 SEAD — Al-Kiswah",
+      "image": "kiswah.jpg",
+      "metadata": "kiswah.json"
+    },
+    {
+      "name": "convoym5",
+      "title": "Z08 Convoi — M5",
+      "image": "convoym5.jpg",
+      "metadata": "convoym5.json"
+    },
+    {
+      "name": "convoypalmyra",
+      "title": "Z09 Convoi — Homs-Palmyre",
+      "image": "convoypalmyra.jpg",
+      "metadata": "convoypalmyra.json"
+    },
+    {
+      "name": "convoyeuphrates",
+      "title": "Z10 Convoi — Euphrate",
+      "image": "convoyeuphrates.jpg",
+      "metadata": "convoyeuphrates.json"
+    },
+    {
+      "name": "masyaf",
+      "title": "Z11 Frappe — Masyaf",
+      "image": "masyaf.jpg",
+      "metadata": "masyaf.json"
+    },
+    {
+      "name": "alsafira",
+      "title": "Z12 Frappe — Al-Safira",
+      "image": "alsafira.jpg",
+      "metadata": "alsafira.json"
+    },
+    {
+      "name": "jamraya",
+      "title": "Z13 Frappe — Jamraya",
+      "image": "jamraya.jpg",
+      "metadata": "jamraya.json"
+    },
+    {
+      "name": "deirezzor",
+      "title": "Z14 Frappe — Deir ez-Zor",
+      "image": "deirezzor.jpg",
+      "metadata": "deirezzor.json"
+    },
+    {
+      "name": "abualduhur",
+      "title": "Z15 OCA — Abu al-Duhur",
+      "image": "abualduhur.jpg",
+      "metadata": "abualduhur.json"
+    },
+    {
+      "name": "t4",
+      "title": "Z16 OCA — T4 (Tiyas)",
+      "image": "t4.jpg",
+      "metadata": "t4.json"
+    },
+    {
+      "name": "tartusport",
+      "title": "Z17 Antinavire — port de Tartous",
+      "image": "tartusport.jpg",
+      "metadata": "tartusport.json"
+    },
+    {
+      "name": "russianfleet",
+      "title": "Z18 Antinavire — flotte russe",
+      "image": "russianfleet.jpg",
+      "metadata": "russianfleet.json"
+    }
+  ]
+}
