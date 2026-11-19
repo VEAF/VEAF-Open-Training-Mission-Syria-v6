@@ -1,0 +1,250 @@
+{
+  "name": "ceyhan-hard",
+  "title": "H3 Hélico Ceyhan — difficile",
+  "heading_deg": 99.0,
+  "pitch_deg": 30.0,
+  "slant_m": 4200.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Ceyhan_Hard",
+  "camera": {
+    "position": [
+      213528.07929382622,
+      2219.020833333333,
+      6216.75791862957
+    ],
+    "forward": [
+      -0.13547622075226856,
+      -0.49999999999999994,
+      0.8553631939770864
+    ],
+    "up": [
+      -0.07821723252011539,
+      0.8660254037844387,
+      0.49384417029756883
+    ],
+    "right": [
+      -0.9876883405951378,
+      0.0,
+      -0.1564344650402308
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 212959.0791666667,
+    "z": 9809.283333333333,
+    "alt_m": 119.02083333333333,
+    "lat": 36.94195868116708,
+    "lon": 35.93459055529349,
+    "dms": "N36°56'31.05\" E035°56'04.53\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:32",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] Strela-10M3#10427",
+      "type": "Strela-10M3",
+      "x": 212616.1,
+      "z": 8444.1,
+      "alt": 125.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] Air Defense Battery#10426",
+      "type": "Ural-4320-31",
+      "x": 213661.0,
+      "z": 8866.8,
+      "alt": 186.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] Air Defense Battery#10426",
+      "type": "S-60_Type59_Artillery",
+      "x": 213589.0,
+      "z": 8871.8,
+      "alt": 182.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] Air Defense Battery#10426",
+      "type": "Ural-4320-31",
+      "x": 213649.0,
+      "z": 8868.8,
+      "alt": 185.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] combatZone_Ceyhan_Easy-Easy-BTR-2#10425",
+      "type": "BTR-80",
+      "x": 213084.6,
+      "z": 9800.0,
+      "alt": 91.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] SA8#10424",
+      "type": "Osa 9A33 ln",
+      "x": 213121.0,
+      "z": 10685.0,
+      "alt": 108.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] SA8#10424",
+      "type": "GAZ-66",
+      "x": 213136.0,
+      "z": 10695.0,
+      "alt": 108.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] SA19#10423",
+      "type": "2S6 Tunguska",
+      "x": 214024.8,
+      "z": 10166.2,
+      "alt": 126.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] SA19#10423",
+      "type": "Ural-375",
+      "x": 214028.8,
+      "z": 10072.2,
+      "alt": 125.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] combatZone_Ceyhan_Easy-Easy-Fuel#10422",
+      "type": "ATZ-10",
+      "x": 213322.4,
+      "z": 9474.2,
+      "alt": 123.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] combatZone_Ceyhan_Easy-Easy-T55-1#10421",
+      "type": "T-55",
+      "x": 212694.5,
+      "z": 9598.8,
+      "alt": 87.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] combatZone_Ceyhan_Easy-Easy-Trucks#10420",
+      "type": "Ural-375",
+      "x": 213219.3,
+      "z": 9328.8,
+      "alt": 120.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] combatZone_Ceyhan_Easy-Easy-Trucks#10420",
+      "type": "Ural-375",
+      "x": 213239.3,
+      "z": 9328.8,
+      "alt": 121.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] combatZone_Ceyhan_Easy-Easy-Trucks#10420",
+      "type": "ZIL-131 KUNG",
+      "x": 213259.3,
+      "z": 9328.8,
+      "alt": 123.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] combatZone_Ceyhan_Easy-Easy-BTR-1#10419",
+      "type": "BTR-80",
+      "x": 213110.8,
+      "z": 9751.0,
+      "alt": 92.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] combatZone_Ceyhan_Easy-Easy-T55-2#10418",
+      "type": "T-55",
+      "x": 212734.2,
+      "z": 9666.8,
+      "alt": 87.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] Red Manpad Squad#10417",
+      "type": "SA-18 Igla manpad",
+      "x": 212131.4,
+      "z": 10546.0,
+      "alt": 126.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] Red Manpad Squad#10417",
+      "type": "Infantry AK",
+      "x": 212193.4,
+      "z": 10432.0,
+      "alt": 117.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] Red Manpad Squad#10417",
+      "type": "Infantry AK",
+      "x": 212291.4,
+      "z": 10496.0,
+      "alt": 120.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] Red Manpad Squad#10417",
+      "type": "Infantry AK",
+      "x": 212252.4,
+      "z": 10500.0,
+      "alt": 121.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] Red Manpad Squad#10417",
+      "type": "UAZ-469",
+      "x": 212313.4,
+      "z": 10544.0,
+      "alt": 122.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] Air Defense Battery#10416",
+      "type": "S-60_Type59_Artillery",
+      "x": 212472.6,
+      "z": 10043.9,
+      "alt": 84.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] Air Defense Battery#10416",
+      "type": "Ural-4320-31",
+      "x": 212416.6,
+      "z": 9914.9,
+      "alt": 84.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Hard [r] Air Defense Battery#10416",
+      "type": "Ural-4320-31",
+      "x": 212456.6,
+      "z": 9998.9,
+      "alt": 84.2
+    }
+  ],
+  "image": "ceyhan-hard.jpg",
+  "heading": 99,
+  "pitch": -30.0,
+  "x": 213528.07929382622,
+  "y": 6216.75791862957,
+  "altitude_m": 2219,
+  "order": 3
+}

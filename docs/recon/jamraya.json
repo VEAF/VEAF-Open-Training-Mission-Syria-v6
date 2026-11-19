@@ -1,0 +1,114 @@
+{
+  "name": "jamraya",
+  "title": "Z13 Frappe — Jamraya",
+  "heading_deg": 171.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1450.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Jamraya",
+  "camera": {
+    "position": [
+      -160673.1519401618,
+      1574.3142857142857,
+      25455.130908480638
+    ],
+    "forward": [
+      -0.8553631939770863,
+      -0.49999999999999994,
+      0.1354762207522687
+    ],
+    "up": [
+      -0.4938441702975688,
+      0.8660254037844387,
+      0.07821723252011548
+    ],
+    "right": [
+      -0.15643446504023098,
+      0.0,
+      -0.9876883405951377
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -161913.42857142858,
+    "z": 25651.571428571428,
+    "alt_m": 849.3142857142857,
+    "lat": 33.570300373835956,
+    "lon": 36.2297210924443,
+    "dms": "N33°34'13.08\" E036°13'47.00\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:44",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Jamraya [r] SA22#10521",
+      "type": "CHAP_PantsirS1",
+      "x": -161560.0,
+      "z": 25380.0,
+      "alt": 850.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jamraya [r] SA22#10521",
+      "type": "GAZ-66",
+      "x": -161529.0,
+      "z": 25371.0,
+      "alt": 851.6
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Jamraya [r] combatZone_Jamraya-Antenna#10519 #213",
+      "type": "Comms tower M",
+      "x": -162187.0,
+      "z": 25684.0,
+      "alt": 841.9
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Jamraya [r] combatZone_Jamraya-Store#10520 #212",
+      "type": "Small werehouse 1",
+      "x": -161987.0,
+      "z": 25664.0,
+      "alt": 844.9
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Jamraya [r] combatZone_Jamraya-HQ#10522 #210",
+      "type": "Military staff",
+      "x": -161947.0,
+      "z": 25854.0,
+      "alt": 850.9
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Jamraya [r] combatZone_Jamraya-Lab#10523 #209",
+      "type": "Tech combine",
+      "x": -162047.0,
+      "z": 25774.0,
+      "alt": 850.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Jamraya [r] combatZone_Jamraya-Boiler#10524 #211",
+      "type": "Boiler-house A",
+      "x": -162137.0,
+      "z": 25834.0,
+      "alt": 855.0
+    }
+  ],
+  "image": "jamraya.jpg",
+  "heading": 171,
+  "pitch": -30.0,
+  "x": -160673.1519401618,
+  "y": 25455.130908480638,
+  "altitude_m": 1574,
+  "order": 22
+}

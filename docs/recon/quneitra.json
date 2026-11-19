@@ -1,0 +1,330 @@
+{
+  "name": "quneitra",
+  "title": "Z04 Front — Quneitra",
+  "heading_deg": 176.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3850.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Quneitra",
+  "camera": {
+    "position": [
+      -200150.67413370564,
+      2858.6088235294114,
+      -8098.0112933769215
+    ],
+    "forward": [
+      -0.8639158094271043,
+      -0.49999999999999994,
+      0.0604108783408349
+    ],
+    "up": [
+      -0.49878202512991204,
+      0.8660254037844387,
+      0.034878236872062755
+    ],
+    "right": [
+      -0.06975647374412552,
+      0.0,
+      -0.9975640502598242
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -203476.75,
+    "z": -7865.429411764707,
+    "alt_m": 933.6088235294118,
+    "lat": 33.18736124931697,
+    "lon": 35.88248131834406,
+    "dms": "N33°11'14.50\" E035°52'56.93\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:38",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10491",
+      "type": "BMP-1",
+      "x": -203622.8,
+      "z": -9102.2,
+      "alt": 930.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10491",
+      "type": "BTR-82A",
+      "x": -203406.8,
+      "z": -8855.2,
+      "alt": 928.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10491",
+      "type": "BMP-1",
+      "x": -203591.8,
+      "z": -8923.2,
+      "alt": 928.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10491",
+      "type": "BMP-1",
+      "x": -203479.8,
+      "z": -8994.2,
+      "alt": 929.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10491",
+      "type": "ZSU_57_2",
+      "x": -203546.8,
+      "z": -8827.2,
+      "alt": 926.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10491",
+      "type": "VAB_Mephisto",
+      "x": -203688.8,
+      "z": -8934.2,
+      "alt": 928.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10491",
+      "type": "VAB_Mephisto",
+      "x": -203684.8,
+      "z": -8756.2,
+      "alt": 925.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10491",
+      "type": "BMP-2",
+      "x": -203534.8,
+      "z": -9082.2,
+      "alt": 931.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10491",
+      "type": "ZSU-23-4 Shilka",
+      "x": -203404.8,
+      "z": -8799.2,
+      "alt": 927.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10491",
+      "type": "VAB_Mephisto",
+      "x": -203693.8,
+      "z": -9126.2,
+      "alt": 930.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10490",
+      "type": "ZSU_57_2",
+      "x": -202931.3,
+      "z": -7029.2,
+      "alt": 938.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10490",
+      "type": "VAB_Mephisto",
+      "x": -203115.3,
+      "z": -7230.2,
+      "alt": 935.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10490",
+      "type": "VAB_Mephisto",
+      "x": -202976.3,
+      "z": -7379.2,
+      "alt": 932.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10490",
+      "type": "BMP-2",
+      "x": -202868.3,
+      "z": -7065.2,
+      "alt": 942.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10490",
+      "type": "ZSU-23-4 Shilka",
+      "x": -203164.3,
+      "z": -7382.2,
+      "alt": 933.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10490",
+      "type": "BMP-2",
+      "x": -202961.3,
+      "z": -7271.2,
+      "alt": 934.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10490",
+      "type": "VAB_Mephisto",
+      "x": -203053.3,
+      "z": -7326.2,
+      "alt": 934.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10490",
+      "type": "Chieftain_mk3",
+      "x": -202931.3,
+      "z": -7372.2,
+      "alt": 931.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10490",
+      "type": "Chieftain_mk3",
+      "x": -203154.3,
+      "z": -7218.2,
+      "alt": 936.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Armored Platoon#10490",
+      "type": "BMP-2",
+      "x": -203067.3,
+      "z": -7146.2,
+      "alt": 935.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Red Manpad Squad#10489",
+      "type": "SA-18 Igla manpad",
+      "x": -203351.3,
+      "z": -7354.3,
+      "alt": 933.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Red Manpad Squad#10489",
+      "type": "SA-18 Igla manpad",
+      "x": -203337.3,
+      "z": -7208.3,
+      "alt": 934.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Red Manpad Squad#10489",
+      "type": "Infantry AK",
+      "x": -203250.3,
+      "z": -7266.3,
+      "alt": 935.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Red Manpad Squad#10489",
+      "type": "Infantry AK",
+      "x": -203256.3,
+      "z": -7299.3,
+      "alt": 934.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Red Manpad Squad#10489",
+      "type": "Infantry AK",
+      "x": -203307.3,
+      "z": -7336.3,
+      "alt": 933.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Red Manpad Squad#10489",
+      "type": "Infantry AK",
+      "x": -203412.3,
+      "z": -7335.3,
+      "alt": 933.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Red Manpad Squad#10489",
+      "type": "UAZ-469",
+      "x": -203411.3,
+      "z": -7256.3,
+      "alt": 933.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Air Defense Battery#10488",
+      "type": "Strela-1 9P31",
+      "x": -204262.2,
+      "z": -7757.5,
+      "alt": 937.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Air Defense Battery#10488",
+      "type": "Dog Ear radar",
+      "x": -204057.2,
+      "z": -7819.5,
+      "alt": 938.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Air Defense Battery#10488",
+      "type": "ZSU-23-4 Shilka",
+      "x": -203990.2,
+      "z": -7904.5,
+      "alt": 938.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Air Defense Battery#10488",
+      "type": "ZSU_57_2",
+      "x": -204255.2,
+      "z": -7653.5,
+      "alt": 935.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Air Defense Battery#10488",
+      "type": "Ural-4320-31",
+      "x": -204175.2,
+      "z": -7800.5,
+      "alt": 938.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Air Defense Battery#10488",
+      "type": "Strela-1 9P31",
+      "x": -204121.2,
+      "z": -7885.5,
+      "alt": 937.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Quneitra [r] Air Defense Battery#10488",
+      "type": "Ural-4320-31",
+      "x": -204144.2,
+      "z": -7727.5,
+      "alt": 938.9
+    }
+  ],
+  "image": "quneitra.jpg",
+  "heading": 176,
+  "pitch": -30.0,
+  "x": -200150.67413370564,
+  "y": -8098.0112933769215,
+  "altitude_m": 2859,
+  "order": 13
+}

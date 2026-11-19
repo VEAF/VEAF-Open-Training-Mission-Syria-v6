@@ -1,0 +1,90 @@
+{
+  "name": "russianfleet",
+  "title": "Z18 Antinavire — flotte russe",
+  "heading_deg": 183.0,
+  "pitch_deg": 30.0,
+  "slant_m": 2700.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_RussianFleet",
+  "camera": {
+    "position": [
+      63105.739074380625,
+      1349.9999999999998,
+      -44942.2744773781
+    ],
+    "forward": [
+      -0.8648385460668959,
+      -0.49999999999999994,
+      -0.04532426763773992
+    ],
+    "up": [
+      -0.49931476737728686,
+      0.8660254037844387,
+      -0.02616797812147178
+    ],
+    "right": [
+      0.052335956242943564,
+      0.0,
+      -0.9986295347545738
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 60770.675,
+    "z": -45064.65,
+    "alt_m": 0.0,
+    "lat": 35.555192195870866,
+    "lon": 35.38319630245511,
+    "dms": "N35°33'18.69\" E035°22'59.51\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:47",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_RussianFleet [r] combatZone_RussianFleet-Fleet#10555",
+      "type": "MOSCOW",
+      "x": 59870.8,
+      "z": -45064.6,
+      "alt": 0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RussianFleet [r] combatZone_RussianFleet-Fleet#10555",
+      "type": "REZKY",
+      "x": 60470.4,
+      "z": -45064.8,
+      "alt": 0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RussianFleet [r] combatZone_RussianFleet-Fleet#10555",
+      "type": "REZKY",
+      "x": 61070.7,
+      "z": -45064.6,
+      "alt": 0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RussianFleet [r] combatZone_RussianFleet-Fleet#10555",
+      "type": "NEUSTRASH",
+      "x": 61670.8,
+      "z": -45064.6,
+      "alt": 0.0
+    }
+  ],
+  "image": "russianfleet.jpg",
+  "heading": 183,
+  "pitch": -30.0,
+  "x": 63105.739074380625,
+  "y": -44942.2744773781,
+  "altitude_m": 1350,
+  "order": 27
+}

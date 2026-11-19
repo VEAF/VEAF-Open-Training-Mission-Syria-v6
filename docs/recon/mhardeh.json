@@ -1,0 +1,162 @@
+{
+  "name": "mhardeh",
+  "title": "Z06 SEAD — Mhardeh",
+  "heading_deg": 153.0,
+  "pitch_deg": 30.0,
+  "slant_m": 2550.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Mhardeh",
+  "camera": {
+    "position": [
+      25207.975118763934,
+      1547.6,
+      61507.2695239255
+    ],
+    "forward": [
+      -0.7716342848848005,
+      -0.49999999999999994,
+      0.3931673058512402
+    ],
+    "up": [
+      -0.44550326209418384,
+      0.8660254037844387,
+      0.2269952498697734
+    ],
+    "right": [
+      -0.45399049973954686,
+      0.0,
+      -0.8910065241883678
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 23240.30769230769,
+    "z": 62509.846153846156,
+    "alt_m": 272.6,
+    "lat": 35.24685844753739,
+    "lon": 36.578842203357674,
+    "dms": "N35°14'48.69\" E036°34'43.83\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:39",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Mhardeh [r] SA15#10497",
+      "type": "Tor 9A331",
+      "x": 22566.0,
+      "z": 63013.0,
+      "alt": 274.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Mhardeh [r] SA15#10497",
+      "type": "GAZ-66",
+      "x": 22581.0,
+      "z": 63041.0,
+      "alt": 274.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Mhardeh [r] SA6#10496",
+      "type": "Kub 1S91 str",
+      "x": 23352.0,
+      "z": 62424.0,
+      "alt": 272.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Mhardeh [r] SA6#10496",
+      "type": "Kub 2P25 ln",
+      "x": 23416.0,
+      "z": 62429.0,
+      "alt": 272.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Mhardeh [r] SA6#10496",
+      "type": "Kub 2P25 ln",
+      "x": 23359.0,
+      "z": 62366.0,
+      "alt": 271.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Mhardeh [r] SA6#10496",
+      "type": "Kub 2P25 ln",
+      "x": 23367.0,
+      "z": 62477.0,
+      "alt": 272.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Mhardeh [r] SA6#10496",
+      "type": "Kub 2P25 ln",
+      "x": 23313.0,
+      "z": 62427.0,
+      "alt": 272.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Mhardeh [r] SA6#10496",
+      "type": "ZSU-23-4 Shilka",
+      "x": 23319.0,
+      "z": 62411.0,
+      "alt": 272.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Mhardeh [r] SA6#10496",
+      "type": "ZSU-23-4 Shilka",
+      "x": 23406.0,
+      "z": 62464.0,
+      "alt": 273.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Mhardeh [r] SA6#10496",
+      "type": "ATZ-5",
+      "x": 23325.0,
+      "z": 62443.0,
+      "alt": 272.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Mhardeh [r] SA6#10496",
+      "type": "ZIL-135",
+      "x": 23338.0,
+      "z": 62379.0,
+      "alt": 271.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Mhardeh [r] SA6#10496",
+      "type": "ZIL-135",
+      "x": 23384.0,
+      "z": 62387.0,
+      "alt": 271.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Mhardeh [r] SA6#10496",
+      "type": "Ural-375 PBU",
+      "x": 23398.0,
+      "z": 62367.0,
+      "alt": 271.6
+    }
+  ],
+  "image": "mhardeh.jpg",
+  "heading": 153,
+  "pitch": -30.0,
+  "x": 25207.975118763934,
+  "y": 61507.2695239255,
+  "altitude_m": 1548,
+  "order": 15
+}

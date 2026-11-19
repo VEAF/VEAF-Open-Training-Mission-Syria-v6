@@ -1,0 +1,122 @@
+{
+  "name": "tartusport",
+  "title": "Z17 Antinavire — port de Tartous",
+  "heading_deg": 172.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3550.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_TartusPort",
+  "camera": {
+    "position": [
+      -9387.417070492022,
+      1776.4749999999997,
+      -3543.197415389799
+    ],
+    "forward": [
+      -0.8575973040867548,
+      -0.49999999999999994,
+      0.12052744095487303
+    ],
+    "up": [
+      -0.4951340343707851,
+      0.8660254037844387,
+      0.06958655048003265
+    ],
+    "right": [
+      -0.13917310096006533,
+      0.0,
+      -0.9902680687415704
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -12431.8875,
+    "z": -3115.325,
+    "alt_m": 1.475,
+    "lat": 34.90910518404048,
+    "lon": 35.870725368399285,
+    "dms": "N34°54'32.78\" E035°52'14.61\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:46",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_TartusPort [r] SA15#10554",
+      "type": "Tor 9A331",
+      "x": -12593.0,
+      "z": -2408.0,
+      "alt": 5.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TartusPort [r] SA15#10554",
+      "type": "GAZ-66",
+      "x": -12602.0,
+      "z": -2393.0,
+      "alt": 6.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TartusPort [r] combatZone_TartusPort-Kilo-1#10553",
+      "type": "KILO",
+      "x": -12800.0,
+      "z": -3274.0,
+      "alt": 0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TartusPort [r] combatZone_TartusPort-Patrol#10552",
+      "type": "MOLNIYA",
+      "x": -13284.0,
+      "z": -3524.0,
+      "alt": 0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TartusPort [r] combatZone_TartusPort-Tanker#10551",
+      "type": "ELNYA",
+      "x": -12506.0,
+      "z": -3525.6,
+      "alt": 0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TartusPort [r] combatZone_TartusPort-Kilo-2#10550",
+      "type": "KILO",
+      "x": -13050.0,
+      "z": -3274.0,
+      "alt": 0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TartusPort [r] combatZone_TartusPort-Landing#10549",
+      "type": "BDK-775",
+      "x": -11472.3,
+      "z": -3524.0,
+      "alt": 0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TartusPort-Cargo",
+      "type": "Dry-cargo ship-1",
+      "x": -11147.8,
+      "z": -3000.0,
+      "alt": 0.0
+    }
+  ],
+  "image": "tartusport.jpg",
+  "heading": 172,
+  "pitch": -30.0,
+  "x": -9387.417070492022,
+  "y": -3543.197415389799,
+  "altitude_m": 1776,
+  "order": 26
+}

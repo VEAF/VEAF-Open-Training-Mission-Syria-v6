@@ -1,0 +1,338 @@
+{
+  "name": "morek",
+  "title": "Z03 Front — Morek",
+  "heading_deg": 149.0,
+  "pitch_deg": 30.0,
+  "slant_m": 5650.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Morek",
+  "camera": {
+    "position": [
+      41885.54263029843,
+      3185.111428571428,
+      70009.9019934316
+    ],
+    "forward": [
+      -0.7423286577013641,
+      -0.49999999999999994,
+      0.44603605678833985
+    ],
+    "up": [
+      -0.42858365035105606,
+      0.8660254037844387,
+      0.25751903745502713
+    ],
+    "right": [
+      -0.5150380749100544,
+      0.0,
+      -0.8571673007021122
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 37691.385714285716,
+    "z": 72530.00571428573,
+    "alt_m": 360.1114285714286,
+    "lat": 35.37920972333736,
+    "lon": 36.685180469651065,
+    "dms": "N35°22'45.16\" E036°41'06.65\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:37",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Grad MLRS artillery battery#10487",
+      "type": "Grad-URAL",
+      "x": 35881.7,
+      "z": 73042.0,
+      "alt": 352.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Grad MLRS artillery battery#10487",
+      "type": "Grad-URAL",
+      "x": 35940.7,
+      "z": 72950.0,
+      "alt": 354.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Grad MLRS artillery battery#10487",
+      "type": "Grad-URAL",
+      "x": 35856.7,
+      "z": 72915.0,
+      "alt": 351.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Grad MLRS artillery battery#10487",
+      "type": "Grad-URAL",
+      "x": 35929.7,
+      "z": 73003.0,
+      "alt": 355.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Grad MLRS artillery battery#10487",
+      "type": "Grad_FDDM",
+      "x": 35874.7,
+      "z": 72987.0,
+      "alt": 352.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Grad MLRS artillery battery#10487",
+      "type": "Ural-375",
+      "x": 35920.7,
+      "z": 73104.0,
+      "alt": 354.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Grad MLRS artillery battery#10487",
+      "type": "Ural-375",
+      "x": 35921.7,
+      "z": 72893.0,
+      "alt": 352.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Air Defense Battery#10486",
+      "type": "Osa 9A33 ln",
+      "x": 38000.0,
+      "z": 72658.7,
+      "alt": 378.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Air Defense Battery#10486",
+      "type": "ZSU-23-4 Shilka",
+      "x": 37759.0,
+      "z": 72885.7,
+      "alt": 365.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Air Defense Battery#10486",
+      "type": "Dog Ear radar",
+      "x": 37801.0,
+      "z": 72739.7,
+      "alt": 376.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Air Defense Battery#10486",
+      "type": "Ural-4320-31",
+      "x": 38124.0,
+      "z": 72859.7,
+      "alt": 380.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Air Defense Battery#10486",
+      "type": "ZSU_57_2",
+      "x": 37920.0,
+      "z": 72694.7,
+      "alt": 379.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Air Defense Battery#10486",
+      "type": "Osa 9A33 ln",
+      "x": 37840.0,
+      "z": 72703.7,
+      "alt": 377.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Air Defense Battery#10486",
+      "type": "Strela-10M3",
+      "x": 37902.0,
+      "z": 72921.7,
+      "alt": 374.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Air Defense Battery#10486",
+      "type": "Strela-10M3",
+      "x": 37881.0,
+      "z": 72759.7,
+      "alt": 377.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Air Defense Battery#10486",
+      "type": "ZSU-23-4 Shilka",
+      "x": 37951.0,
+      "z": 72650.7,
+      "alt": 378.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Armored Platoon#10485",
+      "type": "ZSU_57_2",
+      "x": 38582.4,
+      "z": 73279.1,
+      "alt": 371.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Armored Platoon#10485",
+      "type": "BMP-2",
+      "x": 38403.4,
+      "z": 73035.1,
+      "alt": 379.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Armored Platoon#10485",
+      "type": "BMP-2",
+      "x": 38529.4,
+      "z": 73230.1,
+      "alt": 372.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Armored Platoon#10485",
+      "type": "Chieftain_mk3",
+      "x": 38661.4,
+      "z": 73155.1,
+      "alt": 373.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Armored Platoon#10485",
+      "type": "Chieftain_mk3",
+      "x": 38340.4,
+      "z": 73230.1,
+      "alt": 373.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Armored Platoon#10485",
+      "type": "VAB_Mephisto",
+      "x": 38348.4,
+      "z": 73381.1,
+      "alt": 370.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Armored Platoon#10485",
+      "type": "BMP-2",
+      "x": 38398.4,
+      "z": 73087.1,
+      "alt": 377.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Armored Platoon#10485",
+      "type": "Chieftain_mk3",
+      "x": 38436.4,
+      "z": 73276.1,
+      "alt": 371.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Armored Platoon#10485",
+      "type": "T-55",
+      "x": 38541.4,
+      "z": 73032.1,
+      "alt": 377.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Armored Platoon#10484",
+      "type": "BMP-1",
+      "x": 37962.5,
+      "z": 71407.9,
+      "alt": 336.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Armored Platoon#10484",
+      "type": "BMP-1",
+      "x": 38087.5,
+      "z": 71367.9,
+      "alt": 336.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Armored Platoon#10484",
+      "type": "ZSU_57_2",
+      "x": 37935.5,
+      "z": 71473.9,
+      "alt": 338.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Armored Platoon#10484",
+      "type": "VAB_Mephisto",
+      "x": 38142.5,
+      "z": 71391.9,
+      "alt": 338.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Armored Platoon#10484",
+      "type": "BMP-1",
+      "x": 38120.5,
+      "z": 71287.9,
+      "alt": 334.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Armored Platoon#10484",
+      "type": "ZSU_57_2",
+      "x": 37896.5,
+      "z": 71511.9,
+      "alt": 339.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Armored Platoon#10484",
+      "type": "BMP-2",
+      "x": 38169.5,
+      "z": 71220.9,
+      "alt": 334.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Armored Platoon#10484",
+      "type": "BMP-1",
+      "x": 37976.5,
+      "z": 71556.9,
+      "alt": 341.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Armored Platoon#10484",
+      "type": "BMP-1",
+      "x": 38018.5,
+      "z": 71534.9,
+      "alt": 341.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Morek [r] Armored Platoon#10484",
+      "type": "BTR-82A",
+      "x": 38143.5,
+      "z": 71321.9,
+      "alt": 335.3
+    }
+  ],
+  "image": "morek.jpg",
+  "heading": 149,
+  "pitch": -30.0,
+  "x": 41885.54263029843,
+  "y": 70009.9019934316,
+  "altitude_m": 3185,
+  "order": 12
+}

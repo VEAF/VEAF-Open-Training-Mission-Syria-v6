@@ -1,0 +1,266 @@
+{
+  "name": "saraqib",
+  "title": "Z01 Front — Saraqib",
+  "heading_deg": 137.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3750.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Saraqib",
+  "camera": {
+    "position": [
+      93120.00235628898,
+      2235.2961538461536,
+      81829.97997105919
+    ],
+    "forward": [
+      -0.633370884753986,
+      -0.49999999999999994,
+      0.5906279051534502
+    ],
+    "up": [
+      -0.3656768508095852,
+      0.8660254037844387,
+      0.3409991800312492
+    ],
+    "right": [
+      -0.6819983600624985,
+      0.0,
+      -0.7313537016191705
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 90744.86153846154,
+    "z": 84044.83461538462,
+    "alt_m": 360.29615384615386,
+    "lat": 35.85957695856272,
+    "lon": 36.798792673771906,
+    "dms": "N35°51'34.48\" E036°47'55.65\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:36",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Air Defense Battery#10478",
+      "type": "Dog Ear radar",
+      "x": 90858.0,
+      "z": 84429.7,
+      "alt": 379.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Air Defense Battery#10478",
+      "type": "ZSU_57_2",
+      "x": 91087.0,
+      "z": 84322.7,
+      "alt": 357.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Air Defense Battery#10478",
+      "type": "Ural-4320-31",
+      "x": 91088.0,
+      "z": 84398.7,
+      "alt": 361.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Air Defense Battery#10478",
+      "type": "ZSU-23-4 Shilka",
+      "x": 90997.0,
+      "z": 84511.7,
+      "alt": 371.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Air Defense Battery#10478",
+      "type": "ZSU-23-4 Shilka",
+      "x": 90935.0,
+      "z": 84499.7,
+      "alt": 365.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Air Defense Battery#10478",
+      "type": "Strela-1 9P31",
+      "x": 91090.0,
+      "z": 84541.7,
+      "alt": 362.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Msta artillery battery#10477",
+      "type": "SAU Msta",
+      "x": 89713.6,
+      "z": 83616.8,
+      "alt": 376.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Msta artillery battery#10477",
+      "type": "SAU Msta",
+      "x": 89707.6,
+      "z": 83524.8,
+      "alt": 378.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Msta artillery battery#10477",
+      "type": "SAU Msta",
+      "x": 89789.6,
+      "z": 83633.8,
+      "alt": 374.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Msta artillery battery#10477",
+      "type": "Grad_FDDM",
+      "x": 89713.6,
+      "z": 83591.8,
+      "alt": 376.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Msta artillery battery#10477",
+      "type": "Ural-375",
+      "x": 89810.6,
+      "z": 83530.8,
+      "alt": 377.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Armored Platoon#10476",
+      "type": "ZSU-23-4 Shilka",
+      "x": 91367.6,
+      "z": 83291.1,
+      "alt": 351.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Armored Platoon#10476",
+      "type": "BMP-2",
+      "x": 91541.6,
+      "z": 83183.1,
+      "alt": 356.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Armored Platoon#10476",
+      "type": "BMP-1",
+      "x": 91336.6,
+      "z": 83267.1,
+      "alt": 352.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Armored Platoon#10476",
+      "type": "ZSU_57_2",
+      "x": 91340.6,
+      "z": 83214.1,
+      "alt": 354.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Armored Platoon#10476",
+      "type": "BMP-1",
+      "x": 91423.6,
+      "z": 83397.1,
+      "alt": 353.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Armored Platoon#10476",
+      "type": "VAB_Mephisto",
+      "x": 91271.6,
+      "z": 83301.1,
+      "alt": 352.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Armored Platoon#10476",
+      "type": "BMP-1",
+      "x": 91297.6,
+      "z": 83351.1,
+      "alt": 355.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Armored Platoon#10476",
+      "type": "BMP-2",
+      "x": 91398.6,
+      "z": 83131.1,
+      "alt": 357.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Armored Platoon#10476",
+      "type": "VAB_Mephisto",
+      "x": 91453.6,
+      "z": 83439.1,
+      "alt": 354.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Armored Platoon#10475",
+      "type": "BMP-3",
+      "x": 90374.0,
+      "z": 85224.6,
+      "alt": 347.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Armored Platoon#10475",
+      "type": "CHAP_T64BV",
+      "x": 90366.0,
+      "z": 85137.6,
+      "alt": 350.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Armored Platoon#10475",
+      "type": "BTR-82A",
+      "x": 90327.0,
+      "z": 85219.6,
+      "alt": 346.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Armored Platoon#10475",
+      "type": "Chieftain_mk3",
+      "x": 90452.0,
+      "z": 85216.6,
+      "alt": 350.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Armored Platoon#10475",
+      "type": "BMP-3",
+      "x": 90368.0,
+      "z": 85103.6,
+      "alt": 352.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Saraqib [r] Armored Platoon#10475",
+      "type": "ZSU_57_2",
+      "x": 90258.0,
+      "z": 85086.6,
+      "alt": 349.5
+    }
+  ],
+  "image": "saraqib.jpg",
+  "heading": 137,
+  "pitch": -30.0,
+  "x": 93120.00235628898,
+  "y": 81829.97997105919,
+  "altitude_m": 2235,
+  "order": 10
+}

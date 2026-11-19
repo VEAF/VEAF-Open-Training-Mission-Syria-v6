@@ -1,0 +1,122 @@
+{
+  "name": "ceyhan-easy",
+  "title": "H1 Hélico Ceyhan — facile",
+  "heading_deg": 99.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1250.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Ceyhan_Easy",
+  "camera": {
+    "position": [
+      213283.75777594035,
+      733.0999999999999,
+      8457.083507528643
+    ],
+    "forward": [
+      -0.13547622075226856,
+      -0.49999999999999994,
+      0.8553631939770864
+    ],
+    "up": [
+      -0.07821723252011539,
+      0.8660254037844387,
+      0.49384417029756883
+    ],
+    "right": [
+      -0.9876883405951378,
+      0.0,
+      -0.1564344650402308
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 213114.4125,
+    "z": 9526.2875,
+    "alt_m": 108.1,
+    "lat": 36.94327489044278,
+    "lon": 35.93136082616165,
+    "dms": "N36°56'35.79\" E035°55'52.90\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:30",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Easy [r] combatZone_Ceyhan_Easy-Easy-T55-1#10404",
+      "type": "T-55",
+      "x": 212755.1,
+      "z": 9614.9,
+      "alt": 88.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Easy [r] combatZone_Ceyhan_Easy-Easy-BTR-2#10403",
+      "type": "BTR-80",
+      "x": 213132.9,
+      "z": 9799.4,
+      "alt": 92.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Easy [r] combatZone_Ceyhan_Easy-Easy-T55-2#10402",
+      "type": "T-55",
+      "x": 212730.1,
+      "z": 9679.8,
+      "alt": 87.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Easy [r] combatZone_Ceyhan_Easy-Easy-Trucks#10401",
+      "type": "Ural-375",
+      "x": 213264.6,
+      "z": 9304.5,
+      "alt": 124.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Easy [r] combatZone_Ceyhan_Easy-Easy-Trucks#10401",
+      "type": "Ural-375",
+      "x": 213284.6,
+      "z": 9304.5,
+      "alt": 126.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Easy [r] combatZone_Ceyhan_Easy-Easy-Trucks#10401",
+      "type": "ZIL-131 KUNG",
+      "x": 213304.6,
+      "z": 9304.5,
+      "alt": 127.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Easy [r] combatZone_Ceyhan_Easy-Easy-Fuel#10400",
+      "type": "ATZ-10",
+      "x": 213351.3,
+      "z": 9441.8,
+      "alt": 126.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Easy [r] combatZone_Ceyhan_Easy-Easy-BTR-1#10399",
+      "type": "BTR-80",
+      "x": 213092.1,
+      "z": 9760.9,
+      "alt": 91.8
+    }
+  ],
+  "image": "ceyhan-easy.jpg",
+  "heading": 99,
+  "pitch": -30.0,
+  "x": 213283.75777594035,
+  "y": 8457.083507528643,
+  "altitude_m": 733,
+  "order": 1
+}

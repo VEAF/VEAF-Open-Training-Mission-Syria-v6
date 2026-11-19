@@ -1,0 +1,106 @@
+{
+  "name": "convoypalmyra",
+  "title": "Z09 Convoi — Homs-Palmyre",
+  "heading_deg": 152.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_ConvoyPalmyra",
+  "camera": {
+    "position": [
+      -48316.973639290976,
+      954.3333333333333,
+      106120.5220868305
+    ],
+    "forward": [
+      -0.7646550456261504,
+      -0.49999999999999994,
+      0.40657429972696246
+    ],
+    "up": [
+      -0.44147379642946344,
+      0.8660254037844387,
+      0.23473578139294532
+    ],
+    "right": [
+      -0.4694715627858907,
+      0.0,
+      -0.882947592858927
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -48775.76666666667,
+    "z": 106364.46666666667,
+    "alt_m": 654.3333333333334,
+    "lat": 34.60650354872236,
+    "lon": 37.075780241146376,
+    "dms": "N34°36'23.41\" E037°04'32.81\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:41",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoyPalmyra [r] combatZone_ConvoyPalmyra-Convoy#10501",
+      "type": "BMP-2",
+      "x": -48805.3,
+      "z": 106406.7,
+      "alt": 655.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoyPalmyra [r] combatZone_ConvoyPalmyra-Convoy#10501",
+      "type": "Ural-375",
+      "x": -48810.0,
+      "z": 106356.6,
+      "alt": 654.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoyPalmyra [r] combatZone_ConvoyPalmyra-Convoy#10501",
+      "type": "ATZ-10",
+      "x": -48789.9,
+      "z": 106355.8,
+      "alt": 654.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoyPalmyra [r] combatZone_ConvoyPalmyra-Convoy#10501",
+      "type": "ATZ-10",
+      "x": -48769.8,
+      "z": 106355.9,
+      "alt": 654.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoyPalmyra [r] combatZone_ConvoyPalmyra-Convoy#10501",
+      "type": "Ural-4320T",
+      "x": -48749.8,
+      "z": 106355.9,
+      "alt": 653.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoyPalmyra [r] combatZone_ConvoyPalmyra-Convoy#10501",
+      "type": "ZSU-23-4 Shilka",
+      "x": -48729.8,
+      "z": 106355.9,
+      "alt": 653.4
+    }
+  ],
+  "image": "convoypalmyra.jpg",
+  "heading": 152,
+  "pitch": -30.0,
+  "x": -48316.973639290976,
+  "y": 106120.5220868305,
+  "altitude_m": 954,
+  "order": 18
+}

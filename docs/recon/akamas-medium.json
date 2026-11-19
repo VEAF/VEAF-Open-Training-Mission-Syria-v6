@@ -1,0 +1,258 @@
+{
+  "name": "akamas-medium",
+  "title": "A2 Attaque Akamas — moyen",
+  "heading_deg": 233.0,
+  "pitch_deg": 30.0,
+  "slant_m": 5100.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Akamas_Medium",
+  "camera": {
+    "position": [
+      17474.822201986848,
+      2677.3999999999996,
+      -310461.8629356669
+    ],
+    "forward": [
+      -0.521187098428794,
+      -0.49999999999999994,
+      -0.691638640065298
+    ],
+    "up": [
+      -0.3009075115760241,
+      0.8660254037844387,
+      -0.39931775502364636
+    ],
+    "right": [
+      0.7986355100472928,
+      0.0,
+      -0.6018150231520483
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 14816.768,
+    "z": -313989.22,
+    "alt_m": 127.4,
+    "lat": 35.01852508668815,
+    "lon": 32.46334608952503,
+    "dms": "N35°01'06.69\" E032°27'48.05\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:33",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] combatZone_Akamas_Easy-Easy-BMP-2#10451",
+      "type": "BMP-2",
+      "x": 14985.5,
+      "z": -313977.3,
+      "alt": 115.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] combatZone_Akamas_Easy-Easy-T72-1#10450",
+      "type": "T-72B",
+      "x": 14258.6,
+      "z": -314254.9,
+      "alt": 104.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] combatZone_Akamas_Easy-Easy-T72-3#10449",
+      "type": "T-72B",
+      "x": 14386.8,
+      "z": -314284.4,
+      "alt": 100.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] combatZone_Akamas_Easy-Easy-T72-4#10448",
+      "type": "T-72B",
+      "x": 14393.4,
+      "z": -314241.5,
+      "alt": 104.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] combatZone_Akamas_Easy-Easy-BMP-3#10447",
+      "type": "BMP-2",
+      "x": 15047.2,
+      "z": -313993.0,
+      "alt": 111.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] combatZone_Akamas_Easy-Easy-Convoy#10446",
+      "type": "Ural-375",
+      "x": 15182.3,
+      "z": -314746.9,
+      "alt": 99.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] combatZone_Akamas_Easy-Easy-Convoy#10446",
+      "type": "KAMAZ Truck",
+      "x": 15202.3,
+      "z": -314746.9,
+      "alt": 99.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] combatZone_Akamas_Easy-Easy-Convoy#10446",
+      "type": "Ural-4320T",
+      "x": 15222.3,
+      "z": -314746.9,
+      "alt": 99.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] Air Defense Battery#10444",
+      "type": "Dog Ear radar",
+      "x": 13505.9,
+      "z": -313558.0,
+      "alt": 155.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] Air Defense Battery#10444",
+      "type": "ZSU-23-4 Shilka",
+      "x": 13391.9,
+      "z": -313599.0,
+      "alt": 161.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] Air Defense Battery#10444",
+      "type": "Ural-4320-31",
+      "x": 13411.9,
+      "z": -313549.0,
+      "alt": 163.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] Air Defense Battery#10444",
+      "type": "Ural-4320-31",
+      "x": 13459.9,
+      "z": -313507.0,
+      "alt": 163.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] Air Defense Battery#10444",
+      "type": "Strela-1 9P31",
+      "x": 13368.9,
+      "z": -313538.0,
+      "alt": 168.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] Air Defense Battery#10444",
+      "type": "ZSU_57_2",
+      "x": 13427.9,
+      "z": -313407.0,
+      "alt": 188.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] combatZone_Akamas_Easy-Easy-T72-2#10442",
+      "type": "T-72B",
+      "x": 14339.6,
+      "z": -314259.9,
+      "alt": 102.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] combatZone_Akamas_Easy-Easy-BMP-1#10441",
+      "type": "BMP-2",
+      "x": 14989.9,
+      "z": -314008.0,
+      "alt": 111.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] Armored Platoon#10440",
+      "type": "BMP-2",
+      "x": 16366.7,
+      "z": -313619.4,
+      "alt": 133.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] Armored Platoon#10440",
+      "type": "T-55",
+      "x": 16213.7,
+      "z": -313624.4,
+      "alt": 142.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] Armored Platoon#10440",
+      "type": "T-55",
+      "x": 16367.7,
+      "z": -313498.4,
+      "alt": 141.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] Armored Platoon#10440",
+      "type": "BMP-2",
+      "x": 16464.7,
+      "z": -313553.4,
+      "alt": 136.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] Armored Platoon#10440",
+      "type": "VAB_Mephisto",
+      "x": 16244.7,
+      "z": -313668.4,
+      "alt": 138.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] Armored Platoon#10440",
+      "type": "VAB_Mephisto",
+      "x": 16304.7,
+      "z": -313504.4,
+      "alt": 143.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Akamas_Medium [r] Armored Platoon#10440",
+      "type": "T-55",
+      "x": 16452.7,
+      "z": -313642.4,
+      "alt": 130.1
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Akamas_Medium [r] combatZone_Akamas_Easy-Easy-Fuel#10443 #130",
+      "type": "Fuel tank",
+      "x": 13690.0,
+      "z": -315141.0,
+      "alt": 86.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Akamas_Medium [r] combatZone_Akamas_Easy-Easy-Depot#10445 #129",
+      "type": "Warehouse",
+      "x": 13740.0,
+      "z": -315061.0,
+      "alt": 84.3
+    }
+  ],
+  "image": "akamas-medium.jpg",
+  "heading": 233,
+  "pitch": -30.0,
+  "x": 17474.822201986848,
+  "y": -310461.8629356669,
+  "altitude_m": 2677,
+  "order": 5
+}

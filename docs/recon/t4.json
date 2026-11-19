@@ -1,0 +1,146 @@
+{
+  "name": "t4",
+  "title": "Z16 OCA — T4 (Tiyas)",
+  "heading_deg": 145.0,
+  "pitch_deg": 30.0,
+  "slant_m": 4800.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_T4",
+  "camera": {
+    "position": [
+      -55494.93980549304,
+      2949.227272727272,
+      153369.50571033583
+    ],
+    "forward": [
+      -0.7094064799162226,
+      -0.49999999999999994,
+      0.496731764892154
+    ],
+    "up": [
+      -0.4095760221444959,
+      0.8660254037844387,
+      0.2867882181755229
+    ],
+    "right": [
+      -0.5735764363510459,
+      0.0,
+      -0.8191520442889919
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -58900.09090909091,
+    "z": 155753.81818181818,
+    "alt_m": 549.2272727272727,
+    "lat": 34.52253462952656,
+    "lon": 37.615768679441814,
+    "dms": "N34°31'21.12\" E037°36'56.77\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:46",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_T4 [r] SA15#10546",
+      "type": "Tor 9A331",
+      "x": -60164.0,
+      "z": 156625.0,
+      "alt": 548.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_T4 [r] SA15#10546",
+      "type": "GAZ-66",
+      "x": -60187.0,
+      "z": 156638.0,
+      "alt": 548.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_T4 [r] SA22#10545",
+      "type": "CHAP_PantsirS1",
+      "x": -57693.0,
+      "z": 154725.0,
+      "alt": 550.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_T4 [r] SA22#10545",
+      "type": "GAZ-66",
+      "x": -57668.0,
+      "z": 154742.0,
+      "alt": 550.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_T4 [r] combatZone_T4-Hangar#10540 #239",
+      "type": "Shelter",
+      "x": -58677.0,
+      "z": 156086.0,
+      "alt": 548.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_T4 [r] combatZone_T4-Su24-1#10541 #234",
+      "type": "Su-24M",
+      "x": -58877.0,
+      "z": 155936.0,
+      "alt": 550.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_T4 [r] combatZone_T4-Su17-1#10542 #236",
+      "type": "Su-17M4",
+      "x": -59027.0,
+      "z": 155886.0,
+      "alt": 549.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_T4 [r] combatZone_T4-CC#10543 #240",
+      "type": ".Command Center",
+      "x": -59227.0,
+      "z": 155336.0,
+      "alt": 548.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_T4 [r] combatZone_T4-Su24-2#10544 #235",
+      "type": "Su-24M",
+      "x": -58827.0,
+      "z": 155966.0,
+      "alt": 550.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_T4 [r] combatZone_T4-Mi24-1#10547 #238",
+      "type": "Mi-24V",
+      "x": -58577.0,
+      "z": 155436.0,
+      "alt": 549.5
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_T4 [r] combatZone_T4-Su17-2#10548 #237",
+      "type": "Su-17M4",
+      "x": -58977.0,
+      "z": 155916.0,
+      "alt": 549.7
+    }
+  ],
+  "image": "t4.jpg",
+  "heading": 145,
+  "pitch": -30.0,
+  "x": -55494.93980549304,
+  "y": 153369.50571033583,
+  "altitude_m": 2949,
+  "order": 25
+}

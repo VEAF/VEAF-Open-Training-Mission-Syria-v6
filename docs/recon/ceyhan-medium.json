@@ -1,0 +1,250 @@
+{
+  "name": "ceyhan-medium",
+  "title": "H2 Hélico Ceyhan — moyen",
+  "heading_deg": 99.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3850.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Ceyhan_Medium",
+  "camera": {
+    "position": [
+      213761.06261656288,
+      2045.3624999999997,
+      6334.514203188218
+    ],
+    "forward": [
+      -0.13547622075226856,
+      -0.49999999999999994,
+      0.8553631939770864
+    ],
+    "up": [
+      -0.07821723252011539,
+      0.8660254037844387,
+      0.49384417029756883
+    ],
+    "right": [
+      -0.9876883405951378,
+      0.0,
+      -0.1564344650402308
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 213239.47916666666,
+    "z": 9627.6625,
+    "alt_m": 120.3625,
+    "lat": 36.944430082906734,
+    "lon": 35.93245252024228,
+    "dms": "N36°56'39.95\" E035°55'56.83\""
+  },
+  "theatre": "Syria",
+  "date": "2017-06-15",
+  "time": "11:31",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] Strela-10M3#10414",
+      "type": "Strela-10M3",
+      "x": 212437.2,
+      "z": 8627.3,
+      "alt": 113.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] combatZone_Ceyhan_Easy-Easy-BTR-2#10413",
+      "type": "BTR-80",
+      "x": 213152.9,
+      "z": 9808.5,
+      "alt": 92.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] combatZone_Ceyhan_Easy-Easy-Fuel#10412",
+      "type": "ATZ-10",
+      "x": 213362.4,
+      "z": 9450.9,
+      "alt": 126.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] combatZone_Ceyhan_Easy-Easy-T55-1#10411",
+      "type": "T-55",
+      "x": 212757.6,
+      "z": 9596.8,
+      "alt": 88.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] Air Defense Battery#10410",
+      "type": "Ural-4320-31",
+      "x": 213580.8,
+      "z": 8827.0,
+      "alt": 186.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] Air Defense Battery#10410",
+      "type": "Dog Ear radar",
+      "x": 213544.8,
+      "z": 8854.0,
+      "alt": 179.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] Air Defense Battery#10410",
+      "type": "ZSU-23-4 Shilka",
+      "x": 213548.8,
+      "z": 8914.0,
+      "alt": 172.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] Air Defense Battery#10410",
+      "type": "Ural-4320-31",
+      "x": 213654.8,
+      "z": 9010.0,
+      "alt": 172.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] Air Defense Battery#10410",
+      "type": "ZSU-23-4 Shilka",
+      "x": 213524.8,
+      "z": 8823.0,
+      "alt": 181.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] combatZone_Ceyhan_Easy-Easy-Trucks#10409",
+      "type": "Ural-375",
+      "x": 213264.4,
+      "z": 9316.6,
+      "alt": 124.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] combatZone_Ceyhan_Easy-Easy-Trucks#10409",
+      "type": "Ural-375",
+      "x": 213284.4,
+      "z": 9316.6,
+      "alt": 125.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] combatZone_Ceyhan_Easy-Easy-Trucks#10409",
+      "type": "ZIL-131 KUNG",
+      "x": 213304.4,
+      "z": 9316.6,
+      "alt": 127.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] combatZone_Ceyhan_Easy-Easy-BTR-1#10408",
+      "type": "BTR-80",
+      "x": 213087.3,
+      "z": 9750.9,
+      "alt": 91.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] combatZone_Ceyhan_Easy-Easy-T55-2#10407",
+      "type": "T-55",
+      "x": 212666.3,
+      "z": 9667.3,
+      "alt": 86.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] Red Manpad Squad#10406",
+      "type": "SA-18 Igla manpad",
+      "x": 213855.9,
+      "z": 10254.1,
+      "alt": 115.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] Red Manpad Squad#10406",
+      "type": "SA-18 Igla manpad",
+      "x": 213757.9,
+      "z": 10243.1,
+      "alt": 110.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] Red Manpad Squad#10406",
+      "type": "Infantry AK",
+      "x": 213767.9,
+      "z": 10301.1,
+      "alt": 111.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] Red Manpad Squad#10406",
+      "type": "Infantry AK",
+      "x": 213861.9,
+      "z": 10340.1,
+      "alt": 116.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] Red Manpad Squad#10406",
+      "type": "Infantry AK",
+      "x": 213802.9,
+      "z": 10321.1,
+      "alt": 112.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] Red Manpad Squad#10406",
+      "type": "UAZ-469",
+      "x": 213816.9,
+      "z": 10261.1,
+      "alt": 113.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] Air Defense Battery#10405",
+      "type": "Ural-4320-31",
+      "x": 212388.3,
+      "z": 10113.7,
+      "alt": 88.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] Air Defense Battery#10405",
+      "type": "Ural-4320-31",
+      "x": 212414.3,
+      "z": 9977.7,
+      "alt": 84.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] Air Defense Battery#10405",
+      "type": "S-60_Type59_Artillery",
+      "x": 212443.3,
+      "z": 9915.7,
+      "alt": 84.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Ceyhan_Medium [r] Air Defense Battery#10405",
+      "type": "Ural-375 ZU-23",
+      "x": 212467.3,
+      "z": 10056.7,
+      "alt": 84.0
+    }
+  ],
+  "image": "ceyhan-medium.jpg",
+  "heading": 99,
+  "pitch": -30.0,
+  "x": 213761.06261656288,
+  "y": 6334.514203188218,
+  "altitude_m": 2045,
+  "order": 2
+}
